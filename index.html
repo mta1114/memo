@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1f3a68">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Mémo">
+<meta name="description" content="Fransızca kelime kartları ve dinleme alıştırmaları">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<title>Mémo</title>
+</head>
+<body>
+<header id="top"><span class="logo">Mémo</span></header>
+<main id="view"><div class="empty-state"><div class="spinner"></div></div></main>
+<nav id="tabs">
+  <a href="#/"><span>🃏</span>Kartlar</a>
+  <a href="#/texts"><span>🎧</span>Dinle</a>
+  <a href="#/stats"><span>📈</span>İstatistik</a>
+  <a href="#/settings"><span>⚙️</span>Ayarlar</a>
+</nav>
+<div id="sheet"></div>
+<div id="toast" role="status"></div>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

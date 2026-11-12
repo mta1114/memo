@@ -1,0 +1,633 @@
+=== METİN ===
+#başlık: Le télétravail, une révolution discrète
+#seviye: B2
+#konu: İş
+#metin:
+Depuis quelques années, le [[télétravail]] s'est largement répandu en France. Ce qui était autrefois une exception est devenu, pour de nombreux [[salariés]], une façon normale de travailler. Selon un [[sondage]] récent, plus d'un tiers des employés de bureau travaillent au moins deux jours par semaine depuis chez eux.
+
+Les [[avantages]] sont nombreux. Les salariés gagnent du temps, car ils n'ont plus besoin de passer des heures dans les transports. Ils peuvent aussi mieux organiser leur journée et concilier vie professionnelle et vie privée. Pour les [[employeurs]], le télétravail permet de [[réduire]] le [[coût]] des bureaux. En revanche, cette organisation présente aussi des [[inconvénients]]. Certains salariés se sentent isolés et ont du mal à séparer le travail de la maison. D'autres travaillent davantage, car ils ne savent plus quand s'arrêter.
+
+Face à ces difficultés, beaucoup d'entreprises choisissent un modèle hybride, qui combine des jours au bureau et des jours à la maison. Les experts [[soulignent]] l'importance de garder des moments d'échange en personne. Selon eux, le [[défi]] des prochaines années sera de trouver un équilibre qui préserve à la fois l'efficacité et le [[bien-être]] des équipes.
+#çoktan-seçmeli:
+1. Selon le sondage, combien d'employés de bureau télétravaillent au moins deux jours par semaine ?
+a) Moins de dix pour cent
+b) Plus d'un tiers *
+c) La moitié
+d) Presque tous
+#açıklama: "Plus d'un tiers" = üçte birinden fazlası.
+2. Quel avantage du télétravail est cité pour les salariés ?
+a) Un salaire plus élevé
+b) Moins de réunions
+c) Du temps gagné sur les transports *
+d) Plus de vacances
+#açıklama: Ulaşımda saatler kaybetmedikleri için zaman kazanıyorlar.
+3. Quel avantage pour les employeurs ?
+a) Réduire le coût des bureaux *
+b) Embaucher moins de personnes
+c) Contrôler davantage les salariés
+d) Payer moins d'impôts
+#açıklama: Ofis maliyetini azaltmak.
+4. Pourquoi certains télétravailleurs travaillent-ils davantage ?
+a) Parce qu'ils sont mieux payés
+b) Parce qu'ils ne savent plus quand s'arrêter *
+c) Parce que leur patron l'exige
+d) Parce qu'ils s'ennuient
+#açıklama: Ne zaman duracaklarını bilemiyorlar.
+5. Qu'est-ce qu'un modèle hybride ?
+a) Travailler uniquement à la maison
+b) Travailler la nuit
+c) Combiner des jours au bureau et des jours à la maison *
+d) Changer d'entreprise chaque année
+#açıklama: Ofis ve ev günlerini birleştiren model.
+#açık-uçlu:
+1. Comment le télétravail était-il considéré autrefois ?
+#örnek-cevap: C'était une exception.
+#anahtar-kelimeler: exception
+2. Qu'est-ce que les salariés peuvent mieux concilier grâce au télétravail ?
+#örnek-cevap: Ils peuvent concilier vie professionnelle et vie privée.
+#anahtar-kelimeler: professionnelle, privée
+3. Quels problèmes rencontrent certains salariés ?
+#örnek-cevap: Ils se sentent isolés et ont du mal à séparer le travail de la maison.
+#anahtar-kelimeler: isolés, séparer
+4. Selon les experts, qu'est-ce qu'il faut garder ?
+#örnek-cevap: Il faut garder des moments d'échange en personne.
+#anahtar-kelimeler: échange, personne
+5. Quel sera le défi des prochaines années ?
+#örnek-cevap: Trouver un équilibre qui préserve l'efficacité et le bien-être des équipes.
+#anahtar-kelimeler: équilibre, efficacité, bien-être
+#sözlük:
+la révolution | devrim | dişil
+discret, discrète | sessiz, göze batmayan | sıfat
+se répandre | yayılmak | fiil
+répandu | yaygın | sıfat
+l'exception | istisna | dişil
+le tiers | üçte bir | eril
+l'employé | çalışan | eril
+concilier | bağdaştırmak, uzlaştırmak | fiil
+professionnel, professionnelle | mesleki | sıfat
+l'organisation | düzen, örgütlenme | dişil
+isolé | yalnız kalmış, izole | sıfat
+séparer | ayırmak | fiil
+s'arrêter | durmak | fiil
+la difficulté | zorluk | dişil
+le modèle | model | eril
+hybride | karma, hibrit | sıfat
+combiner | birleştirmek | fiil
+l'expert | uzman | eril
+l'importance | önem | dişil
+en personne | yüz yüze, bizzat | ifade
+l'équilibre | denge | eril
+préserver | korumak | fiil
+l'efficacité | verimlilik | dişil
+l'équipe | ekip | dişil
+télétravailler | uzaktan çalışmak | fiil
+le télétravailleur | uzaktan çalışan | eril
+
+=== METİN ===
+#başlık: Les jeunes et les réseaux sociaux
+#seviye: B2
+#konu: Toplum
+#metin:
+Les adolescents passent en moyenne plus de trois heures par jour sur les [[réseaux]] sociaux. Pour eux, ces plateformes sont un moyen de rester en contact avec leurs amis, de s'informer et de s'exprimer. Cependant, de plus en plus de parents et d'enseignants s'[[inquiètent]] de cette utilisation intensive.
+
+Plusieurs [[études]] montrent un lien entre le temps passé devant les [[écrans]] et certains troubles, comme le manque de sommeil ou l'anxiété. Les jeunes se comparent sans cesse aux images parfaites qu'ils voient en ligne, ce qui peut [[affecter]] leur confiance en eux. Par ailleurs, la question de la [[vie privée]] est essentielle : beaucoup d'adolescents partagent des photos et des informations personnelles sans mesurer les [[conséquences]].
+
+Pourtant, il serait injuste de voir les réseaux sociaux uniquement de manière négative. Ils permettent aussi de découvrir de nouvelles idées, de s'[[engager]] pour des causes et de créer. Selon les spécialistes, l'interdiction n'est pas la [[solution]]. Il vaut mieux apprendre aux jeunes à utiliser ces outils de façon responsable. Certaines écoles proposent déjà des ateliers d'éducation aux médias, où les élèves apprennent à reconnaître les fausses informations et à protéger leurs [[données]].
+#çoktan-seçmeli:
+1. Combien de temps les adolescents passent-ils en moyenne sur les réseaux sociaux ?
+a) Une heure par jour
+b) Plus de trois heures par jour *
+c) Dix heures par semaine
+d) Toute la nuit
+#açıklama: Ortalama günde üç saatten fazla.
+2. Quels troubles sont liés au temps passé devant les écrans ?
+a) Les maux de dos et la fièvre
+b) Le manque de sommeil et l'anxiété *
+c) La faim et la soif
+d) Les allergies
+#açıklama: Uyku eksikliği ve kaygı.
+3. Pourquoi la confiance des jeunes peut-elle être affectée ?
+a) Parce qu'ils reçoivent des insultes
+b) Parce qu'ils se comparent à des images parfaites *
+c) Parce qu'ils n'ont pas d'amis
+d) Parce qu'ils lisent trop
+#açıklama: İnternette gördükleri kusursuz görüntülerle kendilerini karşılaştırıyorlar.
+4. Que pensent les spécialistes de l'interdiction ?
+a) C'est la meilleure solution
+b) Ce n'est pas la solution *
+c) Elle doit commencer à dix ans
+d) Elle est déjà en place
+#açıklama: Yasaklama çözüm değil; sorumlu kullanımı öğretmek gerek.
+5. Que font certaines écoles ?
+a) Elles interdisent les téléphones
+b) Elles proposent des ateliers d'éducation aux médias *
+c) Elles créent leur propre réseau social
+d) Elles donnent des cours d'informatique
+#açıklama: Medya okuryazarlığı atölyeleri düzenliyorlar.
+#açık-uçlu:
+1. Pourquoi les adolescents utilisent-ils les réseaux sociaux ?
+#örnek-cevap: Pour rester en contact avec leurs amis, s'informer et s'exprimer.
+#anahtar-kelimeler: contact, amis, informer
+2. Qui s'inquiète de cette utilisation intensive ?
+#örnek-cevap: Les parents et les enseignants.
+#anahtar-kelimeler: parents, enseignants
+3. Quel problème est lié à la vie privée ?
+#örnek-cevap: Les adolescents partagent des photos et des informations personnelles sans mesurer les conséquences.
+#anahtar-kelimeler: partagent, informations, conséquences
+4. Quels aspects positifs des réseaux sociaux sont mentionnés ?
+#örnek-cevap: Ils permettent de découvrir de nouvelles idées, de s'engager pour des causes et de créer.
+#anahtar-kelimeler: idées, causes, créer
+5. Qu'apprennent les élèves dans les ateliers ?
+#örnek-cevap: Ils apprennent à reconnaître les fausses informations et à protéger leurs données.
+#anahtar-kelimeler: fausses informations, données
+#sözlük:
+l'adolescent | ergen | eril
+en moyenne | ortalama olarak | ifade
+la plateforme | platform | dişil
+s'informer | bilgi edinmek | fiil
+s'exprimer | kendini ifade etmek | fiil
+l'enseignant | öğretmen | eril
+l'utilisation | kullanım | dişil
+intensif, intensive | yoğun | sıfat
+le trouble | bozukluk, sorun | eril
+le manque | eksiklik | eril
+l'anxiété | kaygı | dişil
+se comparer | kendini karşılaştırmak | fiil
+sans cesse | durmadan | ifade
+l'image | görüntü, resim | dişil
+parfait | kusursuz, mükemmel | sıfat
+en ligne | çevrimiçi | ifade
+affecter | etkilemek | fiil
+par ailleurs | öte yandan | ifade
+personnel, personnelle | kişisel | sıfat
+mesurer | ölçmek; tartmak | fiil
+injuste | adaletsiz | sıfat
+uniquement | yalnızca | zarf
+négatif, négative | olumsuz | sıfat
+l'interdiction | yasak | dişil
+responsable | sorumlu | sıfat
+l'atelier | atölye | eril
+l'élève | öğrenci (okul) | eril/dişil
+inquiètent = s'inquiéter
+s'inquiéter | endişelenmek | fiil
+serait = être
+
+=== METİN ===
+#başlık: La ville de demain
+#seviye: B2
+#konu: Toplum
+#metin:
+Aujourd'hui, plus de la moitié de la population mondiale vit en ville, et cette proportion ne cesse d'[[augmenter]]. Cette [[urbanisation]] rapide pose des questions essentielles : comment loger tout le monde, comment se déplacer et comment préserver la qualité de l'air ? Les urbanistes imaginent déjà la ville de demain.
+
+Dans plusieurs capitales européennes, les mairies ont [[mis en place]] des mesures ambitieuses. À Paris, par exemple, de nombreuses rues ont été réservées aux piétons et aux cyclistes. Les [[transports en commun]] se développent, tandis que la place de la voiture diminue. Les toits des immeubles se couvrent de jardins, qui permettent de rafraîchir les quartiers en été. Ces projets visent à [[réduire]] la pollution et à améliorer le [[bien-être]] des habitants.
+
+Néanmoins, ces transformations ne font pas l'unanimité. Certains commerçants craignent de perdre des clients, et les habitants de la [[banlieue]] dénoncent des décisions prises sans [[tenir compte]] de leurs besoins. En effet, ceux qui vivent loin du centre dépendent souvent de leur voiture. Pour les spécialistes, la ville [[durable]] ne sera possible que si elle reste accessible à tous. L'[[enjeu]] est donc autant social qu'[[environnemental]].
+#çoktan-seçmeli:
+1. Quelle part de la population mondiale vit en ville ?
+a) Un quart
+b) Un tiers
+c) Plus de la moitié *
+d) Presque toute
+#açıklama: Dünya nüfusunun yarısından fazlası şehirde yaşıyor.
+2. Qu'a fait Paris selon le texte ?
+a) Construire des autoroutes
+b) Réserver des rues aux piétons et aux cyclistes *
+c) Interdire les transports en commun
+d) Supprimer les jardins
+#açıklama: Birçok sokak yayalara ve bisikletlilere ayrıldı.
+3. À quoi servent les jardins sur les toits ?
+a) À produire de l'électricité
+b) À rafraîchir les quartiers en été *
+c) À loger des animaux
+d) À attirer les touristes
+#açıklama: Yazın mahalleleri serinletiyorlar.
+4. Pourquoi certains commerçants sont-ils inquiets ?
+a) Ils craignent de perdre des clients *
+b) Les loyers baissent
+c) Ils n'aiment pas les jardins
+d) Ils veulent plus de voitures électriques
+#açıklama: Müşteri kaybetmekten korkuyorlar.
+5. Selon les spécialistes, à quelle condition la ville durable sera-t-elle possible ?
+a) Si elle interdit toutes les voitures
+b) Si elle reste accessible à tous *
+c) Si elle devient plus petite
+d) Si les loyers augmentent
+#açıklama: Ancak herkes için erişilebilir kalırsa mümkün olacak.
+#açık-uçlu:
+1. Quelles questions pose l'urbanisation rapide ?
+#örnek-cevap: Comment loger tout le monde, comment se déplacer et comment préserver la qualité de l'air.
+#anahtar-kelimeler: loger, déplacer, air
+2. Qu'arrive-t-il à la place de la voiture dans ces villes ?
+#örnek-cevap: La place de la voiture diminue.
+#anahtar-kelimeler: diminue
+3. Quels sont les objectifs de ces projets ?
+#örnek-cevap: Réduire la pollution et améliorer le bien-être des habitants.
+#anahtar-kelimeler: pollution, bien-être
+4. Que reprochent les habitants de la banlieue ?
+#örnek-cevap: Ils dénoncent des décisions prises sans tenir compte de leurs besoins.
+#anahtar-kelimeler: décisions, besoins
+5. Pourquoi les habitants éloignés du centre ont-ils besoin de leur voiture ?
+#örnek-cevap: Parce qu'ils vivent loin du centre et dépendent souvent de leur voiture.
+#anahtar-kelimeler: loin, centre
+#sözlük:
+la population | nüfus | dişil
+la proportion | oran | dişil
+cesser | durmak, kesmek | fiil
+ne cesse de | durmadan ... -mekte | ifade
+loger | barındırmak, yerleştirmek | fiil
+se déplacer | yer değiştirmek, ulaşım sağlamak | fiil
+la qualité | kalite | dişil
+l'urbaniste | şehir plancısı | eril/dişil
+la capitale | başkent | dişil
+européen, européenne | Avrupalı | sıfat
+ambitieux, ambitieuse | iddialı, hırslı | sıfat
+le piéton | yaya | eril
+le cycliste | bisikletli | eril
+se développer | gelişmek | fiil
+le toit | çatı | eril
+se couvrir | örtülmek, kaplanmak | fiil
+rafraîchir | serinletmek | fiil
+viser | hedeflemek | fiil
+l'habitant | sakin, yaşayan | eril
+la transformation | dönüşüm | dişil
+l'unanimité | oybirliği | dişil
+faire l'unanimité | herkesin onayını almak | ifade
+craindre | korkmak, çekinmek | fiil
+le client | müşteri | eril
+dénoncer | kınamak, ifşa etmek | fiil
+accessible | erişilebilir | sıfat
+autant | o kadar, aynı ölçüde | zarf
+reprocher | sitem etmek, kusur bulmak | fiil
+éloigné | uzak | sıfat
+mis en place = mettre en place
+mis = mettre
+prises = prendre
+
+=== METİN ===
+#başlık: Le gaspillage alimentaire
+#seviye: B2
+#konu: Çevre
+#metin:
+Chaque année, environ un tiers de la nourriture produite dans le monde est jetée sans avoir été mangée. En France, chaque habitant jette en moyenne une trentaine de kilos d'aliments par an. Ce [[gaspillage]] a des [[conséquences]] économiques, mais aussi [[environnementales]] : produire, transporter et détruire cette nourriture consomme de l'eau, de l'énergie et entraîne des [[émissions]] de gaz à effet de serre.
+
+Le problème concerne toute la chaîne alimentaire. Les supermarchés jettent des produits dont la date limite approche, les restaurants préparent souvent trop, et les familles achètent plus que nécessaire. Pour lutter contre ce [[phénomène]], la loi française [[interdit]] désormais aux grandes surfaces de détruire les invendus. Elles doivent les donner à des [[associations]] qui les distribuent aux personnes dans le besoin.
+
+À la maison aussi, chacun peut agir. Il suffit souvent de faire une liste avant les courses, de bien [[ranger]] son réfrigérateur et d'utiliser les restes pour préparer de nouveaux repas. Des applications permettent même d'acheter à petit prix les produits que les commerçants n'ont pas vendus. Ces gestes simples [[contribuent]] à protéger la planète tout en faisant des [[économies]].
+#çoktan-seçmeli:
+1. Quelle part de la nourriture produite dans le monde est jetée ?
+a) Un dixième
+b) Un tiers *
+c) La moitié
+d) Les trois quarts
+#açıklama: Üretilen yiyeceklerin yaklaşık üçte biri atılıyor.
+2. Combien de kilos d'aliments un Français jette-t-il en moyenne par an ?
+a) Environ trois kilos
+b) Environ trente kilos *
+c) Environ trois cents kilos
+d) Environ cent kilos
+#açıklama: "Une trentaine de kilos" = otuz kilo kadar.
+3. Que fait la loi française ?
+a) Elle oblige les familles à trier
+b) Elle interdit aux grandes surfaces de détruire les invendus *
+c) Elle ferme les restaurants
+d) Elle baisse le prix des aliments
+#açıklama: Büyük marketlerin satılmayan ürünleri imha etmesini yasaklıyor.
+4. À qui les grandes surfaces doivent-elles donner les invendus ?
+a) À leurs employés
+b) Aux agriculteurs
+c) À des associations *
+d) À l'État
+#açıklama: İhtiyaç sahiplerine dağıtan derneklere.
+5. Que permettent certaines applications ?
+a) Commander des repas à domicile
+b) Acheter à petit prix les produits non vendus *
+c) Calculer ses calories
+d) Trouver des recettes
+#açıklama: Satılmayan ürünleri ucuza almayı sağlıyor.
+#açık-uçlu:
+1. Pourquoi le gaspillage a-t-il des conséquences environnementales ?
+#örnek-cevap: Parce que produire, transporter et détruire la nourriture consomme de l'eau et de l'énergie et entraîne des émissions.
+#anahtar-kelimeler: eau, énergie, émissions
+2. Pourquoi les supermarchés jettent-ils des produits ?
+#örnek-cevap: Parce que leur date limite approche.
+#anahtar-kelimeler: date limite
+3. Quelle erreur font souvent les restaurants ?
+#örnek-cevap: Ils préparent souvent trop.
+#anahtar-kelimeler: trop
+4. Citez deux gestes simples qu'on peut faire à la maison.
+#örnek-cevap: Faire une liste avant les courses et utiliser les restes.
+#anahtar-kelimeler: liste, restes
+5. Quels sont les deux bénéfices de ces gestes ?
+#örnek-cevap: Ils protègent la planète et permettent de faire des économies.
+#anahtar-kelimeler: planète, économies
+#sözlük:
+le gaspillage | israf | eril
+alimentaire | gıdayla ilgili | sıfat
+la nourriture | yiyecek | dişil
+produit | üretilmiş | sıfat
+jeter | atmak | fiil
+la trentaine | otuz kadar | dişil
+le kilo | kilo | eril
+l'aliment | gıda | eril
+transporter | taşımak | fiil
+détruire | yok etmek, imha etmek | fiil
+consommer | tüketmek | fiil
+le gaz à effet de serre | sera gazı | eril
+la chaîne alimentaire | gıda zinciri | dişil
+la date limite | son kullanma tarihi | dişil
+approcher | yaklaşmak | fiil
+lutter | mücadele etmek | fiil
+la grande surface | büyük market | dişil
+l'invendu | satılmamış ürün | eril
+distribuer | dağıtmak | fiil
+dans le besoin | ihtiyaç içinde | ifade
+agir | harekete geçmek | fiil
+il suffit de | ... yeterli | ifade
+la liste | liste | dişil
+le réfrigérateur | buzdolabı | eril
+les restes | artıklar (yemek) | eril-çoğul
+l'application | uygulama | dişil
+à petit prix | ucuza | ifade
+le geste | hareket, davranış | eril
+tout en | -erken (aynı zamanda) | ifade
+faire des économies | tasarruf etmek | ifade
+les économies | birikim, tasarruf | dişil-çoğul
+le dixième | onda bir | eril
+le quart | çeyrek | eril
+l'agriculteur | çiftçi | eril
+l'État | devlet | eril
+le bénéfice | fayda; kâr | eril
+jetée = jeter
+suffit = suffire
+gaz à effet de serre = gaz à effet de serre
+
+=== METİN ===
+#başlık: L'intelligence artificielle au bureau
+#seviye: B2
+#konu: Teknoloji
+#metin:
+L'[[intelligence artificielle]] n'est plus réservée aux laboratoires de recherche. Elle est désormais présente dans de nombreux bureaux, où elle aide à rédiger des courriels, à traduire des documents ou à analyser des [[données]]. Pour beaucoup d'entreprises, ces outils représentent une source importante de gain de temps et d'[[innovation]].
+
+Toutefois, cette [[évolution]] suscite des inquiétudes. Certains salariés craignent que leur poste disparaisse, remplacé par des [[logiciels]] capables d'effectuer leurs tâches plus rapidement. D'autres s'interrogent sur la [[fiabilité]] des réponses produites par ces systèmes, qui peuvent parfois commettre des erreurs ou inventer des informations. Enfin, la protection des données confidentielles reste une préoccupation [[majeure]].
+
+Selon de nombreux économistes, l'intelligence artificielle ne va pas supprimer le travail, mais le transformer. Les métiers évolueront, et les [[compétences]] humaines comme la créativité, l'esprit critique ou la capacité à travailler en équipe deviendront encore plus précieuses. C'est pourquoi la [[formation]] des salariés est essentielle. Les entreprises qui investissent dans l'apprentissage de ces outils permettent à leurs employés de s'[[adapter]] plutôt que de [[subir]] le changement.
+#çoktan-seçmeli:
+1. Où l'intelligence artificielle est-elle désormais présente ?
+a) Seulement dans les laboratoires
+b) Dans de nombreux bureaux *
+c) Uniquement dans les écoles
+d) Dans les hôpitaux seulement
+#açıklama: Artık birçok ofiste kullanılıyor.
+2. Quelle inquiétude des salariés est mentionnée ?
+a) Travailler plus d'heures
+b) Que leur poste disparaisse *
+c) Gagner moins d'argent
+d) Changer de bureau
+#açıklama: İşlerinin yok olmasından korkuyorlar.
+3. Quel problème de fiabilité est évoqué ?
+a) Les systèmes sont trop lents
+b) Les systèmes peuvent commettre des erreurs ou inventer des informations *
+c) Les systèmes coûtent trop cher
+d) Les systèmes ne parlent qu'anglais
+#açıklama: Hata yapabiliyor ya da bilgi uydurabiliyorlar.
+4. Selon les économistes, que va faire l'IA au travail ?
+a) Le supprimer
+b) Le transformer *
+c) Le ralentir
+d) Ne rien changer
+#açıklama: İşi ortadan kaldırmayacak, dönüştürecek.
+5. Pourquoi la formation est-elle essentielle ?
+a) Pour permettre aux salariés de s'adapter *
+b) Pour vendre plus de logiciels
+c) Pour réduire les salaires
+d) Pour remplacer les managers
+#açıklama: Çalışanların değişime uyum sağlamasını mümkün kılar.
+#açık-uçlu:
+1. Citez deux tâches pour lesquelles l'IA aide au bureau.
+#örnek-cevap: Rédiger des courriels et traduire des documents.
+#anahtar-kelimeler: rédiger, traduire
+2. Que représentent ces outils pour les entreprises ?
+#örnek-cevap: Une source de gain de temps et d'innovation.
+#anahtar-kelimeler: temps, innovation
+3. Quelle autre préoccupation majeure est citée ?
+#örnek-cevap: La protection des données confidentielles.
+#anahtar-kelimeler: protection, données
+4. Quelles compétences humaines deviendront plus précieuses ?
+#örnek-cevap: La créativité, l'esprit critique et la capacité à travailler en équipe.
+#anahtar-kelimeler: créativité, esprit critique, équipe
+5. Que font les entreprises qui investissent dans la formation ?
+#örnek-cevap: Elles permettent à leurs employés de s'adapter au changement.
+#anahtar-kelimeler: adapter
+#sözlük:
+réservé | ayrılmış, özel | sıfat
+présent | mevcut | sıfat
+rédiger | yazmak, kaleme almak | fiil
+le courriel | e-posta | eril
+le document | belge | eril
+analyser | analiz etmek | fiil
+représenter | temsil etmek | fiil
+la source | kaynak | dişil
+le gain | kazanç | eril
+l'inquiétude | endişe | dişil
+remplacer | yerine koymak | fiil
+capable | yetenekli, -ebilen | sıfat
+effectuer | gerçekleştirmek | fiil
+s'interroger | sorgulamak, merak etmek | fiil
+la fiabilité | güvenilirlik | dişil
+le système | sistem | eril
+commettre | işlemek (hata, suç) | fiil
+inventer | uydurmak, icat etmek | fiil
+la protection | koruma | dişil
+confidentiel, confidentielle | gizli | sıfat
+la préoccupation | kaygı | dişil
+l'économiste | ekonomist | eril/dişil
+supprimer | kaldırmak | fiil
+transformer | dönüştürmek | fiil
+évoluer | gelişmek, değişmek | fiil
+humain | insani | sıfat
+la créativité | yaratıcılık | dişil
+l'esprit critique | eleştirel düşünce | eril
+la capacité | yetenek, kapasite | dişil
+investir | yatırım yapmak | fiil
+l'IA | yapay zekâ (kısaltma) | dişil
+le manager | yönetici | eril
+disparaisse = disparaître
+évolueront = évoluer
+deviendront = devenir
+
+=== METİN ===
+#başlık: Le bénévolat, un engagement qui change des vies
+#seviye: B2
+#konu: Toplum
+#metin:
+En France, près d'une personne sur quatre consacre une partie de son temps libre au [[bénévolat]]. Les [[bénévoles]] interviennent dans des domaines très variés : l'aide aux personnes âgées, le soutien scolaire, la protection de l'environnement ou encore l'organisation d'événements sportifs. Sans eux, de nombreuses [[associations]] ne pourraient pas fonctionner.
+
+Lucie, vingt-huit ans, s'est [[engagée]] il y a trois ans dans une association qui distribue des repas aux personnes sans abri. Au début, elle hésitait, car elle avait peu de temps libre. Aujourd'hui, elle y consacre deux soirées par semaine. Elle explique que cette expérience l'a profondément [[bouleversée]]. Elle a découvert des réalités qu'elle ignorait et elle a appris à regarder les autres sans [[préjugés]].
+
+Le bénévolat apporte aussi des bénéfices à ceux qui le pratiquent. Selon une [[étude]] récente, les bénévoles se sentent moins seuls et plus utiles à la société. De plus, cette expérience permet de développer des [[compétences]] appréciées par les employeurs, comme le travail en équipe ou la gestion de projets. Pour Lucie, le plus important reste la [[solidarité]]. Elle est convaincue que chacun, à son niveau, peut [[contribuer]] à construire une société plus juste.
+#çoktan-seçmeli:
+1. Quelle proportion de Français fait du bénévolat ?
+a) Une personne sur dix
+b) Près d'une personne sur quatre *
+c) La moitié des Français
+d) Une personne sur deux cents
+#açıklama: Yaklaşık dört kişiden biri.
+2. Que fait l'association de Lucie ?
+a) Elle aide les enfants à faire leurs devoirs
+b) Elle distribue des repas aux personnes sans abri *
+c) Elle organise des matchs de football
+d) Elle protège les animaux
+#açıklama: Evsizlere yemek dağıtıyor.
+3. Pourquoi Lucie hésitait-elle au début ?
+a) Elle avait peu de temps libre *
+b) Elle n'aimait pas cuisiner
+c) Elle habitait trop loin
+d) Ses parents n'étaient pas d'accord
+#açıklama: Boş zamanı azdı.
+4. Combien de temps consacre-t-elle aujourd'hui au bénévolat ?
+a) Un dimanche par mois
+b) Deux soirées par semaine *
+c) Tous les jours
+d) Ses vacances
+#açıklama: Haftada iki akşam.
+5. Selon l'étude, comment se sentent les bénévoles ?
+a) Plus fatigués
+b) Moins seuls et plus utiles *
+c) Plus stressés
+d) Mieux payés
+#açıklama: Daha az yalnız ve daha faydalı hissediyorlar.
+#açık-uçlu:
+1. Citez deux domaines dans lesquels les bénévoles interviennent.
+#örnek-cevap: L'aide aux personnes âgées et la protection de l'environnement.
+#anahtar-kelimeler: personnes âgées, environnement
+2. Depuis combien de temps Lucie est-elle bénévole ?
+#örnek-cevap: Depuis trois ans.
+#anahtar-kelimeler: trois ans
+3. Qu'a appris Lucie grâce à cette expérience ?
+#örnek-cevap: Elle a appris à regarder les autres sans préjugés.
+#anahtar-kelimeler: regarder, préjugés
+4. Quelles compétences appréciées par les employeurs le bénévolat développe-t-il ?
+#örnek-cevap: Le travail en équipe et la gestion de projets.
+#anahtar-kelimeler: équipe, gestion
+5. De quoi Lucie est-elle convaincue ?
+#örnek-cevap: Que chacun peut contribuer à construire une société plus juste.
+#anahtar-kelimeler: contribuer, société, juste
+#sözlük:
+le bénévolat | gönüllülük | eril
+l'engagement | bağlılık, katılım | eril
+consacrer | ayırmak, adamak | fiil
+le temps libre | boş zaman | eril
+intervenir | müdahale etmek, görev almak | fiil
+varié | çeşitli | sıfat
+âgé | yaşlı | sıfat
+le soutien scolaire | okul desteği (etüt) | eril
+le soutien | destek | eril
+scolaire | okulla ilgili | sıfat
+encore | daha; hâlâ | zarf
+sportif, sportive | sportif | sıfat
+fonctionner | işlemek, çalışmak | fiil
+sans abri | evsiz | ifade
+la soirée | akşam | dişil
+profondément | derinden | zarf
+la réalité | gerçeklik | dişil
+ignorer | bilmemek, görmezden gelmek | fiil
+apporter | getirmek, sağlamak | fiil
+pratiquer | yapmak, uygulamak | fiil
+utile | faydalı | sıfat
+apprécié | takdir edilen | sıfat
+la gestion | yönetim | dişil
+convaincu | ikna olmuş, emin | sıfat
+juste | adil; doğru | sıfat
+pourraient = pouvoir
+engagée = s'engager
+
+=== METİN ===
+#başlık: La sécheresse menace les agriculteurs
+#seviye: B2
+#konu: Çevre
+#metin:
+Depuis plusieurs étés, le sud de la France connaît des [[sécheresses]] de plus en plus fréquentes. Cette année, il n'a presque pas plu pendant trois mois, et les rivières sont à leur plus bas niveau depuis des décennies. Dans certaines communes, les autorités ont même [[interdit]] d'arroser les jardins et de laver les voitures.
+
+Les [[agriculteurs]] sont les premiers touchés. Jean-Pierre cultive du maïs depuis trente ans près de Toulouse. Il explique que ses récoltes ont [[diminué]] de moitié en deux ans. Sans eau, les plantes ne poussent pas, et il doit acheter de la nourriture pour ses animaux, ce qui augmente ses [[coûts]]. Comme beaucoup de ses collègues, il s'inquiète pour l'[[avenir]] de son exploitation.
+
+Face à cette [[crise]], certains agriculteurs changent leurs pratiques. Ils choisissent des cultures qui demandent moins d'eau, comme le sorgho, ou utilisent des systèmes d'irrigation plus [[efficaces]]. Les scientifiques rappellent que ces sécheresses sont une [[conséquence]] directe du réchauffement climatique. Selon eux, il est urgent de [[réduire]] les émissions de gaz à effet de serre, mais aussi d'[[adapter]] l'agriculture à un climat qui a déjà changé.
+#çoktan-seçmeli:
+1. Quelle région est touchée par les sécheresses ?
+a) Le nord de la France
+b) Le sud de la France *
+c) La Bretagne
+d) Les Alpes
+#açıklama: Fransa'nın güneyi.
+2. Combien de temps n'a-t-il presque pas plu cette année ?
+a) Un mois
+b) Trois mois *
+c) Six mois
+d) Un an
+#açıklama: Üç ay boyunca neredeyse hiç yağmadı.
+3. Qu'ont interdit certaines communes ?
+a) De boire l'eau du robinet
+b) D'arroser les jardins et de laver les voitures *
+c) De construire des maisons
+d) De cultiver du maïs
+#açıklama: Bahçe sulamayı ve araba yıkamayı yasakladılar.
+4. De combien les récoltes de Jean-Pierre ont-elles diminué ?
+a) D'un quart
+b) De moitié *
+c) D'un tiers
+d) Elles n'ont pas diminué
+#açıklama: İki yılda yarı yarıya azaldı.
+5. Quelle culture demande moins d'eau selon le texte ?
+a) Le maïs
+b) Le riz
+c) Le sorgho *
+d) La tomate
+#açıklama: Sorgum daha az su gerektiriyor.
+#açık-uçlu:
+1. Dans quel état sont les rivières ?
+#örnek-cevap: Elles sont à leur plus bas niveau depuis des décennies.
+#anahtar-kelimeler: bas niveau
+2. Que cultive Jean-Pierre et depuis combien de temps ?
+#örnek-cevap: Il cultive du maïs depuis trente ans.
+#anahtar-kelimeler: maïs, trente
+3. Pourquoi ses coûts augmentent-ils ?
+#örnek-cevap: Parce qu'il doit acheter de la nourriture pour ses animaux.
+#anahtar-kelimeler: acheter, nourriture, animaux
+4. Quelles solutions certains agriculteurs adoptent-ils ?
+#örnek-cevap: Ils choisissent des cultures qui demandent moins d'eau et utilisent une irrigation plus efficace.
+#anahtar-kelimeler: cultures, irrigation
+5. Selon les scientifiques, quelle est la cause de ces sécheresses ?
+#örnek-cevap: Le réchauffement climatique.
+#anahtar-kelimeler: réchauffement climatique
+#sözlük:
+le sud | güney | eril
+le nord | kuzey | eril
+fréquent | sık | sıfat
+la rivière | ırmak, dere | dişil
+la décennie | on yıl | dişil
+la commune | belde, belediye | dişil
+les autorités | yetkililer | dişil-çoğul
+arroser | sulamak | fiil
+laver | yıkamak | fiil
+toucher | dokunmak; etkilemek | fiil
+touché | etkilenmiş | sıfat
+cultiver | yetiştirmek, ekip biçmek | fiil
+le maïs | mısır | eril
+Toulouse | Toulouse (şehir) | ifade
+la récolte | hasat, ürün | dişil
+de moitié | yarı yarıya | ifade
+la plante | bitki | dişil
+pousser | büyümek; itmek | fiil
+l'exploitation | çiftlik, işletme | dişil
+la pratique | uygulama | dişil
+la culture | ürün (tarım); kültür | dişil
+le sorgho | sorgum | eril
+l'irrigation | sulama | dişil
+le scientifique | bilim insanı | eril
+rappeler | hatırlatmak | fiil
+direct | doğrudan | sıfat
+climatique | iklimsel | sıfat
+le robinet | musluk | eril
+le riz | pirinç | eril
+la tomate | domates | dişil
+adopter | benimsemek | fiil
+plu = pleuvoir

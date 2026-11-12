@@ -1,0 +1,549 @@
+=== METİN ===
+#başlık: Un déménagement à Lyon
+#seviye: B1
+#konu: Günlük hayat
+#metin:
+Le mois dernier, Camille a décidé de [[déménager]] à Lyon pour son nouveau travail. Pendant des semaines, elle a cherché un [[logement]] sur internet. Les appartements dans le centre étaient trop chers, alors elle a choisi un petit deux-pièces dans un quartier calme, près d'une station de métro. Le [[loyer]] est raisonnable et le propriétaire semble très gentil.
+
+Le jour du déménagement, ses amis sont venus l'aider. Ils ont porté les cartons, le lit et une vieille table qu'elle adore. Malheureusement, l'ascenseur était en panne et ils ont dû monter cinq étages à pied. À midi, tout le monde était [[épuisé]], mais ils ont ri en mangeant des pizzas assis par terre. Le soir, Camille a voulu allumer le [[chauffage]], mais il ne marchait pas. Elle a appelé le [[propriétaire]], qui a promis de le [[réparer]] le lendemain.
+
+Aujourd'hui, Camille commence à s'[[habituer]] à sa nouvelle vie. Elle fait ses [[courses]] au marché du quartier le samedi matin et elle a déjà rencontré ses voisins. Elle trouve que les Lyonnais sont accueillants. Il lui reste encore quelques cartons à [[ranger]], mais elle se sent enfin chez elle.
+#çoktan-seçmeli:
+1. Pourquoi Camille a-t-elle déménagé à Lyon ?
+a) Pour faire ses études
+b) Pour son nouveau travail *
+c) Pour vivre près de sa famille
+d) Parce que Paris était trop cher
+#açıklama: Metnin ilk cümlesi: yeni işi için Lyon'a taşınıyor.
+2. Où se trouve son nouvel appartement ?
+a) Dans le centre-ville
+b) À la campagne
+c) Dans un quartier calme, près du métro *
+d) À côté de son bureau
+#açıklama: Merkez çok pahalı olduğu için sakin bir mahallede, metroya yakın bir daire seçti.
+3. Quel problème ont-ils eu le jour du déménagement ?
+a) Le camion n'est pas arrivé
+b) L'ascenseur était en panne *
+c) Il pleuvait toute la journée
+d) Les cartons étaient perdus
+#açıklama: Asansör bozuktu, beş kat merdivenle çıktılar.
+4. Qu'est-ce qui ne fonctionnait pas le soir ?
+a) La lumière
+b) Le chauffage *
+c) La télévision
+d) L'eau chaude
+#açıklama: Akşam kaloriferi yakmak istedi ama çalışmadı.
+5. Que fait Camille le samedi matin ?
+a) Elle range ses cartons
+b) Elle va au travail
+c) Elle fait ses courses au marché *
+d) Elle rend visite à ses amis
+#açıklama: Cumartesi sabahları mahalle pazarında alışveriş yapıyor.
+#açık-uçlu:
+1. Pourquoi Camille n'a-t-elle pas choisi un appartement dans le centre ?
+#örnek-cevap: Parce que les appartements dans le centre étaient trop chers.
+#anahtar-kelimeler: chers, centre
+2. Qui a aidé Camille le jour du déménagement ?
+#örnek-cevap: Ses amis sont venus l'aider.
+#anahtar-kelimeler: amis
+3. Qu'ont-ils mangé à midi ?
+#örnek-cevap: Ils ont mangé des pizzas assis par terre.
+#anahtar-kelimeler: pizzas
+4. Qu'a promis le propriétaire ?
+#örnek-cevap: Il a promis de réparer le chauffage le lendemain.
+#anahtar-kelimeler: réparer, chauffage
+5. Comment Camille trouve-t-elle les habitants de Lyon ?
+#örnek-cevap: Elle trouve que les Lyonnais sont accueillants.
+#anahtar-kelimeler: accueillants
+#sözlük:
+le deux-pièces | iki odalı daire | eril
+le carton | karton kutu, koli | eril | Il reste trois cartons dans l'entrée. | Girişte üç koli kaldı.
+l'ascenseur | asansör | eril
+en panne | bozuk, arızalı | ifade | Ma voiture est en panne. | Arabam arızalı.
+l'étage | kat | eril
+à pied | yürüyerek | ifade
+par terre | yerde, yere | ifade
+le lendemain | ertesi gün | eril
+accueillant | misafirperver, sıcak | sıfat
+les Lyonnais | Lyonlular | eril-çoğul
+la station | durak, istasyon | dişil
+raisonnable | makul | sıfat
+chez elle | kendi evinde | ifade
+
+=== METİN ===
+#başlık: Le marché du samedi
+#seviye: B1
+#konu: Günlük hayat
+#metin:
+Tous les samedis, Paul se lève tôt pour aller au marché de son village. Il préfère y faire ses courses plutôt qu'au supermarché, parce que les produits sont plus [[frais]] et qu'il aime parler avec les commerçants. Il achète des légumes de saison, du fromage et du pain chez son [[boulanger]] préféré.
+
+Ce samedi, il y avait une [[foule]] inhabituelle. Un producteur de miel présentait ses produits et proposait de les [[goûter]]. Paul a hésité entre le miel de lavande et le miel de montagne. Finalement, il a pris les deux, car le vendeur lui a fait un bon [[prix]]. Plus loin, une vieille dame vendait des fleurs de son [[jardin]]. Paul lui a acheté un bouquet pour sa mère.
+
+En rentrant, Paul a fait le [[bilan]] de sa matinée. Il a [[dépensé]] un peu plus que prévu, mais il est content. Pour lui, le marché n'est pas seulement un lieu pour acheter de la nourriture. C'est aussi un moment de rencontre, où l'on prend le temps de discuter et de [[partager]] des [[recettes]]. Il pense déjà à la soupe qu'il va préparer avec ses légumes.
+#çoktan-seçmeli:
+1. Pourquoi Paul préfère-t-il le marché au supermarché ?
+a) Parce que c'est moins cher
+b) Parce que les produits sont plus frais *
+c) Parce que c'est plus près de chez lui
+d) Parce qu'il n'aime pas les supermarchés
+#açıklama: Ürünler daha taze ve esnafla konuşmayı seviyor.
+2. Qu'est-ce qui était différent ce samedi ?
+a) Le marché était fermé
+b) Il pleuvait
+c) Il y avait beaucoup de monde *
+d) Le boulanger était absent
+#açıklama: "Une foule inhabituelle" = alışılmadık bir kalabalık.
+3. Quel miel Paul a-t-il acheté ?
+a) Seulement le miel de lavande
+b) Seulement le miel de montagne
+c) Les deux miels *
+d) Aucun miel
+#açıklama: İkisini birden aldı çünkü satıcı iyi fiyat verdi.
+4. Pour qui Paul a-t-il acheté des fleurs ?
+a) Pour sa femme
+b) Pour sa mère *
+c) Pour sa voisine
+d) Pour lui-même
+#açıklama: Annesi için bir buket aldı.
+5. Que va-t-il préparer avec ses légumes ?
+a) Une salade
+b) Une tarte
+c) Une soupe *
+d) Un gâteau
+#açıklama: Son cümle: yapacağı çorbayı düşünüyor.
+#açık-uçlu:
+1. À quelle heure Paul se lève-t-il le samedi ?
+#örnek-cevap: Il se lève tôt.
+#anahtar-kelimeler: tôt
+2. Qu'est-ce que le producteur proposait aux clients ?
+#örnek-cevap: Il proposait de goûter son miel.
+#anahtar-kelimeler: goûter, miel
+3. Qui vendait des fleurs ?
+#örnek-cevap: Une vieille dame vendait des fleurs de son jardin.
+#anahtar-kelimeler: vieille dame
+4. Paul a-t-il dépensé moins que prévu ?
+#örnek-cevap: Non, il a dépensé un peu plus que prévu.
+#anahtar-kelimeler: plus, prévu
+5. Selon Paul, le marché est aussi un lieu pour faire quoi ?
+#örnek-cevap: C'est un lieu de rencontre où l'on discute et partage des recettes.
+#anahtar-kelimeler: rencontre, discuter
+#sözlük:
+le village | köy | eril
+le supermarché | süpermarket | eril
+le commerçant | esnaf, tüccar | eril
+le boulanger | fırıncı | eril
+le fromage | peynir | eril
+la saison | mevsim | dişil
+inhabituel, inhabituelle | alışılmadık | sıfat
+le producteur | üretici | eril
+le miel | bal | eril
+la lavande | lavanta | dişil
+le vendeur | satıcı | eril
+la dame | hanım, kadın | dişil
+le bouquet | buket | eril
+la matinée | sabah (boyunca) | dişil
+prévu | planlanan, öngörülen | sıfat
+la nourriture | yiyecek | dişil
+la soupe | çorba | dişil
+l'on | insan, biz (on) | zamir
+hésiter | tereddüt etmek | fiil
+proposer | önermek | fiil
+
+=== METİN ===
+#başlık: Un entretien d'embauche
+#seviye: B1
+#konu: İş
+#metin:
+Karim a trente ans et il cherche un [[emploi]] depuis six mois. La semaine dernière, il a enfin reçu un appel d'une entreprise de transport qui voulait le rencontrer pour un [[entretien]]. Il était à la fois content et [[inquiet]], car c'était un poste qui correspondait parfaitement à son [[diplôme]] de logistique.
+
+La veille, Karim a préparé ses réponses avec sa sœur. Elle lui a donné des [[conseils]] : arriver à l'heure, sourire et parler de ses expériences avec précision. Le jour de l'entretien, il est parti très tôt pour éviter les [[embouteillages]]. Dans le bureau, deux personnes l'attendaient. Elles lui ont posé des questions sur son ancien [[métier]], ses qualités et ses défauts. Karim a expliqué qu'il avait fait un [[stage]] à l'étranger et qu'il parlait trois langues.
+
+À la fin, la directrice lui a parlé du [[salaire]] et des [[horaires]]. Elle a dit qu'elle donnerait une réponse dans une semaine. Trois jours plus tard, Karim a reçu un message : l'entreprise voulait l'[[embaucher]] ! Il a tout de suite appelé sa sœur pour la remercier.
+#çoktan-seçmeli:
+1. Depuis combien de temps Karim cherche-t-il un emploi ?
+a) Trois mois
+b) Six mois *
+c) Un an
+d) Deux semaines
+#açıklama: Altı aydır iş arıyor.
+2. Dans quel domaine est le poste ?
+a) La médecine
+b) L'enseignement
+c) Le transport et la logistique *
+d) La banque
+#açıklama: Bir ulaşım şirketi; diploması da lojistik alanında.
+3. Qui a aidé Karim à se préparer ?
+a) Son père
+b) Sa sœur *
+c) Un ami
+d) Un ancien collègue
+#açıklama: Bir gün önce cevaplarını kız kardeşiyle hazırladı.
+4. Pourquoi est-il parti très tôt ?
+a) Pour éviter les embouteillages *
+b) Pour prendre un café
+c) Parce que l'entretien était à sept heures
+d) Pour rencontrer sa sœur
+#açıklama: Trafik sıkışıklığından kaçınmak için erken çıktı.
+5. Combien de temps après l'entretien a-t-il reçu la réponse ?
+a) Le jour même
+b) Une semaine
+c) Trois jours *
+d) Un mois
+#açıklama: Müdür bir hafta demişti ama cevap üç gün sonra geldi.
+#açık-uçlu:
+1. Pourquoi Karim était-il inquiet ?
+#örnek-cevap: Parce que le poste correspondait parfaitement à son diplôme et c'était important pour lui.
+#anahtar-kelimeler: poste, diplôme
+2. Quels conseils sa sœur lui a-t-elle donnés ?
+#örnek-cevap: Arriver à l'heure, sourire et parler de ses expériences avec précision.
+#anahtar-kelimeler: heure, sourire, expériences
+3. Combien de personnes l'attendaient dans le bureau ?
+#örnek-cevap: Deux personnes l'attendaient.
+#anahtar-kelimeler: deux
+4. Combien de langues Karim parle-t-il ?
+#örnek-cevap: Il parle trois langues.
+#anahtar-kelimeler: trois
+5. Qu'a fait Karim après avoir reçu le message ?
+#örnek-cevap: Il a appelé sa sœur pour la remercier.
+#anahtar-kelimeler: appelé, sœur, remercier
+#sözlük:
+l'appel | arama, çağrı | eril
+le transport | ulaşım, taşımacılık | eril
+à la fois | aynı anda, hem | ifade
+le poste | pozisyon, kadro | eril
+correspondre | uymak, karşılık gelmek | fiil
+parfaitement | mükemmel şekilde | zarf
+la logistique | lojistik | dişil
+la veille | önceki gün | dişil
+la précision | kesinlik, netlik | dişil
+la qualité | nitelik, kalite | dişil
+le défaut | kusur, zayıf yön | eril
+la directrice | müdire | dişil
+tout de suite | hemen | ifade
+remercier | teşekkür etmek | fiil
+poser une question | soru sormak | ifade
+donnerait = donner
+
+=== METİN ===
+#başlık: Des vacances en Bretagne
+#seviye: B1
+#konu: Seyahat
+#metin:
+Cet été, la famille Martin a passé deux semaines en Bretagne. Ils avaient [[réservé]] une petite maison au bord de la mer, dans un village de pêcheurs. Le [[trajet]] depuis Paris a duré presque six heures, à cause des embouteillages sur l'autoroute. Les enfants étaient impatients de voir la mer.
+
+La Bretagne est célèbre pour ses [[paysages]] sauvages et sa météo changeante. Un jour, il faisait un soleil magnifique, le lendemain il pleuvait toute la journée. Mais les Martin ne se sont pas plaints. Les jours de pluie, ils ont [[visité]] des musées et ils ont goûté les crêpes, la spécialité de la région. Les jours de beau temps, ils se sont [[promenés]] sur les chemins le long de la côte. Le père a même essayé la voile, mais il est tombé dans l'eau [[froide]] et tout le monde a ri.
+
+À la fin du [[séjour]], personne ne voulait partir. La mère a pris des centaines de photos pour garder des [[souvenirs]] de ces vacances. Le fils aîné a dit qu'il voulait revenir l'année [[prochaine]]. Sur la route du retour, les enfants ont dormi pendant tout le trajet.
+#çoktan-seçmeli:
+1. Combien de temps la famille est-elle restée en Bretagne ?
+a) Une semaine
+b) Deux semaines *
+c) Un mois
+d) Dix jours
+#açıklama: İki hafta geçirdiler.
+2. Où se trouvait leur maison ?
+a) En ville
+b) À la montagne
+c) Au bord de la mer, dans un village de pêcheurs *
+d) Près d'un lac
+#açıklama: Deniz kenarında, bir balıkçı köyünde.
+3. Qu'ont-ils fait les jours de pluie ?
+a) Ils sont restés à la maison
+b) Ils ont visité des musées et goûté des crêpes *
+c) Ils sont allés à la plage
+d) Ils ont fait de la voile
+#açıklama: Yağmurlu günlerde müze gezdiler ve krep tattılar.
+4. Qu'est-il arrivé au père ?
+a) Il s'est perdu
+b) Il est tombé malade
+c) Il est tombé dans l'eau *
+d) Il a perdu son téléphone
+#açıklama: Yelken denerken soğuk suya düştü.
+5. Qui veut revenir l'année prochaine ?
+a) La mère
+b) Le père
+c) Le fils aîné *
+d) La petite fille
+#açıklama: Büyük oğul gelecek yıl tekrar gelmek istiyor.
+#açık-uçlu:
+1. Pourquoi le trajet a-t-il duré presque six heures ?
+#örnek-cevap: À cause des embouteillages sur l'autoroute.
+#anahtar-kelimeler: embouteillages
+2. Pour quoi la Bretagne est-elle célèbre ?
+#örnek-cevap: Pour ses paysages sauvages et sa météo changeante.
+#anahtar-kelimeler: paysages, météo
+3. Quelle est la spécialité de la région ?
+#örnek-cevap: Ce sont les crêpes.
+#anahtar-kelimeler: crêpes
+4. Qu'ont-ils fait les jours de beau temps ?
+#örnek-cevap: Ils se sont promenés sur les chemins le long de la côte.
+#anahtar-kelimeler: promenés, côte
+5. Qu'ont fait les enfants sur la route du retour ?
+#örnek-cevap: Ils ont dormi pendant tout le trajet.
+#anahtar-kelimeler: dormi
+#sözlük:
+la Bretagne | Bretanya (Fransa'nın kuzeybatısı) | dişil
+au bord de | kıyısında | edat
+le pêcheur | balıkçı | eril
+l'autoroute | otoyol | dişil
+impatient | sabırsız | sıfat
+sauvage | vahşi, el değmemiş | sıfat
+la météo | hava durumu | dişil
+changeant | değişken | sıfat
+magnifique | muhteşem | sıfat
+le musée | müze | eril
+la crêpe | krep | dişil
+la spécialité | özel yemek, uzmanlık | dişil
+la région | bölge | dişil
+le chemin | patika, yol | eril
+le long de | boyunca | edat
+la côte | kıyı | dişil
+la voile | yelken | dişil
+la centaine | yüz kadar | dişil
+aîné | büyük (kardeş) | sıfat
+le retour | dönüş | eril
+se promener = se promener
+promenés = se promener
+plaints = se plaindre
+se plaindre | şikâyet etmek | fiil
+
+=== METİN ===
+#başlık: Chez le médecin
+#seviye: B1
+#konu: Sağlık
+#metin:
+Depuis trois jours, Sophie ne se sent pas bien. Elle a mal à la gorge, elle tousse beaucoup et elle a un peu de [[fièvre]]. Au début, elle pensait que c'était un simple [[rhume]], mais ce matin, elle s'est réveillée avec une forte [[douleur]] à la tête. Elle a donc pris [[rendez-vous]] chez son médecin.
+
+Dans la salle d'attente, il y avait beaucoup de monde. Après quarante minutes, le docteur Lefèvre l'a appelée. Il lui a posé des questions sur ses symptômes et il l'a examinée. Selon lui, Sophie a une grippe. Il lui a conseillé de rester au lit, de boire beaucoup d'eau et de bien se [[reposer]]. Il lui a aussi donné une [[ordonnance]] pour un [[médicament]] contre la fièvre.
+
+En sortant, Sophie est passée à la [[pharmacie]]. Le pharmacien lui a expliqué qu'elle devait prendre le médicament trois fois par jour, pendant les repas. Il lui a dit aussi que le [[sommeil]] était très important pour [[guérir]] vite. Sophie a envoyé un message à son patron pour le prévenir qu'elle ne viendrait pas au bureau pendant quelques jours. Ensuite, elle s'est couchée avec un thé au miel.
+#çoktan-seçmeli:
+1. Depuis combien de temps Sophie est-elle malade ?
+a) Un jour
+b) Trois jours *
+c) Une semaine
+d) Deux semaines
+#açıklama: Üç gündür iyi hissetmiyor.
+2. Qu'est-ce qui l'a décidée à aller chez le médecin ?
+a) Sa toux
+b) Une forte douleur à la tête *
+c) Son patron
+d) Sa mère
+#açıklama: Sabah şiddetli bir baş ağrısıyla uyandı.
+3. Combien de temps a-t-elle attendu ?
+a) Dix minutes
+b) Vingt minutes
+c) Quarante minutes *
+d) Une heure
+#açıklama: Kırk dakika sonra doktor onu çağırdı.
+4. Quelle maladie a-t-elle selon le médecin ?
+a) Un rhume
+b) Une grippe *
+c) Une allergie
+d) Une angine
+#açıklama: Doktora göre grip.
+5. Combien de fois par jour doit-elle prendre le médicament ?
+a) Une fois
+b) Deux fois
+c) Trois fois *
+d) Quatre fois
+#açıklama: Günde üç kez, yemeklerle birlikte.
+#açık-uçlu:
+1. Quels sont les symptômes de Sophie ?
+#örnek-cevap: Elle a mal à la gorge, elle tousse et elle a de la fièvre.
+#anahtar-kelimeler: gorge, tousse, fièvre
+2. Quels conseils le médecin lui a-t-il donnés ?
+#örnek-cevap: Rester au lit, boire beaucoup d'eau et bien se reposer.
+#anahtar-kelimeler: lit, eau, reposer
+3. Qu'est-ce que le pharmacien lui a dit sur le sommeil ?
+#örnek-cevap: Que le sommeil est très important pour guérir vite.
+#anahtar-kelimeler: important, guérir
+4. Pourquoi Sophie a-t-elle envoyé un message à son patron ?
+#örnek-cevap: Pour le prévenir qu'elle ne viendrait pas au bureau pendant quelques jours.
+#anahtar-kelimeler: prévenir, bureau
+5. Qu'a-t-elle bu avant de se coucher ?
+#örnek-cevap: Elle a bu un thé au miel.
+#anahtar-kelimeler: thé, miel
+#sözlük:
+la gorge | boğaz | dişil
+tousser | öksürmek | fiil
+la toux | öksürük | dişil
+se réveiller | uyanmak | fiil
+la salle d'attente | bekleme salonu | dişil
+le docteur | doktor | eril
+le symptôme | belirti | eril
+examiner | muayene etmek, incelemek | fiil
+la grippe | grip | dişil
+le pharmacien | eczacı | eril
+prévenir | haber vermek; önlemek | fiil
+se coucher | yatmak | fiil
+le miel | bal | eril
+l'allergie | alerji | dişil
+l'angine | anjin, boğaz enfeksiyonu | dişil
+viendrait = venir
+
+=== METİN ===
+#başlık: Le nouveau voisin
+#seviye: B1
+#konu: Günlük hayat
+#metin:
+Dans l'immeuble de Léa, un nouveau voisin est arrivé au début du mois. Il s'appelle Monsieur Diallo et il vient du Sénégal. Au début, Léa était un peu [[timide]] et elle lui disait seulement bonjour dans l'escalier. Mais un soir, il a frappé à sa porte pour lui demander de l'aide : il ne savait pas comment [[remplir]] un formulaire de la mairie.
+
+Léa l'a aidé avec plaisir. Ensuite, ils ont pris un café et ils ont [[discuté]] pendant deux heures. Monsieur Diallo est professeur de mathématiques à la retraite. Il lui a raconté son enfance à Dakar et ses voyages dans le monde entier. Léa a été [[étonnée]] par sa culture et son humour. Il est vraiment [[drôle]] et très [[curieux]] de tout.
+
+Depuis, ils se voient souvent. Le dimanche, Monsieur Diallo prépare des plats de son pays et il invite Léa à les [[goûter]]. En échange, Léa l'aide à comprendre les [[démarches]] administratives françaises, qui sont parfois [[compliquées]]. Les autres voisins ont remarqué cette amitié et l'ambiance dans l'immeuble a changé. Maintenant, tout le monde se parle, et ils ont même organisé une [[fête]] des voisins dans la cour.
+#çoktan-seçmeli:
+1. D'où vient Monsieur Diallo ?
+a) Du Maroc
+b) Du Sénégal *
+c) De Belgique
+d) Du Canada
+#açıklama: Senegal'den geliyor.
+2. Pourquoi a-t-il frappé à la porte de Léa ?
+a) Pour se présenter
+b) Pour emprunter du sucre
+c) Pour demander de l'aide avec un formulaire *
+d) Pour se plaindre du bruit
+#açıklama: Belediyenin bir formunu nasıl dolduracağını bilmiyordu.
+3. Quel était le métier de Monsieur Diallo ?
+a) Médecin
+b) Professeur de mathématiques *
+c) Cuisinier
+d) Journaliste
+#açıklama: Emekli matematik öğretmeni.
+4. Que fait-il le dimanche ?
+a) Il va au marché
+b) Il prépare des plats de son pays *
+c) Il voyage
+d) Il donne des cours
+#açıklama: Pazar günleri ülkesinin yemeklerini hazırlıyor.
+5. Qu'ont organisé les voisins ?
+a) Un voyage
+b) Une réunion à la mairie
+c) Une fête dans la cour *
+d) Un cours de cuisine
+#açıklama: Avluda bir komşu partisi düzenlediler.
+#açık-uçlu:
+1. Comment était Léa au début avec son voisin ?
+#örnek-cevap: Elle était un peu timide et elle lui disait seulement bonjour.
+#anahtar-kelimeler: timide, bonjour
+2. Combien de temps ont-ils discuté le premier soir ?
+#örnek-cevap: Ils ont discuté pendant deux heures.
+#anahtar-kelimeler: deux heures
+3. Qu'est-ce qui a étonné Léa chez Monsieur Diallo ?
+#örnek-cevap: Sa culture et son humour.
+#anahtar-kelimeler: culture, humour
+4. Comment Léa aide-t-elle son voisin ?
+#örnek-cevap: Elle l'aide à comprendre les démarches administratives françaises.
+#anahtar-kelimeler: démarches, administratives
+5. Qu'est-ce qui a changé dans l'immeuble ?
+#örnek-cevap: L'ambiance a changé : maintenant tout le monde se parle.
+#anahtar-kelimeler: ambiance, parle
+#sözlük:
+l'immeuble | apartman, bina | eril
+monsieur | bay, beyefendi | eril
+le Sénégal | Senegal | eril
+l'escalier | merdiven | eril
+frapper | vurmak, (kapıyı) çalmak | fiil
+le formulaire | form | eril
+la mairie | belediye | dişil
+le plaisir | zevk, memnuniyet | eril
+les mathématiques | matematik | dişil-çoğul
+la retraite | emeklilik | dişil
+à la retraite | emekli | ifade
+l'enfance | çocukluk | dişil
+Dakar | Dakar (Senegal'in başkenti) | ifade
+la culture | kültür | dişil
+l'humour | mizah | eril
+le plat | yemek, tabak | eril
+l'échange | değiş tokuş | eril
+en échange | karşılığında | ifade
+la démarche | işlem, başvuru | dişil
+administratif, administrative | idari | sıfat
+compliqué | karmaşık | sıfat
+l'amitié | dostluk | dişil
+l'ambiance | ortam, hava | dişil
+la cour | avlu | dişil
+se voir | görüşmek | fiil
+se parler | konuşmak (birbiriyle) | fiil
+
+=== METİN ===
+#başlık: Apprendre une langue étrangère
+#seviye: B1
+#konu: Eğitim
+#metin:
+Aujourd'hui, apprendre une langue étrangère est devenu une [[habitude]] pour beaucoup de personnes. Certaines le font pour leur travail, d'autres pour voyager ou pour mieux comprendre une autre [[culture]]. Mais tout le monde est d'accord sur un point : il faut de la patience et des [[efforts]] réguliers.
+
+Les spécialistes donnent plusieurs [[conseils]]. D'abord, il vaut mieux étudier un peu chaque jour plutôt que plusieurs heures une fois par semaine. Ensuite, il est important d'[[écouter]] la langue le plus souvent possible : des chansons, des films ou des podcasts. Enfin, il ne faut pas avoir [[peur]] de faire des [[erreurs]]. Les erreurs font partie de l'apprentissage, et les gens sont généralement [[patients]] avec ceux qui essaient de parler leur langue.
+
+Marc, un étudiant de vingt-deux ans, a appris l'espagnol en un an. Sa méthode est simple : il a trouvé un ami espagnol avec qui il [[échange]] des messages tous les jours. Il écrit en espagnol et son ami lui répond en français. Ainsi, chacun [[progresse]] dans la langue de l'autre. Pour Marc, le plus important est de rester motivé et de prendre du [[plaisir]].
+#çoktan-seçmeli:
+1. Selon le texte, sur quoi tout le monde est-il d'accord ?
+a) Il faut aller à l'étranger
+b) Il faut de la patience et des efforts réguliers *
+c) Il faut payer des cours chers
+d) Il faut commencer jeune
+#açıklama: Herkes sabır ve düzenli çaba gerektiği konusunda hemfikir.
+2. Quel est le premier conseil des spécialistes ?
+a) Étudier plusieurs heures une fois par semaine
+b) Étudier un peu chaque jour *
+c) Lire des journaux
+d) Apprendre la grammaire par cœur
+#açıklama: Haftada bir kez saatlerce yerine her gün biraz çalışmak.
+3. Que pense le texte des erreurs ?
+a) Il faut les éviter à tout prix
+b) Elles font partie de l'apprentissage *
+c) Elles sont rares
+d) Elles montrent qu'on n'est pas doué
+#açıklama: Hatalar öğrenmenin bir parçası.
+4. Quelle langue Marc a-t-il apprise ?
+a) L'anglais
+b) L'italien
+c) L'espagnol *
+d) L'allemand
+#açıklama: Bir yılda İspanyolca öğrendi.
+5. Comment Marc pratique-t-il ?
+a) Il regarde des films
+b) Il échange des messages avec un ami espagnol *
+c) Il prend des cours en ligne
+d) Il lit des livres
+#açıklama: İspanyol bir arkadaşıyla her gün mesajlaşıyor.
+#açık-uçlu:
+1. Pour quelles raisons les gens apprennent-ils une langue ?
+#örnek-cevap: Pour leur travail, pour voyager ou pour comprendre une autre culture.
+#anahtar-kelimeler: travail, voyager, culture
+2. Que peut-on écouter pour progresser ?
+#örnek-cevap: Des chansons, des films ou des podcasts.
+#anahtar-kelimeler: chansons, films
+3. Comment sont les gens avec ceux qui essaient de parler leur langue ?
+#örnek-cevap: Ils sont généralement patients.
+#anahtar-kelimeler: patients
+4. En quelle langue l'ami de Marc lui répond-il ?
+#örnek-cevap: Il lui répond en français.
+#anahtar-kelimeler: français
+5. Selon Marc, qu'est-ce qui est le plus important ?
+#örnek-cevap: Rester motivé et prendre du plaisir.
+#anahtar-kelimeler: motivé, plaisir
+#sözlük:
+étranger, étrangère | yabancı | sıfat
+la culture | kültür | dişil
+être d'accord | hemfikir olmak | ifade
+le point | nokta; konu | eril
+la patience | sabır | dişil
+régulier, régulière | düzenli | sıfat
+le spécialiste | uzman | eril
+il vaut mieux | ... daha iyidir | ifade
+la chanson | şarkı | dişil
+le podcast | podcast | eril
+l'apprentissage | öğrenme | eril
+patient | sabırlı | sıfat
+l'espagnol | İspanyolca | eril
+espagnol | İspanyol | sıfat
+la méthode | yöntem | dişil
+échanger | değiş tokuş etmek | fiil
+progresser | ilerlemek | fiil
+motivé | motive, istekli | sıfat
+le plaisir | zevk, keyif | eril
+l'anglais | İngilizce | eril
+l'italien | İtalyanca | eril
+l'allemand | Almanca | eril

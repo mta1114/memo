@@ -1,0 +1,213 @@
+#deste: Kimya Terimleri
+#seviye: B1–B2
+// Madde ve yapı
+la matière | madde | dişil | La matière est composée d'atomes. | Madde atomlardan oluşur.
+la substance | madde, töz | dişil | Cette substance est toxique. | Bu madde zehirli.
+l'atome | atom | eril | Un atome est électriquement neutre. | Bir atom elektriksel olarak nötrdür.
+le noyau | çekirdek | eril | Le noyau contient des protons et des neutrons. | Çekirdek proton ve nötron içerir.
+le proton | proton | eril | Le proton porte une charge positive. | Proton pozitif yük taşır.
+le neutron | nötron | eril | Le neutron n'a pas de charge électrique. | Nötronun elektrik yükü yoktur.
+l'électron | elektron | eril | L'électron tourne autour du noyau. | Elektron çekirdeğin etrafında döner.
+la molécule | molekül | dişil | Une molécule d'eau contient trois atomes. | Bir su molekülü üç atom içerir.
+l'ion | iyon | eril | Un ion est un atome qui a gagné ou perdu des électrons. | İyon, elektron kazanmış ya da kaybetmiş bir atomdur.
+le cation | katyon | eril | Le sodium forme un cation Na+. | Sodyum Na+ katyonu oluşturur.
+l'anion | anyon | eril | Le chlorure est un anion. | Klorür bir anyondur.
+l'élément chimique | kimyasal element | eril | L'oxygène est un élément chimique. | Oksijen bir kimyasal elementtir.
+le corps pur | saf madde | eril | L'eau distillée est un corps pur. | Damıtılmış su saf bir maddedir.
+le corps simple | element (tek tür atomlu saf madde) | eril | Le dioxygène est un corps simple. | Dioksijen bir elementtir.
+le corps composé | bileşik | eril | Le sel est un corps composé. | Tuz bir bileşiktir.
+le composé | bileşik | eril | Le méthane est un composé organique. | Metan organik bir bileşiktir.
+le mélange | karışım | eril | L'air est un mélange de gaz. | Hava gazların bir karışımıdır.
+le mélange homogène | homojen karışım | eril | L'eau salée est un mélange homogène. | Tuzlu su homojen bir karışımdır.
+le mélange hétérogène | heterojen karışım | eril | L'eau et l'huile forment un mélange hétérogène. | Su ve yağ heterojen bir karışım oluşturur.
+la masse | kütle | dişil | La masse se mesure en grammes. | Kütle gramla ölçülür.
+la masse molaire | molar kütle | dişil | La masse molaire de l'eau est de 18 g/mol. | Suyun molar kütlesi 18 g/mol'dür.
+le numéro atomique | atom numarası | eril | Le numéro atomique du carbone est six. | Karbonun atom numarası altıdır.
+l'isotope | izotop | eril | Le carbone 14 est un isotope radioactif. | Karbon 14 radyoaktif bir izotoptur.
+la couche électronique | elektron katmanı | dişil | La dernière couche électronique détermine les propriétés. | Son elektron katmanı özellikleri belirler.
+la liaison | bağ | dişil | Une liaison relie deux atomes. | Bir bağ iki atomu birbirine bağlar.
+la liaison covalente | kovalent bağ | dişil | Dans l'eau, les liaisons sont covalentes. | Suda bağlar kovalenttir.
+la liaison ionique | iyonik bağ | dişil | Le sel est formé par des liaisons ioniques. | Tuz iyonik bağlarla oluşur.
+la liaison hydrogène | hidrojen bağı | dişil | Les liaisons hydrogène expliquent les propriétés de l'eau. | Hidrojen bağları suyun özelliklerini açıklar.
+la formule | formül | dişil | La formule de l'eau est H2O. | Suyun formülü H2O'dur.
+la structure | yapı | dişil | Le diamant a une structure très solide. | Elmasın çok sağlam bir yapısı vardır.
+le cristal | kristal | eril | Le sel forme de petits cristaux. | Tuz küçük kristaller oluşturur.
+// Periyodik tablo ve elementler
+le tableau périodique | periyodik tablo | eril | Mendeleïev a créé le tableau périodique. | Mendeleyev periyodik tabloyu oluşturdu.
+la colonne | sütun (grup) | dişil | Les éléments d'une même colonne ont des propriétés semblables. | Aynı sütundaki elementlerin özellikleri benzerdir.
+la période | periyot | dişil | Le tableau compte sept périodes. | Tabloda yedi periyot vardır.
+le métal | metal | eril | Le fer est un métal. | Demir bir metaldir.
+le non-métal | ametal | eril | Le soufre est un non-métal. | Kükürt bir ametaldir.
+le gaz noble | soy gaz | eril | L'hélium est un gaz noble. | Helyum bir soy gazdır.
+l'hydrogène | hidrojen | eril | L'hydrogène est l'élément le plus léger. | Hidrojen en hafif elementtir.
+l'oxygène | oksijen | eril | Nous respirons de l'oxygène. | Oksijen soluruz.
+le carbone | karbon | eril | Le carbone est présent dans toute matière vivante. | Karbon bütün canlı maddelerde bulunur.
+l'azote | azot | eril | L'air contient environ 78 % d'azote. | Hava yaklaşık %78 azot içerir.
+le sodium | sodyum | eril | Le sodium réagit violemment avec l'eau. | Sodyum suyla şiddetle tepkimeye girer.
+le chlore | klor | eril | Le chlore sert à désinfecter l'eau. | Klor suyu dezenfekte etmeye yarar.
+le fer | demir | eril | Le fer rouille au contact de l'air humide. | Demir nemli havayla temas edince paslanır.
+le cuivre | bakır | eril | Le cuivre conduit bien l'électricité. | Bakır elektriği iyi iletir.
+le zinc | çinko | eril | Le zinc protège l'acier de la corrosion. | Çinko çeliği korozyondan korur.
+l'aluminium | alüminyum | eril | L'aluminium est léger et résistant. | Alüminyum hafif ve dayanıklıdır.
+le soufre | kükürt | eril | Le soufre a une couleur jaune. | Kükürt sarı renklidir.
+le calcium | kalsiyum | eril | Le calcium est bon pour les os. | Kalsiyum kemikler için iyidir.
+le magnésium | magnezyum | eril | Le magnésium brûle avec une flamme blanche. | Magnezyum beyaz bir alevle yanar.
+le potassium | potasyum | eril | Le potassium est un métal très réactif. | Potasyum çok reaktif bir metaldir.
+l'hélium | helyum | eril | Les ballons sont remplis d'hélium. | Balonlar helyumla doldurulur.
+l'or | altın | eril | L'or ne s'oxyde pas. | Altın oksitlenmez.
+l'argent | gümüş; para | eril | L'argent noircit avec le temps. | Gümüş zamanla kararır.
+le plomb | kurşun | eril | Le plomb est un métal toxique. | Kurşun zehirli bir metaldir.
+le mercure | cıva | eril | Le mercure est liquide à température ambiante. | Cıva oda sıcaklığında sıvıdır.
+le silicium | silisyum | eril | Le silicium est utilisé dans les puces électroniques. | Silisyum elektronik çiplerde kullanılır.
+// Moleküller ve bileşikler
+l'eau | su | dişil | L'eau bout à 100 °C. | Su 100 °C'de kaynar.
+le dioxyde de carbone | karbondioksit | eril | Les plantes absorbent le dioxyde de carbone. | Bitkiler karbondioksit soğurur.
+le monoxyde de carbone | karbonmonoksit | eril | Le monoxyde de carbone est un gaz mortel. | Karbonmonoksit ölümcül bir gazdır.
+le dioxygène | oksijen molekülü (O2) | eril | La combustion consomme du dioxygène. | Yanma oksijen tüketir.
+le dihydrogène | hidrojen molekülü (H2) | eril | Le dihydrogène est un carburant d'avenir. | Hidrojen geleceğin yakıtıdır.
+le méthane | metan | eril | Le méthane est le principal composant du gaz naturel. | Metan doğal gazın ana bileşenidir.
+l'éthanol | etanol | eril | L'éthanol est un alcool. | Etanol bir alkoldür.
+le chlorure de sodium | sodyum klorür | eril | Le sel de cuisine est du chlorure de sodium. | Sofra tuzu sodyum klorürdür.
+l'ammoniac | amonyak | eril | L'ammoniac a une odeur très forte. | Amonyağın çok keskin bir kokusu vardır.
+l'oxyde | oksit | eril | La rouille est un oxyde de fer. | Pas bir demir oksittir.
+le sel | tuz | eril | Un sel est formé d'ions positifs et négatifs. | Tuz pozitif ve negatif iyonlardan oluşur.
+le glucose | glikoz | eril | Le glucose est une source d'énergie. | Glikoz bir enerji kaynağıdır.
+la protéine | protein | dişil | Les protéines sont formées d'acides aminés. | Proteinler aminoasitlerden oluşur.
+le polymère | polimer | eril | Le plastique est un polymère. | Plastik bir polimerdir.
+l'hydrocarbure | hidrokarbon | eril | Le pétrole est un mélange d'hydrocarbures. | Petrol hidrokarbonların bir karışımıdır.
+// Hal ve hal değişimi
+l'état | hal | eril | L'eau existe sous trois états. | Su üç halde bulunur.
+l'état solide | katı hal | eril | La glace est de l'eau à l'état solide. | Buz katı haldeki sudur.
+l'état liquide | sıvı hal | eril | Le mercure est à l'état liquide. | Cıva sıvı haldedir.
+l'état gazeux | gaz hali | eril | La vapeur est de l'eau à l'état gazeux. | Buhar gaz halindeki sudur.
+le solide | katı | eril | Un solide a une forme propre. | Bir katının kendi şekli vardır.
+le liquide | sıvı | eril | Un liquide prend la forme du récipient. | Sıvı kabın şeklini alır.
+le gaz | gaz | eril | Un gaz occupe tout le volume disponible. | Gaz kullanılabilir hacmin tamamını kaplar.
+la fusion | erime | dişil | La fusion de la glace a lieu à 0 °C. | Buzun erimesi 0 °C'de gerçekleşir.
+la solidification | katılaşma | dişil | La solidification est le passage de l'état liquide à l'état solide. | Katılaşma sıvı halden katı hale geçiştir.
+la vaporisation | buharlaşma | dişil | La vaporisation demande de l'énergie. | Buharlaşma enerji gerektirir.
+l'ébullition | kaynama | dişil | Pendant l'ébullition, la température reste constante. | Kaynama sırasında sıcaklık sabit kalır.
+la condensation | yoğuşma | dişil | La condensation forme des gouttes sur la vitre. | Yoğuşma camda damlalar oluşturur.
+la sublimation | süblimleşme | dişil | La sublimation est le passage direct du solide au gaz. | Süblimleşme katıdan gaza doğrudan geçiştir.
+fondre | erimek | fiil | La glace fond au soleil. | Buz güneşte erir.
+geler | donmak | fiil | L'eau gèle à zéro degré. | Su sıfır derecede donar.
+bouillir | kaynamak | fiil | L'eau bout dans la casserole. | Su tencerede kaynıyor.
+s'évaporer | buharlaşmak | fiil | L'alcool s'évapore rapidement. | Alkol hızla buharlaşır.
+se condenser | yoğuşmak | fiil | La vapeur se condense sur le couvercle. | Buhar kapağın üzerinde yoğuşur.
+le point de fusion | erime noktası | eril | Le point de fusion du fer est très élevé. | Demirin erime noktası çok yüksektir.
+le point d'ébullition | kaynama noktası | eril | Le point d'ébullition de l'eau est 100 °C. | Suyun kaynama noktası 100 °C'dir.
+la vapeur | buhar | dişil | La vapeur d'eau est invisible. | Su buharı görünmezdir.
+la glace | buz | dişil | La glace flotte sur l'eau. | Buz suyun üzerinde yüzer.
+// Tepkimeler
+la réaction chimique | kimyasal tepkime | dişil | Une réaction chimique transforme les réactifs en produits. | Kimyasal tepkime girenleri ürünlere dönüştürür.
+le réactif | giren madde, reaktif | eril | Les réactifs sont consommés pendant la réaction. | Girenler tepkime sırasında tüketilir.
+le produit | ürün (tepkime) | eril | L'eau est un produit de la combustion. | Su yanmanın bir ürünüdür.
+l'équation | denklem | dişil | Il faut équilibrer l'équation chimique. | Kimyasal denklemi denkleştirmek gerekir.
+équilibrer | denkleştirmek | fiil | On équilibre l'équation avec des coefficients. | Denklem katsayılarla denkleştirilir.
+le coefficient | katsayı | eril | Le coefficient indique le nombre de molécules. | Katsayı molekül sayısını gösterir.
+la combustion | yanma | dişil | La combustion du bois libère de la chaleur. | Odunun yanması ısı açığa çıkarır.
+brûler | yanmak, yakmak | fiil | Le magnésium brûle très vite. | Magnezyum çok hızlı yanar.
+l'oxydation | yükseltgenme, oksidasyon | dişil | La rouille est le résultat d'une oxydation. | Pas bir oksidasyonun sonucudur.
+la réduction | indirgenme | dişil | La réduction est l'inverse de l'oxydation. | İndirgenme oksidasyonun tersidir.
+l'oxydoréduction | redoks tepkimesi | dişil | La pile fonctionne grâce à une oxydoréduction. | Pil bir redoks tepkimesi sayesinde çalışır.
+s'oxyder | oksitlenmek | fiil | Le fer s'oxyde à l'air humide. | Demir nemli havada oksitlenir.
+rouiller | paslanmak | fiil | Le vélo a rouillé sous la pluie. | Bisiklet yağmurda paslandı.
+la rouille | pas | dişil | La rouille abîme le métal. | Pas metale zarar verir.
+la corrosion | korozyon, aşınma | dişil | La peinture protège de la corrosion. | Boya korozyona karşı korur.
+le catalyseur | katalizör | eril | Un catalyseur accélère la réaction. | Katalizör tepkimeyi hızlandırır.
+accélérer | hızlandırmak | fiil | La chaleur accélère la réaction. | Isı tepkimeyi hızlandırır.
+ralentir | yavaşlatmak | fiil | Le froid ralentit la réaction. | Soğuk tepkimeyi yavaşlatır.
+la vitesse de réaction | tepkime hızı | dişil | La température influence la vitesse de réaction. | Sıcaklık tepkime hızını etkiler.
+exothermique | ekzotermik, ısı veren | sıfat | La combustion est une réaction exothermique. | Yanma ekzotermik bir tepkimedir.
+endothermique | endotermik, ısı alan | sıfat | La fusion de la glace est endothermique. | Buzun erimesi endotermiktir.
+libérer | açığa çıkarmak, serbest bırakmak | fiil | La réaction libère un gaz. | Tepkime bir gaz açığa çıkarır.
+dégager | yaymak, açığa çıkarmak | fiil | La combustion dégage de la chaleur. | Yanma ısı yayar.
+réagir | tepkimeye girmek | fiil | L'acide réagit avec le métal. | Asit metalle tepkimeye girer.
+se former | oluşmak | fiil | Un précipité blanc se forme. | Beyaz bir çökelti oluşur.
+le précipité | çökelti | eril | Le précipité tombe au fond du tube. | Çökelti tüpün dibine düşer.
+la décomposition | bozunma, ayrışma | dişil | La décomposition de l'eau produit deux gaz. | Suyun ayrışması iki gaz üretir.
+la synthèse | sentez | dişil | La synthèse de l'ammoniac est importante pour l'industrie. | Amonyak sentezi sanayi için önemlidir.
+l'électrolyse | elektroliz | dişil | L'électrolyse de l'eau produit de l'hydrogène. | Suyun elektrolizi hidrojen üretir.
+la conservation de la masse | kütlenin korunumu | dişil | Lavoisier a énoncé la loi de conservation de la masse. | Lavoisier kütlenin korunumu yasasını ortaya koydu.
+// Asitler ve bazlar, çözeltiler
+l'acide | asit | eril | Le citron contient un acide. | Limon bir asit içerir.
+la base | baz | dişil | La soude est une base forte. | Sodyum hidroksit güçlü bir bazdır.
+acide | asidik, ekşi | sıfat | Le jus de citron est acide. | Limon suyu asidiktir.
+basique | bazik | sıfat | L'eau de javel est basique. | Çamaşır suyu baziktir.
+neutre | nötr | sıfat | L'eau pure est neutre. | Saf su nötrdür.
+le pH | pH | eril | Le pH d'une solution acide est inférieur à sept. | Asidik bir çözeltinin pH'ı yediden küçüktür.
+l'indicateur coloré | renk indikatörü | eril | L'indicateur coloré change de couleur selon le pH. | Renk indikatörü pH'a göre renk değiştirir.
+la neutralisation | nötrleşme | dişil | La neutralisation d'un acide par une base produit de l'eau. | Bir asidin bazla nötrleşmesi su üretir.
+l'acide chlorhydrique | hidroklorik asit | eril | L'acide chlorhydrique est très corrosif. | Hidroklorik asit çok aşındırıcıdır.
+l'acide sulfurique | sülfürik asit | eril | L'acide sulfurique est utilisé dans les batteries. | Sülfürik asit akülerde kullanılır.
+la soude | sodyum hidroksit (kostik soda) | dişil | La soude attaque la peau. | Kostik soda cildi tahriş eder.
+la solution | çözelti | dişil | On prépare une solution de sel dans l'eau. | Suda tuz çözeltisi hazırlanır.
+le soluté | çözünen | eril | Le sucre est le soluté dans l'eau sucrée. | Şekerli suda çözünen şekerdir.
+le solvant | çözücü | eril | L'eau est le solvant le plus courant. | Su en yaygın çözücüdür.
+dissoudre | çözmek | fiil | On dissout le sel dans l'eau chaude. | Tuz sıcak suda çözülür.
+se dissoudre | çözünmek | fiil | Le sucre se dissout dans le thé. | Şeker çayda çözünür.
+la dissolution | çözünme | dişil | La dissolution du sucre est plus rapide dans l'eau chaude. | Şekerin çözünmesi sıcak suda daha hızlıdır.
+soluble | çözünür | sıfat | Le sel est soluble dans l'eau. | Tuz suda çözünür.
+insoluble | çözünmez | sıfat | Le sable est insoluble dans l'eau. | Kum suda çözünmez.
+la concentration | derişim | dişil | La concentration se mesure en mol/L. | Derişim mol/L ile ölçülür.
+concentré | derişik | sıfat | Cet acide est très concentré. | Bu asit çok derişik.
+diluer | seyreltmek | fiil | Il faut diluer l'acide avec de l'eau. | Asidi suyla seyreltmek gerekir.
+la dilution | seyreltme | dişil | La dilution diminue la concentration. | Seyreltme derişimi azaltır.
+saturé | doymuş | sıfat | La solution est saturée : le sel ne se dissout plus. | Çözelti doymuş: tuz artık çözünmüyor.
+la mole | mol | dişil | Une mole contient environ 6 × 10^23 entités. | Bir mol yaklaşık 6 × 10^23 tanecik içerir.
+la quantité de matière | madde miktarı | dişil | La quantité de matière s'exprime en moles. | Madde miktarı mol ile ifade edilir.
+le volume | hacim | eril | Le volume se mesure en litres. | Hacim litreyle ölçülür.
+la densité | yoğunluk (bağıl) | dişil | La densité de l'huile est inférieure à celle de l'eau. | Yağın yoğunluğu suyunkinden düşüktür.
+la masse volumique | özkütle | dişil | La masse volumique de l'eau est de 1 g/mL. | Suyun özkütlesi 1 g/mL'dir.
+// Laboratuvar
+le laboratoire | laboratuvar | eril | Les élèves travaillent au laboratoire. | Öğrenciler laboratuvarda çalışıyor.
+l'expérience | deney; deneyim | dişil | Nous avons réalisé une expérience. | Bir deney yaptık.
+le bécher | beher | eril | On verse l'acide dans le bécher. | Asidi behere döküyoruz.
+l'erlenmeyer | erlenmayer | eril | Agitez doucement l'erlenmeyer. | Erlenmayeri yavaşça çalkalayın.
+l'éprouvette | ölçü silindiri; deney tüpü | dişil | Mesurez 50 mL d'eau avec l'éprouvette graduée. | Dereceli silindirle 50 mL su ölçün.
+le tube à essai | deney tüpü | eril | Le tube à essai contient un liquide bleu. | Deney tüpünde mavi bir sıvı var.
+la pipette | pipet | dişil | Prélevez 10 mL avec la pipette. | Pipetle 10 mL alın.
+la burette | büret | dişil | On utilise une burette pour le dosage. | Titrasyon için büret kullanılır.
+l'entonnoir | huni | eril | Utilisez un entonnoir pour verser le liquide. | Sıvıyı dökmek için huni kullanın.
+le papier filtre | süzgeç kâğıdı | eril | Le papier filtre retient le solide. | Süzgeç kâğıdı katıyı tutar.
+la balance | terazi | dişil | Pesez le sel avec la balance. | Tuzu terazide tartın.
+le thermomètre | termometre | eril | Le thermomètre indique 25 °C. | Termometre 25 °C gösteriyor.
+le bec Bunsen | Bunsen beki | eril | Allumez le bec Bunsen avec précaution. | Bunsen bekini dikkatle yakın.
+la flamme | alev | dişil | La flamme devient bleue. | Alev maviye dönüşüyor.
+les lunettes de protection | koruyucu gözlük | dişil-çoğul | Portez toujours des lunettes de protection. | Her zaman koruyucu gözlük takın.
+la blouse | önlük | dişil | La blouse protège les vêtements. | Önlük kıyafetleri korur.
+les gants | eldivenler | eril-çoğul | Mettez des gants pour manipuler l'acide. | Asitle çalışırken eldiven takın.
+la hotte | çeker ocak | dişil | Les gaz toxiques sont évacués par la hotte. | Zehirli gazlar çeker ocaktan tahliye edilir.
+le flacon | şişe | eril | Fermez bien le flacon après usage. | Kullandıktan sonra şişeyi iyice kapatın.
+l'échantillon | numune | eril | Le technicien analyse un échantillon. | Teknisyen bir numuneyi analiz ediyor.
+le pictogramme | tehlike işareti, piktogram | eril | Le pictogramme indique un produit inflammable. | Piktogram yanıcı bir ürünü gösteriyor.
+verser | dökmek | fiil | Versez lentement l'acide dans l'eau. | Asidi yavaşça suya dökün.
+chauffer | ısıtmak | fiil | On chauffe le mélange pendant dix minutes. | Karışım on dakika ısıtılır.
+refroidir | soğutmak, soğumak | fiil | Laissez refroidir la solution. | Çözeltiyi soğumaya bırakın.
+agiter | çalkalamak | fiil | Agitez le tube avant l'observation. | Gözlemden önce tüpü çalkalayın.
+peser | tartmak | fiil | Il faut peser deux grammes de sel. | İki gram tuz tartmak gerekir.
+mesurer | ölçmek | fiil | Mesurez la température de la solution. | Çözeltinin sıcaklığını ölçün.
+filtrer | süzmek | fiil | On filtre le mélange pour séparer le solide. | Katıyı ayırmak için karışım süzülür.
+la filtration | süzme | dişil | La filtration sépare un solide d'un liquide. | Süzme, katıyı sıvıdan ayırır.
+la décantation | çöktürme | dişil | La décantation permet de séparer l'eau et l'huile. | Çöktürme su ile yağı ayırmayı sağlar.
+la distillation | damıtma | dişil | La distillation sépare des liquides. | Damıtma sıvıları birbirinden ayırır.
+le dosage | titrasyon, miktar tayini | eril | Le dosage permet de connaître la concentration. | Titrasyon derişimi öğrenmeyi sağlar.
+le titrage | titrasyon | eril | Le titrage s'arrête au changement de couleur. | Titrasyon renk değişince durur.
+observer | gözlemlemek | fiil | Observez la couleur de la solution. | Çözeltinin rengini gözlemleyin.
+l'observation | gözlem | dişil | Notez vos observations dans le cahier. | Gözlemlerinizi deftere not edin.
+la conclusion | sonuç | dişil | La conclusion confirme notre hypothèse. | Sonuç hipotezimizi doğruluyor.
+le protocole | deney yöntemi, protokol | eril | Suivez attentivement le protocole. | Deney yöntemini dikkatle izleyin.
+toxique | zehirli | sıfat | Ce gaz est toxique. | Bu gaz zehirli.
+inflammable | yanıcı | sıfat | L'éthanol est très inflammable. | Etanol çok yanıcıdır.
+corrosif, corrosive | aşındırıcı | sıfat | L'acide sulfurique est corrosif. | Sülfürik asit aşındırıcıdır.
+pur | saf | sıfat | Cet échantillon n'est pas pur. | Bu numune saf değil.
+la pression | basınç | dişil | La pression atmosphérique diminue en altitude. | Atmosfer basıncı yükseklikte azalır.
+la température | sıcaklık | dişil | La température de la pièce est de 20 °C. | Odanın sıcaklığı 20 °C.
+la chaleur | ısı | dişil | La réaction produit de la chaleur. | Tepkime ısı üretir.
+le degré | derece | eril | Il fait trente degrés. | Hava otuz derece.
+la propriété | özellik | dişil | Chaque métal a des propriétés différentes. | Her metalin farklı özellikleri vardır.
+la charge | yük | dişil | L'électron a une charge négative. | Elektronun negatif yükü vardır.
+la pile | pil | dişil | Une pile transforme l'énergie chimique en énergie électrique. | Pil kimyasal enerjiyi elektrik enerjisine dönüştürür.
+l'électrode | elektrot | dişil | Les électrodes sont plongées dans la solution. | Elektrotlar çözeltiye daldırılır.
+la chimie organique | organik kimya | dişil | La chimie organique étudie les composés du carbone. | Organik kimya karbon bileşiklerini inceler.
+le chimiste | kimyager | eril | Le chimiste analyse la composition du produit. | Kimyager ürünün bileşimini analiz ediyor.

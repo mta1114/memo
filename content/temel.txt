@@ -1,0 +1,513 @@
+// Temel sözlük: metinlerde kelimeye dokununca anlam gösterebilmek için. Çalışmaya kapalı başlar.
+#deste: Temel (A1–A2)
+#seviye: A1–A2
+#aktif: hayır
+le | belirli artikel (eril tekil) | artikel
+la | belirli artikel (dişil tekil) | artikel
+les | belirli artikel (çoğul) | artikel
+un | bir (eril) | artikel
+une | bir (dişil) | artikel
+des | birtakım, bazı (belirsiz çoğul artikel) | artikel
+du | biraz (eril parça artikeli); de + le | artikel
+au | -e/-a, -de/-da (à + le) | edat
+aux | -lere/-lara, -lerde/-larda (à + les) | edat
+ce | bu, şu (eril) | zamir
+cet | bu, şu (sesliyle başlayan eril isim önünde) | zamir
+cette | bu, şu (dişil) | zamir
+ces | bunlar, şunlar; bu/şu (çoğul) | zamir
+mon | benim (eril) | zamir
+ma | benim (dişil) | zamir
+mes | benim (çoğul) | zamir
+ton | senin (eril) | zamir
+ta | senin (dişil) | zamir
+tes | senin (çoğul) | zamir
+son | onun (eril) | zamir
+sa | onun (dişil) | zamir
+ses | onun (çoğul) | zamir
+notre | bizim | zamir
+nos | bizim (çoğul) | zamir
+votre | sizin | zamir
+vos | sizin (çoğul) | zamir
+leur | onların; onlara | zamir
+leurs | onların (çoğul) | zamir
+je | ben | zamir
+tu | sen | zamir
+il | o (eril); (kişisiz yapılarda) | zamir
+elle | o (dişil) | zamir
+nous | biz; bize, bizi | zamir
+vous | siz; size, sizi | zamir
+ils | onlar (eril/karışık) | zamir
+elles | onlar (dişil) | zamir
+on | biz (konuşma dili); insan, birileri | zamir
+me | beni, bana | zamir
+te | seni, sana | zamir
+se | kendini, kendine (dönüşlü zamir) | zamir
+lui | ona; o (vurgulu) | zamir
+y | oraya, orada; ona (à + şey) | zamir
+en | -de/-da, ile; ondan, ondan biraz | edat
+moi | ben, beni (vurgulu) | zamir
+toi | sen, seni (vurgulu) | zamir
+eux | onlar (vurgulu, eril) | zamir
+qui | kim; ki o (ilgi zamiri) | zamir
+que | ki; ne; -dığı (ilgi zamiri) | bağlaç
+quoi | ne | zamir
+dont | ki onun, -dığı (de ile kurulan ilgi zamiri) | zamir
+où | nerede, nereye; -dığı yer | zarf
+quel, quelle | hangi; ne kadar | sıfat
+celui | o, şu (eril) | zamir
+celle | o, şu (dişil) | zamir
+ceux | onlar, şunlar (eril çoğul) | zamir
+ça | bu, şu (konuşma dili) | zamir
+cela | bu, şu | zamir
+ceci | bu | zamir
+tout | her şey; bütün, tüm | zamir
+tous | hepsi; bütün (eril çoğul) | zamir
+toute | bütün (dişil) | zamir
+toutes | hepsi; bütün (dişil çoğul) | zamir
+rien | hiçbir şey | zamir
+personne | hiç kimse; kişi | zamir
+quelqu'un | birisi | zamir
+quelque chose | bir şey | zamir
+chacun | her biri | zamir
+autre | başka, diğer | sıfat
+même | aynı; bile | sıfat
+à | -e/-a; -de/-da | edat
+de | -den/-dan; -in/-ın | edat
+dans | içinde, -de/-da | edat
+sur | üzerinde, hakkında | edat
+sous | altında | edat
+avec | ile, birlikte | edat
+sans | -sız, -siz; olmadan | edat
+pour | için | edat
+par | tarafından; ile; -den | edat
+chez | -in evinde, -de | edat
+entre | arasında | edat
+vers | -e doğru | edat
+depuis | -den beri | edat
+pendant | sırasında, boyunca | edat
+avant | önce | edat
+après | sonra | edat
+contre | karşı | edat
+selon | -e göre | edat
+parmi | arasında (çok şey içinden) | edat
+jusqu'à | -e kadar | edat
+devant | önünde | edat
+derrière | arkasında | edat
+près de | yakınında | edat
+loin de | uzağında | edat
+à côté de | yanında | edat
+grâce à | sayesinde | edat
+malgré | -e rağmen | edat
+et | ve | bağlaç
+ou | veya | bağlaç
+mais | ama | bağlaç
+donc | dolayısıyla, yani | bağlaç
+car | çünkü | bağlaç
+si | eğer; öyle, o kadar | bağlaç
+quand | ne zaman; -dığı zaman | bağlaç
+comme | gibi; çünkü | bağlaç
+parce que | çünkü | bağlaç
+puisque | madem, -dığı için | bağlaç
+lorsque | -dığı zaman | bağlaç
+alors | o zaman, öyleyse | zarf
+ensuite | sonra, ardından | zarf
+puis | sonra | zarf
+aussi | de, da; ayrıca | zarf
+ni | ne ... ne | bağlaç
+ne | olumsuzluk eki (ne ... pas) | zarf
+pas | değil (olumsuzluk) | zarf
+plus | daha; artık (ne ... plus) | zarf
+moins | daha az | zarf
+très | çok | zarf
+trop | fazla, aşırı | zarf
+assez | yeterince; oldukça | zarf
+beaucoup | çok | zarf
+peu | az | zarf
+bien | iyi; çok | zarf
+mal | kötü | zarf
+mieux | daha iyi | zarf
+déjà | zaten, çoktan | zarf
+encore | hâlâ; yine, daha | zarf
+toujours | her zaman; hâlâ | zarf
+jamais | asla, hiç | zarf
+souvent | sık sık | zarf
+parfois | bazen | zarf
+maintenant | şimdi | zarf
+aujourd'hui | bugün | zarf
+hier | dün | zarf
+demain | yarın | zarf
+ici | burada | zarf
+là | orada; burada | zarf
+là-bas | orada, ötede | zarf
+tôt | erken | zarf
+tard | geç | zarf
+vite | hızlı, çabuk | zarf
+ensemble | birlikte | zarf
+seulement | sadece | zarf
+surtout | özellikle | zarf
+enfin | sonunda | zarf
+d'abord | önce, ilk olarak | zarf
+bientôt | yakında | zarf
+plutôt | daha çok, tercihen | zarf
+environ | yaklaşık | zarf
+presque | neredeyse | zarf
+peut-être | belki | zarf
+ainsi | böylece, bu şekilde | zarf
+vraiment | gerçekten | zarf
+tellement | o kadar, öylesine | zarf
+combien | ne kadar, kaç | zarf
+comment | nasıl | zarf
+pourquoi | neden | zarf
+oui | evet | ünlem
+non | hayır | ünlem
+être | olmak | fiil
+avoir | sahip olmak; (yardımcı fiil) | fiil
+aller | gitmek | fiil
+faire | yapmak | fiil
+dire | söylemek | fiil
+pouvoir | -ebilmek | fiil
+vouloir | istemek | fiil
+savoir | bilmek | fiil
+devoir | zorunda olmak; borçlu olmak | fiil
+venir | gelmek | fiil
+prendre | almak | fiil
+mettre | koymak; giymek | fiil
+voir | görmek | fiil
+donner | vermek | fiil
+parler | konuşmak | fiil
+aimer | sevmek | fiil
+trouver | bulmak | fiil
+penser | düşünmek | fiil
+passer | geçmek; geçirmek | fiil
+regarder | bakmak, izlemek | fiil
+demander | sormak; istemek | fiil
+rester | kalmak | fiil
+croire | inanmak, sanmak | fiil
+laisser | bırakmak | fiil
+arriver | varmak; olmak | fiil
+partir | gitmek, ayrılmak | fiil
+sortir | çıkmak | fiil
+entrer | girmek | fiil
+rentrer | eve dönmek | fiil
+tomber | düşmek | fiil
+porter | taşımak; giymek | fiil
+chercher | aramak | fiil
+comprendre | anlamak | fiil
+connaître | tanımak, bilmek | fiil
+attendre | beklemek | fiil
+entendre | duymak | fiil
+répondre | cevap vermek | fiil
+vivre | yaşamak | fiil
+écrire | yazmak | fiil
+lire | okumak | fiil
+boire | içmek | fiil
+manger | yemek | fiil
+dormir | uyumak | fiil
+ouvrir | açmak | fiil
+fermer | kapatmak | fiil
+jouer | oynamak; çalmak (enstrüman) | fiil
+travailler | çalışmak | fiil
+habiter | oturmak, ikamet etmek | fiil
+acheter | satın almak | fiil
+payer | ödemek | fiil
+commencer | başlamak | fiil
+finir | bitirmek | fiil
+choisir | seçmek | fiil
+appeler | çağırmak; aramak (telefonla) | fiil
+utiliser | kullanmak | fiil
+montrer | göstermek | fiil
+essayer | denemek | fiil
+oublier | unutmak | fiil
+aider | yardım etmek | fiil
+apprendre | öğrenmek; öğretmek | fiil
+devenir | olmak (dönüşmek) | fiil
+revenir | geri gelmek | fiil
+tenir | tutmak | fiil
+sentir | hissetmek; koklamak | fiil
+suivre | izlemek, takip etmek | fiil
+perdre | kaybetmek | fiil
+gagner | kazanmak | fiil
+marcher | yürümek; çalışmak (makine) | fiil
+courir | koşmak | fiil
+changer | değiştirmek, değişmek | fiil
+créer | yaratmak, oluşturmak | fiil
+ajouter | eklemek | fiil
+permettre | izin vermek, sağlamak | fiil
+préparer | hazırlamak | fiil
+rencontrer | karşılaşmak, tanışmak | fiil
+raconter | anlatmak | fiil
+expliquer | açıklamak | fiil
+continuer | devam etmek | fiil
+monter | çıkmak, binmek | fiil
+descendre | inmek | fiil
+tourner | dönmek, çevirmek | fiil
+mourir | ölmek | fiil
+naître | doğmak | fiil
+servir | hizmet etmek; yaramak | fiil
+envoyer | göndermek | fiil
+recevoir | almak (gelen bir şeyi) | fiil
+rire | gülmek | fiil
+sembler | görünmek, gibi gelmek | fiil
+falloir | gerekmek (il faut) | fiil
+pleuvoir | yağmur yağmak | fiil
+se lever | kalkmak | fiil
+s'appeler | adı ... olmak | fiil
+se souvenir | hatırlamak | fiil
+s'asseoir | oturmak | fiil
+visiter | gezmek, ziyaret etmek | fiil
+voyager | seyahat etmek | fiil
+écouter | dinlemek | fiil
+étudier | ders çalışmak, incelemek | fiil
+le temps | zaman; hava | eril
+l'année | yıl | dişil
+l'an | yıl | eril
+le jour | gün | eril
+la journée | gün (gün boyu) | dişil
+la semaine | hafta | dişil
+le mois | ay | eril
+l'heure | saat | dişil
+la minute | dakika | dişil
+le matin | sabah | eril
+le soir | akşam | eril
+la nuit | gece | dişil
+la vie | hayat | dişil
+le monde | dünya; insanlar | eril
+la personne | kişi | dişil
+les gens | insanlar | eril-çoğul
+l'homme | adam; insan | eril
+la femme | kadın; eş | dişil
+l'enfant | çocuk | eril/dişil
+l'ami | arkadaş (erkek) | eril
+l'amie | arkadaş (kadın) | dişil
+la famille | aile | dişil
+les parents | anne-baba | eril-çoğul
+le père | baba | eril
+la mère | anne | dişil
+le frère | erkek kardeş | eril
+la sœur | kız kardeş | dişil
+le fils | oğul | eril
+la fille | kız; kız evlat | dişil
+la maison | ev | dişil
+l'appartement | daire | eril
+la ville | şehir | dişil
+le pays | ülke | eril
+la rue | sokak | dişil
+l'école | okul | dişil
+le travail | iş; çalışma | eril
+l'eau | su | dişil
+le pain | ekmek | eril
+la chose | şey | dişil
+le problème | sorun | eril
+la question | soru | dişil
+la réponse | cevap | dişil
+la main | el | dişil
+la tête | baş, kafa | dişil
+l'œil | göz (çoğulu: les yeux) | eril
+les yeux | gözler | eril-çoğul
+le corps | vücut | eril
+la voiture | araba | dişil
+le train | tren | eril
+le bus | otobüs | eril
+le livre | kitap | eril
+la porte | kapı | dişil
+la fenêtre | pencere | dişil
+la table | masa | dişil
+la chambre | yatak odası; oda | dişil
+la cuisine | mutfak; yemek pişirme | dişil
+le lit | yatak | eril
+le nom | isim, ad | eril
+la langue | dil | dişil
+le mot | kelime | eril
+la phrase | cümle | dişil
+le cours | ders | eril
+la classe | sınıf | dişil
+le/la professeur | öğretmen | eril/dişil
+l'étudiant | öğrenci (erkek) | eril
+l'étudiante | öğrenci (kadın) | dişil
+le moment | an | eril
+la fois | kez, defa | dişil
+la partie | kısım, bölüm | dişil
+le côté | yan, taraf | eril
+la place | yer; meydan | dişil
+le lieu | yer, mekân | eril
+l'idée | fikir | dişil
+l'histoire | hikâye; tarih | dişil
+la raison | sebep; akıl | dişil
+le besoin | ihtiyaç | eril
+l'argent | para; gümüş | eril
+le prix | fiyat; ödül | eril
+le magasin | mağaza | eril
+le marché | pazar | eril
+le repas | yemek, öğün | eril
+le café | kahve; kafe | eril
+le thé | çay | eril
+le lait | süt | eril
+la viande | et | dişil
+le fruit | meyve | eril
+le légume | sebze | eril
+la mer | deniz | dişil
+la montagne | dağ | dişil
+le soleil | güneş | eril
+la pluie | yağmur | dişil
+le vent | rüzgâr | eril
+l'air | hava | eril
+la terre | toprak; dünya | dişil
+le feu | ateş | eril
+la couleur | renk | dişil
+la musique | müzik | dişil
+le film | film | eril
+le sport | spor | eril
+le jeu | oyun | eril
+la santé | sağlık | dişil
+le médecin | doktor | eril
+l'hôpital | hastane | eril
+la fête | parti, bayram | dişil
+le cadeau | hediye | eril
+la lettre | mektup; harf | dişil
+le message | mesaj | eril
+le téléphone | telefon | eril
+l'ordinateur | bilgisayar | eril
+la photo | fotoğraf | dişil
+le début | başlangıç | eril
+la fin | son | dişil
+le centre | merkez | eril
+le bout | uç, son | eril
+la façon | şekil, tarz | dişil
+la manière | biçim, tarz | dişil
+le groupe | grup | eril
+l'exemple | örnek | eril
+le nombre | sayı | eril
+la nature | doğa | dişil
+l'animal | hayvan | eril
+le chien | köpek | eril
+le chat | kedi | eril
+l'arbre | ağaç | eril
+la fleur | çiçek | dişil
+le jardin | bahçe | eril
+le bureau | ofis; çalışma masası | eril
+l'entreprise | şirket | dişil
+la France | Fransa | dişil
+le français | Fransızca | eril
+la salle | salon, oda | dişil
+le week-end | hafta sonu | eril
+le vélo | bisiklet | eril
+la route | yol | dişil
+le quartier | mahalle | eril
+le voisin | komşu (erkek) | eril
+la voisine | komşu (kadın) | dişil
+le samedi | cumartesi | eril
+le dimanche | pazar (gün) | eril
+le lundi | pazartesi | eril
+deux | iki | sayı
+trois | üç | sayı
+quatre | dört | sayı
+cinq | beş | sayı
+six | altı | sayı
+sept | yedi | sayı
+huit | sekiz | sayı
+neuf | dokuz | sayı
+dix | on | sayı
+vingt | yirmi | sayı
+trente | otuz | sayı
+cent | yüz | sayı
+mille | bin | sayı
+bon, bonne | iyi | sıfat
+grand | büyük; uzun boylu | sıfat
+petit | küçük | sıfat
+nouveau, nouvelle | yeni | sıfat
+beau, belle | güzel | sıfat
+vieux, vieille | yaşlı, eski | sıfat
+jeune | genç | sıfat
+long, longue | uzun | sıfat
+haut | yüksek | sıfat
+bas, basse | alçak | sıfat
+gros, grosse | kalın, iri | sıfat
+fort | güçlü | sıfat
+vrai | doğru, gerçek | sıfat
+faux, fausse | yanlış, sahte | sıfat
+seul | yalnız; tek | sıfat
+plein | dolu | sıfat
+vide | boş | sıfat
+chaud | sıcak | sıfat
+froid | soğuk | sıfat
+facile | kolay | sıfat
+difficile | zor | sıfat
+important | önemli | sıfat
+possible | mümkün | sıfat
+simple | basit | sıfat
+rapide | hızlı | sıfat
+lent | yavaş | sıfat
+cher, chère | pahalı; sevgili | sıfat
+libre | özgür; boş | sıfat
+prêt | hazır | sıfat
+sûr | emin; güvenli | sıfat
+heureux | mutlu | sıfat
+triste | üzgün | sıfat
+content | memnun | sıfat
+malade | hasta | sıfat
+fatigué | yorgun | sıfat
+propre | temiz; kendi | sıfat
+sale | kirli | sıfat
+noir | siyah | sıfat
+blanc, blanche | beyaz | sıfat
+rouge | kırmızı | sıfat
+bleu | mavi | sıfat
+vert | yeşil | sıfat
+jaune | sarı | sıfat
+gris | gri | sıfat
+clair | açık; net | sıfat
+premier, première | birinci, ilk | sıfat
+dernier, dernière | son; geçen | sıfat
+chaque | her | sıfat
+plusieurs | birkaç | sıfat
+quelques | birkaç, bazı | sıfat
+certain | belirli; emin | sıfat
+différent | farklı | sıfat
+prochain | gelecek, sonraki | sıfat
+ancien, ancienne | eski | sıfat
+français | Fransız | sıfat
+utile | faydalı | sıfat
+normal | normal | sıfat
+naturel, naturelle | doğal | sıfat
+entier, entière | bütün, tam | sıfat
+meilleur | daha iyi; en iyi | sıfat
+d'accord | tamam; hemfikir | ifade
+bonjour | merhaba, günaydın | ünlem
+merci | teşekkürler | ünlem
+s'il vous plaît | lütfen | ifade
+loin | uzak, uzakta | zarf
+près | yakın, yakında | zarf
+midi | öğle, saat on iki | eril
+le métro | metro | eril
+internet | internet | eril
+la pizza | pizza | dişil
+quarante | kırk | sayı
+cinquante | elli | sayı
+soixante | altmış | sayı
+l'hiver | kış | eril
+l'été | yaz | eril
+le printemps | ilkbahar | eril
+l'automne | sonbahar | eril
+les vacances | tatil | dişil-çoğul
+le restaurant | restoran | eril
+la décision | karar | dişil
+la réaction | tepki; tepkime | dişil
+l'élément | öğe; element | eril
+la chimie | kimya | dişil
+chimique | kimyasal | sıfat
+le tableau | tablo; çizelge | eril
+récent | yeni, yakın tarihli | sıfat
+rapidement | hızla | zarf
+adorer | bayılmak, çok sevmek | fiil
+concerner | ilgilendirmek | fiil
+contenir | içermek | fiil
+durer | sürmek | fiil
+garder | saklamak, korumak | fiil
+imaginer | hayal etmek | fiil
+inviter | davet etmek | fiil
+poser | koymak; (soru) sormak | fiil
+préférer | tercih etmek | fiil
+présenter | sunmak, tanıtmak | fiil
+vendre | satmak | fiil
+suffire | yetmek, yeterli olmak | fiil
+Paris | Paris (Fransa'nın başkenti) | ifade

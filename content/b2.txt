@@ -1,0 +1,259 @@
+#deste: B2 Kelimeleri
+#seviye: B2
+// Tartışma dili ve bağlayıcılar
+néanmoins | bununla birlikte, yine de | zarf | Le projet est coûteux ; néanmoins, il est nécessaire. | Proje pahalı; bununla birlikte gerekli.
+toutefois | ancak, yine de | zarf | Je suis d'accord, toutefois j'ai une réserve. | Katılıyorum, ancak bir çekincem var.
+en revanche | buna karşılık | ifade | Il est nul en maths ; en revanche, il écrit très bien. | Matematikte berbat; buna karşılık çok iyi yazıyor.
+par conséquent | dolayısıyla | ifade | Il a manqué le bus ; par conséquent, il est arrivé en retard. | Otobüsü kaçırdı; dolayısıyla geç kaldı.
+en outre | ayrıca | ifade | Ce logiciel est rapide ; en outre, il est gratuit. | Bu yazılım hızlı; ayrıca ücretsiz.
+d'autant plus que | üstelik ... olduğu için | ifade | Je reste chez moi, d'autant plus qu'il pleut. | Evde kalıyorum, üstelik yağmur da yağıyor.
+quant à | -e gelince | edat | Quant à moi, je préfère attendre. | Bana gelince, beklemeyi tercih ederim.
+à condition que | şartıyla (subjonctif ile) | bağlaç | Je viendrai à condition que tu m'invites. | Beni davet etmen şartıyla gelirim.
+pourvu que | yeter ki (subjonctif ile) | bağlaç | Pourvu qu'il fasse beau demain ! | Yeter ki yarın hava güzel olsun!
+de sorte que | öyle ki | bağlaç | Il parle fort de sorte que tout le monde l'entende. | Herkes duysun diye yüksek sesle konuşuyor.
+afin que | -sin diye (subjonctif ile) | bağlaç | Je t'explique afin que tu comprennes. | Anlayasın diye açıklıyorum.
+à moins que | -medikçe (subjonctif ile) | bağlaç | Nous partirons à moins qu'il ne pleuve. | Yağmur yağmadıkça yola çıkacağız.
+bien entendu | elbette | ifade | Bien entendu, tu es invité. | Elbette davetlisin.
+en fin de compte | sonuç olarak | ifade | En fin de compte, tout s'est bien passé. | Sonuç olarak her şey iyi geçti.
+dans la mesure où | -dığı ölçüde | ifade | Je t'aiderai dans la mesure où je le peux. | Elimden geldiğince sana yardım edeceğim.
+compte tenu de | göz önünde bulundurularak | ifade | Compte tenu de la situation, nous restons prudents. | Durum göz önüne alındığında temkinli kalıyoruz.
+en ce qui concerne | ... konusunda | ifade | En ce qui concerne le budget, rien n'est décidé. | Bütçe konusunda henüz bir karar yok.
+à l'inverse | aksine | ifade | À l'inverse de son frère, il est très calme. | Kardeşinin aksine çok sakin.
+autrement dit | başka bir deyişle | ifade | Il est parti sans payer, autrement dit il a volé. | Ödemeden gitti, başka bir deyişle çaldı.
+ainsi que | ve ayrıca, gibi | bağlaç | Les étudiants ainsi que les professeurs sont invités. | Öğrenciler ve öğretmenler davetli.
+or | oysa, ne var ki | bağlaç | Il devait venir ; or, il n'est jamais arrivé. | Gelmesi gerekiyordu; ne var ki hiç gelmedi.
+à savoir | yani, şöyle ki | ifade | Deux pays sont concernés, à savoir la France et l'Espagne. | İki ülke ilgili, yani Fransa ve İspanya.
+désormais | bundan böyle | zarf | Désormais, les réunions auront lieu en ligne. | Bundan böyle toplantılar çevrimiçi yapılacak.
+davantage | daha fazla | zarf | Il faudrait investir davantage dans l'éducation. | Eğitime daha fazla yatırım yapmak gerekir.
+nettement | belirgin şekilde | zarf | La situation s'est nettement améliorée. | Durum belirgin şekilde iyileşti.
+largement | büyük ölçüde | zarf | Ce problème est largement sous-estimé. | Bu sorun büyük ölçüde hafife alınıyor.
+notamment | özellikle | zarf | Plusieurs villes, notamment Lyon, ont réagi. | Başta Lyon olmak üzere birçok şehir tepki gösterdi.
+éventuellement | gerekirse, muhtemelen | zarf | Nous pourrions éventuellement reporter la réunion. | Gerekirse toplantıyı erteleyebiliriz.
+apparemment | görünüşe göre | zarf | Apparemment, le magasin a fermé. | Görünüşe göre mağaza kapanmış.
+volontiers | seve seve | zarf | Je t'aiderai volontiers. | Sana seve seve yardım ederim.
+// Soyut kavramlar
+l'enjeu | önemli mesele, söz konusu olan | eril | L'enjeu de cette élection est considérable. | Bu seçimin önemi büyük.
+le défi | meydan okuma, zorluk | eril | Le changement climatique est un défi mondial. | İklim değişikliği küresel bir sınav.
+la démarche | yaklaşım; işlem, başvuru | dişil | Les démarches administratives sont longues. | İdari işlemler uzun sürüyor.
+le phénomène | olgu | eril | Ce phénomène est de plus en plus fréquent. | Bu olgu giderek yaygınlaşıyor.
+la tendance | eğilim | dişil | On observe une tendance à la baisse. | Düşüş eğilimi gözlemleniyor.
+l'évolution | gelişim, değişim | dişil | L'évolution des technologies est rapide. | Teknolojilerin gelişimi hızlı.
+le progrès | ilerleme | eril | La médecine a fait d'immenses progrès. | Tıp muazzam ilerlemeler kaydetti.
+la croissance | büyüme | dişil | La croissance économique ralentit. | Ekonomik büyüme yavaşlıyor.
+la crise | kriz | dişil | Le pays traverse une crise grave. | Ülke ciddi bir kriz yaşıyor.
+la mesure | önlem; ölçüm | dişil | Le gouvernement a pris des mesures urgentes. | Hükümet acil önlemler aldı.
+la politique | politika; siyaset | dişil | La politique énergétique doit changer. | Enerji politikası değişmeli.
+l'inégalité | eşitsizlik | dişil | Les inégalités sociales augmentent. | Toplumsal eşitsizlikler artıyor.
+la pauvreté | yoksulluk | dişil | La lutte contre la pauvreté est une priorité. | Yoksullukla mücadele bir öncelik.
+la richesse | zenginlik | dişil | La biodiversité est une richesse à protéger. | Biyoçeşitlilik korunması gereken bir zenginlik.
+le pouvoir | güç, iktidar | eril | Le pouvoir d'achat a baissé. | Alım gücü düştü.
+le droit | hak; hukuk | eril | Chacun a le droit de s'exprimer. | Herkesin kendini ifade etme hakkı var.
+le devoir | görev, yükümlülük | eril | Voter est un droit et un devoir. | Oy vermek hem hak hem görevdir.
+la liberté | özgürlük | dişil | La liberté d'expression est fondamentale. | İfade özgürlüğü temel bir haktır.
+la responsabilité | sorumluluk | dişil | Il a assumé la responsabilité de l'échec. | Başarısızlığın sorumluluğunu üstlendi.
+la conscience | bilinç; vicdan | dişil | Il faut une prise de conscience collective. | Ortak bir farkındalık gerekiyor.
+la prise de conscience | farkındalık | dişil | La prise de conscience écologique progresse. | Ekolojik farkındalık artıyor.
+le point de vue | bakış açısı | eril | Je comprends ton point de vue. | Bakış açını anlıyorum.
+l'argument | argüman | eril | Son argument est convaincant. | Argümanı ikna edici.
+le débat | tartışma, münazara | eril | Le débat a duré deux heures. | Tartışma iki saat sürdü.
+la polémique | tartışma, polemik | dişil | Cette décision a suscité une polémique. | Bu karar bir tartışmaya yol açtı.
+le compromis | uzlaşma | eril | Ils ont trouvé un compromis. | Bir uzlaşma buldular.
+l'hypothèse | hipotez, varsayım | dişil | Cette hypothèse reste à vérifier. | Bu varsayımın doğrulanması gerekiyor.
+la preuve | kanıt | dişil | Il n'y a aucune preuve contre lui. | Ona karşı hiçbir kanıt yok.
+le constat | tespit | eril | Le constat est alarmant. | Tespit endişe verici.
+l'étude | çalışma, araştırma | dişil | Une étude récente montre le contraire. | Yakın tarihli bir araştırma bunun tersini gösteriyor.
+la recherche | araştırma | dişil | Elle travaille dans la recherche médicale. | Tıbbi araştırmada çalışıyor.
+le chercheur | araştırmacı | eril | Les chercheurs ont publié leurs résultats. | Araştırmacılar sonuçlarını yayımladı.
+la découverte | keşif | dişil | Cette découverte a changé la science. | Bu keşif bilimi değiştirdi.
+l'innovation | yenilik | dişil | L'innovation est au cœur de l'entreprise. | Yenilik şirketin merkezinde.
+le domaine | alan | eril | Il est expert dans ce domaine. | Bu alanda uzman.
+la ressource | kaynak | dişil | Les ressources naturelles s'épuisent. | Doğal kaynaklar tükeniyor.
+l'impact | etki | eril | L'impact de l'homme sur la nature est énorme. | İnsanın doğa üzerindeki etkisi muazzam.
+la conséquence | sonuç | dişil | Cette décision aura des conséquences graves. | Bu kararın ciddi sonuçları olacak.
+la cause | neden; dava | dişil | Quelle est la cause de l'accident ? | Kazanın nedeni ne?
+l'avantage | avantaj | eril | Le télétravail présente de nombreux avantages. | Uzaktan çalışmanın birçok avantajı var.
+l'inconvénient | dezavantaj | eril | Le principal inconvénient est le prix. | Asıl dezavantajı fiyatı.
+la menace | tehdit | dişil | La pollution est une menace pour la santé. | Kirlilik sağlık için bir tehdit.
+la lutte | mücadele | dişil | La lutte contre le gaspillage est essentielle. | İsrafla mücadele çok önemli.
+l'effort | çaba | eril | Il a fait beaucoup d'efforts. | Çok çaba gösterdi.
+l'échec | başarısızlık | eril | Cet échec lui a servi de leçon. | Bu başarısızlık ona ders oldu.
+la réussite | başarı | dişil | La réussite demande du travail. | Başarı emek ister.
+le bilan | bilanço, değerlendirme | eril | Le bilan de l'année est positif. | Yılın değerlendirmesi olumlu.
+l'ampleur | boyut, kapsam | dişil | Personne n'imaginait l'ampleur du problème. | Kimse sorunun boyutunu tahmin etmiyordu.
+la manifestation | gösteri, eylem; belirti | dişil | Des milliers de personnes ont participé à la manifestation. | Binlerce kişi gösteriye katıldı.
+le comportement | davranış | eril | Son comportement est inacceptable. | Davranışı kabul edilemez.
+l'attitude | tutum | dişil | Il faut garder une attitude positive. | Olumlu bir tutum korumak gerekir.
+le préjugé | önyargı | eril | Il faut lutter contre les préjugés. | Önyargılarla mücadele etmek gerekir.
+la valeur | değer | dişil | La solidarité est une valeur importante. | Dayanışma önemli bir değerdir.
+la solidarité | dayanışma | dişil | La solidarité entre voisins est précieuse. | Komşular arasındaki dayanışma çok değerli.
+le bien-être | iyi oluş, refah | eril | Le sport améliore le bien-être. | Spor iyi oluşu artırır.
+le mode de vie | yaşam tarzı | eril | Notre mode de vie a beaucoup changé. | Yaşam tarzımız çok değişti.
+// Fiiller
+souligner | vurgulamak | fiil | Le rapport souligne l'urgence de la situation. | Rapor durumun aciliyetini vurguluyor.
+mettre en œuvre | uygulamaya koymak | ifade | Le plan sera mis en œuvre l'an prochain. | Plan gelecek yıl uygulamaya konacak.
+mettre en place | kurmak, hayata geçirmek | ifade | La mairie a mis en place un nouveau service. | Belediye yeni bir hizmet başlattı.
+prendre en compte | dikkate almak | ifade | Il faut prendre en compte l'avis des habitants. | Sakinlerin görüşünü dikkate almak gerekir.
+faire face à | karşı karşıya kalmak, göğüs germek | ifade | L'entreprise fait face à des difficultés. | Şirket zorluklarla karşı karşıya.
+remettre en question | sorgulamak | ifade | Cette étude remet en question nos certitudes. | Bu araştırma kesin bildiklerimizi sorguluyor.
+tenir compte de | hesaba katmak | ifade | Tiens compte de mes remarques. | Notlarımı dikkate al.
+aboutir | sonuçlanmak, varmak | fiil | Les négociations ont abouti à un accord. | Müzakereler bir anlaşmayla sonuçlandı.
+accroître | artırmak | fiil | Cette mesure va accroître les inégalités. | Bu önlem eşitsizlikleri artıracak.
+réduire | azaltmak | fiil | Il faut réduire les émissions de CO2. | CO2 salımını azaltmak gerekir.
+favoriser | desteklemek, kolaylaştırmak | fiil | Le sport favorise la concentration. | Spor konsantrasyonu destekler.
+engendrer | doğurmak, yol açmak | fiil | La crise a engendré du chômage. | Kriz işsizliğe yol açtı.
+entraîner | yol açmak; antrenman yaptırmak | fiil | Cette erreur a entraîné des retards. | Bu hata gecikmelere yol açtı.
+provoquer | neden olmak, kışkırtmak | fiil | La tempête a provoqué des dégâts. | Fırtına hasara neden oldu.
+susciter | uyandırmak, yol açmak | fiil | Ce film a suscité beaucoup de réactions. | Bu film çok tepki uyandırdı.
+contribuer | katkıda bulunmak | fiil | Chacun peut contribuer à protéger la nature. | Herkes doğayı korumaya katkıda bulunabilir.
+participer | katılmak | fiil | Elle a participé au concours. | Yarışmaya katıldı.
+s'engager | taahhüt etmek, kendini adamak | fiil | Il s'est engagé dans une association. | Bir derneğe gönüllü olarak katıldı.
+soutenir | desteklemek | fiil | Ses amis l'ont toujours soutenu. | Arkadaşları onu hep destekledi.
+s'opposer | karşı çıkmak | fiil | Les habitants s'opposent au projet. | Sakinler projeye karşı çıkıyor.
+exiger | talep etmek | fiil | Les salariés exigent une augmentation. | Çalışanlar zam talep ediyor.
+prétendre | iddia etmek | fiil | Il prétend avoir tout compris. | Her şeyi anladığını iddia ediyor.
+affirmer | öne sürmek, ileri sürmek | fiil | Le ministre affirme que tout va bien. | Bakan her şeyin yolunda olduğunu ileri sürüyor.
+nier | inkâr etmek | fiil | Il nie avoir menti. | Yalan söylediğini inkâr ediyor.
+admettre | kabul etmek | fiil | J'admets que j'ai eu tort. | Haksız olduğumu kabul ediyorum.
+convaincre | ikna etmek | fiil | Elle a réussi à me convaincre. | Beni ikna etmeyi başardı.
+persuader | ikna etmek | fiil | Il m'a persuadé de venir. | Gelmem için beni ikna etti.
+justifier | haklı çıkarmak, gerekçelendirmek | fiil | Rien ne justifie la violence. | Hiçbir şey şiddeti haklı çıkaramaz.
+envisager | düşünmek, öngörmek | fiil | Nous envisageons de déménager. | Taşınmayı düşünüyoruz.
+prévoir | öngörmek, planlamak | fiil | La météo prévoit de la neige. | Hava durumu kar öngörüyor.
+mener | yürütmek; götürmek | fiil | Il mène une enquête sur la corruption. | Yolsuzluk üzerine bir soruşturma yürütüyor.
+gérer | yönetmek | fiil | Elle gère une équipe de dix personnes. | On kişilik bir ekibi yönetiyor.
+assurer | sağlamak; temin etmek | fiil | Je t'assure que c'est vrai. | Sana bunun doğru olduğunu temin ederim.
+garantir | garanti etmek | fiil | Nous garantissons la qualité de nos produits. | Ürünlerimizin kalitesini garanti ediyoruz.
+renforcer | güçlendirmek | fiil | Il faut renforcer la sécurité. | Güvenliği güçlendirmek gerekir.
+améliorer | iyileştirmek | fiil | J'aimerais améliorer mon accent. | Aksanımı geliştirmek isterim.
+s'améliorer | gelişmek, iyileşmek | fiil | Son état de santé s'améliore. | Sağlık durumu iyileşiyor.
+aggraver | kötüleştirmek | fiil | Le stress aggrave la maladie. | Stres hastalığı kötüleştirir.
+évaluer | değerlendirmek | fiil | Il est difficile d'évaluer les dégâts. | Hasarı değerlendirmek zor.
+estimer | tahmin etmek; değer vermek | fiil | On estime le coût à un million d'euros. | Maliyetin bir milyon avro olduğu tahmin ediliyor.
+constater | tespit etmek | fiil | Nous constatons une hausse des prix. | Fiyatlarda bir artış tespit ediyoruz.
+s'apercevoir | fark etmek | fiil | Je me suis aperçu de mon oubli trop tard. | Unuttuğumu çok geç fark ettim.
+se méfier | şüphelenmek, güvenmemek | fiil | Méfie-toi des fausses informations. | Yanlış bilgilere karşı dikkatli ol.
+s'adapter | uyum sağlamak | fiil | Il s'est vite adapté à sa nouvelle vie. | Yeni hayatına çabuk uyum sağladı.
+surmonter | üstesinden gelmek | fiil | Elle a surmonté toutes les difficultés. | Bütün zorlukların üstesinden geldi.
+renoncer | vazgeçmek | fiil | Il a renoncé à son voyage. | Yolculuğundan vazgeçti.
+hésiter | tereddüt etmek | fiil | N'hésitez pas à me contacter. | Benimle iletişime geçmekten çekinmeyin.
+supporter | katlanmak; desteklemek | fiil | Je ne supporte pas le bruit. | Gürültüye katlanamıyorum.
+regretter | pişman olmak; özlemek | fiil | Je regrette de ne pas être venu. | Gelmediğime pişmanım.
+s'efforcer | çabalamak | fiil | Il s'efforce de parler lentement. | Yavaş konuşmaya çabalıyor.
+se rendre | gitmek; teslim olmak | fiil | Il se rend au travail à vélo. | İşe bisikletle gidiyor.
+se dérouler | gerçekleşmek, geçmek | fiil | La cérémonie se déroulera samedi. | Tören cumartesi gerçekleşecek.
+consister | -den oluşmak, ibaret olmak | fiil | Le travail consiste à analyser des données. | İş, verileri analiz etmekten ibaret.
+dépendre | bağlı olmak | fiil | Ça dépend de la météo. | Bu havaya bağlı.
+appartenir | ait olmak | fiil | Ce livre appartient à la bibliothèque. | Bu kitap kütüphaneye ait.
+relever | kaldırmak; tespit etmek; yükseltmek | fiil | Le journaliste a relevé plusieurs erreurs. | Gazeteci birkaç hata tespit etti.
+subir | maruz kalmak, katlanmak | fiil | La région a subi de graves inondations. | Bölge ciddi sellere maruz kaldı.
+s'aggraver | kötüleşmek | fiil | La situation s'aggrave chaque jour. | Durum her gün kötüleşiyor.
+interdire | yasaklamak | fiil | Il est interdit de fumer ici. | Burada sigara içmek yasak.
+autoriser | izin vermek | fiil | Les chiens sont autorisés dans ce parc. | Bu parka köpek girmesine izin veriliyor.
+recourir | başvurmak | fiil | Il a dû recourir à un avocat. | Bir avukata başvurmak zorunda kaldı.
+élaborer | hazırlamak, geliştirmek | fiil | Les experts ont élaboré un nouveau plan. | Uzmanlar yeni bir plan hazırladı.
+répartir | dağıtmak, paylaştırmak | fiil | Nous avons réparti les tâches. | Görevleri paylaştırdık.
+attribuer | vermek, atfetmek | fiil | Le prix a été attribué à une jeune chercheuse. | Ödül genç bir araştırmacıya verildi.
+// İsimler (toplum, ekonomi, medya)
+l'économie | ekonomi | dişil | L'économie mondiale ralentit. | Dünya ekonomisi yavaşlıyor.
+le marché du travail | iş piyasası | eril | Le marché du travail est en pleine mutation. | İş piyasası büyük bir dönüşüm içinde.
+le télétravail | uzaktan çalışma | eril | Le télétravail s'est généralisé. | Uzaktan çalışma yaygınlaştı.
+le salarié | maaşlı çalışan | eril | Les salariés sont en grève. | Çalışanlar grevde.
+l'employeur | işveren | eril | L'employeur doit respecter la loi. | İşveren yasaya uymak zorunda.
+le syndicat | sendika | eril | Le syndicat a appelé à la grève. | Sendika greve çağrı yaptı.
+le contrat | sözleşme | eril | Il a signé un contrat de deux ans. | İki yıllık bir sözleşme imzaladı.
+la hausse | artış | dişil | On note une hausse des prix. | Fiyatlarda bir artış görülüyor.
+la baisse | düşüş | dişil | La baisse du chômage se confirme. | İşsizlikteki düşüş doğrulanıyor.
+le coût | maliyet | eril | Le coût de la vie augmente. | Hayat pahalılığı artıyor.
+le budget | bütçe | eril | Nous avons un budget limité. | Sınırlı bir bütçemiz var.
+l'impôt | vergi | eril | Les impôts vont augmenter. | Vergiler artacak.
+la dette | borç | dişil | Le pays a une dette énorme. | Ülkenin çok büyük bir borcu var.
+l'investissement | yatırım | eril | Cet investissement est rentable. | Bu yatırım kârlı.
+la consommation | tüketim | dişil | La consommation d'énergie a baissé. | Enerji tüketimi düştü.
+le consommateur | tüketici | eril | Les consommateurs veulent des produits locaux. | Tüketiciler yerel ürünler istiyor.
+la publicité | reklam | dişil | Il y a trop de publicité à la télévision. | Televizyonda çok fazla reklam var.
+les médias | medya | eril-çoğul | Les médias ont un rôle important. | Medyanın önemli bir rolü var.
+l'opinion publique | kamuoyu | dişil | L'opinion publique est divisée. | Kamuoyu bölünmüş durumda.
+le sondage | anket | eril | Selon un sondage, la majorité est contre. | Bir ankete göre çoğunluk karşı.
+la majorité | çoğunluk | dişil | La majorité des Français utilisent internet. | Fransızların çoğunluğu internet kullanıyor.
+la minorité | azınlık | dişil | Seule une minorité a voté contre. | Sadece bir azınlık karşı oy verdi.
+le citoyen | vatandaş | eril | Les citoyens demandent plus de transparence. | Vatandaşlar daha fazla şeffaflık istiyor.
+la mairie | belediye | dişil | La mairie a rénové la place. | Belediye meydanı yeniledi.
+l'association | dernek | dişil | Elle est bénévole dans une association. | Bir dernekte gönüllü.
+le bénévole | gönüllü | eril | Les bénévoles distribuent des repas. | Gönüllüler yemek dağıtıyor.
+la santé publique | halk sağlığı | dişil | Le tabac est un problème de santé publique. | Tütün bir halk sağlığı sorunudur.
+le système de santé | sağlık sistemi | eril | Le système de santé est sous pression. | Sağlık sistemi baskı altında.
+l'éducation | eğitim | dişil | L'éducation est la clé de l'avenir. | Eğitim geleceğin anahtarıdır.
+l'enseignement | öğretim | eril | Il travaille dans l'enseignement supérieur. | Yükseköğretimde çalışıyor.
+la formation | eğitim, kurs | dişil | Elle suit une formation en informatique. | Bilgisayar alanında bir kurs alıyor.
+les compétences | yetkinlikler, beceriler | dişil-çoğul | Ce poste demande des compétences techniques. | Bu pozisyon teknik beceriler gerektiriyor.
+le logiciel | yazılım | eril | Ce logiciel est facile à utiliser. | Bu yazılımın kullanımı kolay.
+les données | veriler | dişil-çoğul | Les données personnelles doivent être protégées. | Kişisel veriler korunmalıdır.
+l'intelligence artificielle | yapay zekâ | dişil | L'intelligence artificielle transforme de nombreux métiers. | Yapay zekâ birçok mesleği dönüştürüyor.
+l'écran | ekran | eril | Les enfants passent trop de temps devant les écrans. | Çocuklar ekran başında çok fazla zaman geçiriyor.
+la vie privée | özel hayat | dişil | Il faut respecter la vie privée. | Özel hayata saygı göstermek gerekir.
+l'urbanisation | kentleşme | dişil | L'urbanisation rapide pose des problèmes. | Hızlı kentleşme sorunlar yaratıyor.
+la banlieue | banliyö | dişil | Il habite en banlieue parisienne. | Paris banliyösünde oturuyor.
+les transports en commun | toplu taşıma | eril-çoğul | Je prends les transports en commun. | Toplu taşımayı kullanıyorum.
+la biodiversité | biyoçeşitlilik | dişil | La biodiversité diminue rapidement. | Biyoçeşitlilik hızla azalıyor.
+l'espèce | tür | dişil | De nombreuses espèces sont menacées. | Pek çok tür tehdit altında.
+la sécheresse | kuraklık | dişil | La sécheresse a touché les agriculteurs. | Kuraklık çiftçileri etkiledi.
+l'inondation | sel | dişil | Les inondations ont détruit des maisons. | Seller evleri yıktı.
+les émissions | salım, emisyonlar | dişil-çoğul | Les émissions de gaz à effet de serre augmentent. | Sera gazı salımları artıyor.
+les énergies renouvelables | yenilenebilir enerjiler | dişil-çoğul | Il faut développer les énergies renouvelables. | Yenilenebilir enerjileri geliştirmek gerekir.
+l'agriculture | tarım | dişil | L'agriculture biologique se développe. | Organik tarım gelişiyor.
+l'alimentation | beslenme | dişil | Une bonne alimentation est essentielle. | İyi beslenme çok önemli.
+// Sıfatlar
+durable | sürdürülebilir; kalıcı | sıfat | Nous voulons un développement durable. | Sürdürülebilir bir kalkınma istiyoruz.
+pertinent | yerinde, ilgili | sıfat | Votre remarque est très pertinente. | Yorumunuz çok yerinde.
+fiable | güvenilir | sıfat | Cette source n'est pas fiable. | Bu kaynak güvenilir değil.
+précieux, précieuse | değerli | sıfat | Ton aide m'est précieuse. | Yardımın benim için çok değerli.
+considérable | büyük, kayda değer | sıfat | Les dégâts sont considérables. | Hasar çok büyük.
+inévitable | kaçınılmaz | sıfat | Le changement est inévitable. | Değişim kaçınılmaz.
+indispensable | vazgeçilmez | sıfat | L'eau est indispensable à la vie. | Su yaşam için vazgeçilmezdir.
+essentiel, essentielle | temel, çok önemli | sıfat | Le sommeil est essentiel. | Uyku çok önemlidir.
+fondamental | temel | sıfat | C'est un droit fondamental. | Bu temel bir hak.
+majeur | büyük, başlıca | sıfat | C'est un problème majeur. | Bu büyük bir sorun.
+mineur | küçük, önemsiz | sıfat | Ce n'est qu'un détail mineur. | Bu sadece küçük bir ayrıntı.
+urgent | acil | sıfat | C'est une affaire urgente. | Bu acil bir mesele.
+actuel, actuelle | güncel, şimdiki | sıfat | La situation actuelle est complexe. | Mevcut durum karmaşık.
+complexe | karmaşık | sıfat | Le problème est plus complexe qu'il n'y paraît. | Sorun göründüğünden daha karmaşık.
+efficace | etkili | sıfat | Cette méthode est très efficace. | Bu yöntem çok etkili.
+évident | apaçık | sıfat | La réponse est évidente. | Cevap apaçık.
+flou | belirsiz, bulanık | sıfat | Les règles restent floues. | Kurallar belirsizliğini koruyor.
+précis | kesin, net | sıfat | Donnez-moi une réponse précise. | Bana net bir cevap verin.
+exigeant | talepkâr | sıfat | Ce professeur est très exigeant. | Bu öğretmen çok talepkâr.
+épuisé | bitkin | sıfat | Après le voyage, j'étais épuisé. | Yolculuktan sonra bitkindim.
+bouleversé | altüst olmuş | sıfat | Elle est bouleversée par la nouvelle. | Haberle altüst oldu.
+soulagé | rahatlamış | sıfat | Je suis soulagé de te voir. | Seni gördüğüme rahatladım.
+méfiant | kuşkucu | sıfat | Les habitants sont méfiants. | Sakinler kuşkulu.
+engagé | angaje, kendini adamış | sıfat | C'est une artiste très engagée. | Çok angaje bir sanatçı.
+rentable | kârlı | sıfat | Ce commerce n'est pas rentable. | Bu ticaret kârlı değil.
+coûteux, coûteuse | masraflı | sıfat | Les travaux sont coûteux. | Tadilat masraflı.
+quotidien, quotidienne | günlük | sıfat | La marche quotidienne est bonne pour la santé. | Günlük yürüyüş sağlığa iyi gelir.
+mondial | küresel, dünya çapında | sıfat | C'est un problème mondial. | Bu küresel bir sorun.
+local | yerel | sıfat | Je préfère acheter des produits locaux. | Yerel ürünler almayı tercih ederim.
+social | sosyal, toplumsal | sıfat | Les inégalités sociales augmentent. | Toplumsal eşitsizlikler artıyor.
+économique | ekonomik | sıfat | La crise économique dure depuis deux ans. | Ekonomik kriz iki yıldır sürüyor.
+environnemental | çevresel | sıfat | Les enjeux environnementaux sont majeurs. | Çevresel meseleler çok önemli.
+écologique | ekolojik, çevreci | sıfat | Le vélo est un moyen de transport écologique. | Bisiklet çevreci bir ulaşım aracıdır.
+numérique | dijital | sıfat | Le monde numérique évolue vite. | Dijital dünya hızla gelişiyor.
+scientifique | bilimsel | sıfat | Il n'y a pas de preuve scientifique. | Bilimsel bir kanıt yok.
+// Deyimler
+avoir du mal à | -mekte zorlanmak | ifade | J'ai du mal à me concentrer. | Konsantre olmakta zorlanıyorum.
+se rendre compte de | farkına varmak | ifade | Il ne se rend pas compte du danger. | Tehlikenin farkında değil.
+avoir lieu | gerçekleşmek | ifade | La conférence aura lieu à Paris. | Konferans Paris'te yapılacak.
+être en train de | -mekte olmak | ifade | Je suis en train de lire. | Şu an okuyorum.
+venir de | az önce ... -mış olmak | ifade | Il vient de partir. | Az önce çıktı.
+faire partie de | -in parçası olmak | ifade | Il fait partie de l'équipe. | Takımın bir parçası.
+à long terme | uzun vadede | ifade | À long terme, ce choix sera payant. | Uzun vadede bu seçim karşılığını verecek.
+à court terme | kısa vadede | ifade | Il n'y a pas de solution à court terme. | Kısa vadede bir çözüm yok.
+de plus en plus | giderek daha fazla | ifade | Il fait de plus en plus chaud. | Hava giderek ısınıyor.
+de moins en moins | giderek daha az | ifade | Les jeunes lisent de moins en moins. | Gençler giderek daha az okuyor.
+au fur et à mesure | yavaş yavaş, ... oldukça | ifade | J'apprends au fur et à mesure. | Zamanla öğreniyorum.
+en matière de | ... konusunda | ifade | Il est expert en matière d'énergie. | Enerji konusunda uzman.
+à l'égard de | -e karşı | ifade | Il est très patient à l'égard des enfants. | Çocuklara karşı çok sabırlı.
+en raison de | nedeniyle | edat | Le vol est annulé en raison de la grève. | Uçuş grev nedeniyle iptal edildi.
+face à | karşısında | edat | Face à la crise, il faut agir. | Kriz karşısında harekete geçmek gerekir.
+au sein de | içinde, bünyesinde | edat | Il y a des tensions au sein de l'équipe. | Ekip içinde gerginlikler var.
+à travers | boyunca; aracılığıyla | edat | Il a voyagé à travers l'Europe. | Avrupa boyunca seyahat etti.
+lors de | sırasında | edat | Je l'ai rencontré lors d'une conférence. | Onunla bir konferans sırasında tanıştım.

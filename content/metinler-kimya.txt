@@ -1,0 +1,543 @@
+=== METİN ===
+#başlık: Une expérience au laboratoire
+#seviye: B1
+#konu: Kimya
+#metin:
+Ce matin, les élèves de terminale sont entrés dans le [[laboratoire]] de chimie avec beaucoup de curiosité. Avant de commencer, le professeur leur a rappelé les règles de sécurité. Chacun devait porter une [[blouse]], des gants et des [[lunettes de protection]]. Il leur a aussi montré les pictogrammes collés sur les flacons, qui indiquent si un produit est [[toxique]] ou [[inflammable]].
+
+L'objectif de l'[[expérience]] était d'observer la réaction entre un acide et un métal. Les élèves ont d'abord versé un peu d'acide chlorhydrique dilué dans un [[bécher]]. Ensuite, ils ont ajouté quelques morceaux de [[zinc]]. Presque immédiatement, de petites bulles sont apparues à la surface du métal. Le professeur a expliqué que ces bulles étaient du dihydrogène, un gaz [[libéré]] par la réaction.
+
+Pour vérifier la nature du gaz, une élève a approché une allumette de l'ouverture d'un tube à essai rempli de ce gaz. On a entendu une petite détonation : c'était la preuve de la présence de dihydrogène. À la fin de la séance, les élèves ont noté leurs [[observations]] dans leur cahier et ont rédigé une courte [[conclusion]]. Ils ont tous rangé leur matériel et se sont lavé les mains avant de sortir.
+#çoktan-seçmeli:
+1. Que devaient porter les élèves ?
+a) Seulement des gants
+b) Une blouse, des gants et des lunettes de protection *
+c) Un casque et des bottes
+d) Rien de spécial
+#açıklama: Önlük, eldiven ve koruyucu gözlük.
+2. À quoi servent les pictogrammes sur les flacons ?
+a) À indiquer le prix
+b) À indiquer si un produit est toxique ou inflammable *
+c) À donner la formule chimique
+d) À décorer le laboratoire
+#açıklama: Ürünün zehirli ya da yanıcı olup olmadığını gösteriyorlar.
+3. Quel métal les élèves ont-ils utilisé ?
+a) Le fer
+b) Le cuivre
+c) Le zinc *
+d) L'aluminium
+#açıklama: Çinko parçaları eklediler.
+4. Quel gaz a été libéré par la réaction ?
+a) Le dioxygène
+b) Le dioxyde de carbone
+c) Le dihydrogène *
+d) Le chlore
+#açıklama: Kabarcıklar hidrojen gazıydı.
+5. Comment a-t-on prouvé la présence du gaz ?
+a) Avec un indicateur coloré
+b) Avec une allumette qui a provoqué une petite détonation *
+c) Avec un thermomètre
+d) En mesurant le pH
+#açıklama: Kibrit yaklaştırınca küçük bir patlama sesi duyuldu.
+#açık-uçlu:
+1. Qu'a fait le professeur avant de commencer ?
+#örnek-cevap: Il a rappelé les règles de sécurité.
+#anahtar-kelimeler: règles, sécurité
+2. Quel était l'objectif de l'expérience ?
+#örnek-cevap: Observer la réaction entre un acide et un métal.
+#anahtar-kelimeler: réaction, acide, métal
+3. Qu'est-ce qui est apparu à la surface du métal ?
+#örnek-cevap: De petites bulles sont apparues.
+#anahtar-kelimeler: bulles
+4. Où les élèves ont-ils noté leurs observations ?
+#örnek-cevap: Dans leur cahier.
+#anahtar-kelimeler: cahier
+5. Qu'ont fait les élèves avant de sortir ?
+#örnek-cevap: Ils ont rangé leur matériel et se sont lavé les mains.
+#anahtar-kelimeler: rangé, lavé, mains
+#sözlük:
+la terminale | lise son sınıfı | dişil
+la curiosité | merak | dişil
+la sécurité | güvenlik | dişil
+collé | yapıştırılmış | sıfat
+indiquer | göstermek, belirtmek | fiil
+l'objectif | amaç | eril
+dilué | seyreltik | sıfat
+le morceau | parça | eril
+immédiatement | hemen | zarf
+la bulle | kabarcık | dişil
+la surface | yüzey | dişil
+vérifier | doğrulamak, kontrol etmek | fiil
+l'allumette | kibrit | dişil
+l'ouverture | ağız, açıklık | dişil
+la détonation | patlama sesi | dişil
+la présence | varlık, bulunma | dişil
+la séance | oturum, ders | dişil
+noter | not etmek | fiil
+le cahier | defter | eril
+court | kısa | sıfat
+le matériel | malzeme, ekipman | eril
+le casque | kask | eril
+la botte | çizme | dişil
+prouver | kanıtlamak | fiil
+spécial | özel | sıfat
+décorer | süslemek | fiil
+entrés = entrer
+versé = verser
+lavé = laver
+laver | yıkamak | fiil
+
+=== METİN ===
+#başlık: Les trois états de l'eau
+#seviye: B1
+#konu: Kimya
+#metin:
+L'eau est la seule substance que l'on rencontre naturellement sous trois [[états]] sur Terre. À l'état [[solide]], c'est la glace des montagnes et des pôles. À l'état [[liquide]], elle remplit les océans, les lacs et les rivières. À l'état gazeux, c'est la [[vapeur]] d'eau, invisible, présente dans l'air que nous respirons.
+
+Le passage d'un état à un autre s'appelle un changement d'état. Quand on chauffe de la glace, elle [[fond]] à zéro degré : c'est la [[fusion]]. Si l'on continue à chauffer, l'eau liquide commence à [[bouillir]] à cent degrés, sous une pression normale. Pendant l'[[ébullition]], la température reste constante, même si l'on continue à fournir de la [[chaleur]]. À l'inverse, quand la vapeur rencontre une surface froide, elle se transforme en gouttes : c'est la [[condensation]].
+
+Ces changements d'état sont au cœur du cycle de l'eau. Le soleil chauffe les océans et une partie de l'eau s'[[évapore]]. La vapeur monte dans l'atmosphère, se refroidit et forme des nuages. Ensuite, l'eau retombe sous forme de pluie ou de neige. Une propriété étonnante de l'eau est que la glace est moins dense que l'eau liquide. C'est pour cette raison que la glace [[flotte]].
+#çoktan-seçmeli:
+1. Sous combien d'états l'eau existe-t-elle naturellement sur Terre ?
+a) Un
+b) Deux
+c) Trois *
+d) Quatre
+#açıklama: Katı, sıvı ve gaz.
+2. À quelle température la glace fond-elle ?
+a) Zéro degré *
+b) Dix degrés
+c) Cinquante degrés
+d) Cent degrés
+#açıklama: Buz sıfır derecede erir.
+3. Que se passe-t-il pendant l'ébullition ?
+a) La température augmente vite
+b) La température reste constante *
+c) L'eau devient solide
+d) L'eau change de couleur
+#açıklama: Isı verilse bile sıcaklık sabit kalır.
+4. Comment s'appelle le passage de la vapeur aux gouttes ?
+a) La fusion
+b) La solidification
+c) La condensation *
+d) La sublimation
+#açıklama: Buharın soğuk yüzeyde damlaya dönüşmesi yoğuşmadır.
+5. Pourquoi la glace flotte-t-elle ?
+a) Parce qu'elle est plus lourde
+b) Parce qu'elle est moins dense que l'eau liquide *
+c) Parce qu'elle contient de l'air chaud
+d) Parce qu'elle est salée
+#açıklama: Buz sıvı sudan daha az yoğundur.
+#açık-uçlu:
+1. Où trouve-t-on l'eau à l'état solide ?
+#örnek-cevap: Dans la glace des montagnes et des pôles.
+#anahtar-kelimeler: glace, montagnes, pôles
+2. Comment s'appelle le passage d'un état à un autre ?
+#örnek-cevap: Un changement d'état.
+#anahtar-kelimeler: changement, état
+3. À quelle température l'eau bout-elle sous une pression normale ?
+#örnek-cevap: À cent degrés.
+#anahtar-kelimeler: cent
+4. Que fait la vapeur quand elle monte dans l'atmosphère ?
+#örnek-cevap: Elle se refroidit et forme des nuages.
+#anahtar-kelimeler: refroidit, nuages
+5. Sous quelles formes l'eau retombe-t-elle ?
+#örnek-cevap: Sous forme de pluie ou de neige.
+#anahtar-kelimeler: pluie, neige
+#sözlük:
+naturellement | doğal olarak | zarf
+la Terre | Dünya (gezegen) | dişil
+le pôle | kutup | eril
+l'océan | okyanus | eril
+le lac | göl | eril
+gazeux, gazeuse | gaz halinde | sıfat
+invisible | görünmez | sıfat
+respirer | nefes almak, solumak | fiil
+le passage | geçiş | eril
+le changement d'état | hal değişimi | eril
+le changement | değişim | eril
+la pression | basınç | dişil
+constant | sabit | sıfat
+fournir | sağlamak, vermek | fiil
+à l'inverse | tersine | ifade
+se transformer | dönüşmek | fiil
+la goutte | damla | dişil
+le cycle | döngü | eril
+l'atmosphère | atmosfer | dişil
+se refroidir | soğumak | fiil
+le nuage | bulut | eril
+retomber | yeniden düşmek | fiil
+la forme | biçim, şekil | dişil
+la neige | kar | dişil
+étonnant | şaşırtıcı | sıfat
+dense | yoğun | sıfat
+flotter | yüzmek (su üstünde) | fiil
+salé | tuzlu | sıfat
+fond = fondre
+bout = bouillir
+refroidit = se refroidir
+
+=== METİN ===
+#başlık: La combustion du méthane
+#seviye: B2
+#konu: Kimya
+#metin:
+Le [[méthane]] est le principal composant du gaz naturel, que nous utilisons pour cuisiner ou chauffer nos maisons. C'est un [[hydrocarbure]] très simple : sa molécule est formée d'un atome de [[carbone]] lié à quatre atomes d'hydrogène. Lorsqu'il brûle, il réagit avec le [[dioxygène]] de l'air. Cette réaction s'appelle une [[combustion]].
+
+Au cours d'une combustion complète, les [[réactifs]] sont le méthane et le dioxygène, et les [[produits]] sont le dioxyde de carbone et l'eau. Pour écrire l'équation de la réaction, il faut l'[[équilibrer]], car la loi de [[conservation de la masse]] impose qu'il y ait le même nombre d'atomes de chaque élément avant et après la réaction. Ainsi, une molécule de méthane réagit avec deux molécules de dioxygène. Cette réaction est [[exothermique]] : elle [[dégage]] une grande quantité de chaleur, c'est pourquoi on l'utilise comme source d'énergie.
+
+Cependant, si l'air ne contient pas assez de dioxygène, la combustion devient incomplète. Elle produit alors du [[monoxyde de carbone]], un gaz incolore, inodore et très [[toxique]]. Chaque hiver, des intoxications sont causées par des chaudières mal entretenues. C'est pourquoi il est essentiel d'aérer les pièces et de faire vérifier régulièrement les appareils de chauffage.
+#çoktan-seçmeli:
+1. De quoi le méthane est-il le principal composant ?
+a) Du pétrole
+b) Du gaz naturel *
+c) De l'air
+d) Du charbon
+#açıklama: Metan doğal gazın ana bileşenidir.
+2. De quoi est formée une molécule de méthane ?
+a) D'un atome de carbone et de deux atomes d'oxygène
+b) D'un atome de carbone et de quatre atomes d'hydrogène *
+c) De deux atomes d'hydrogène et d'un atome d'oxygène
+d) De quatre atomes de carbone
+#açıklama: CH4: bir karbon, dört hidrojen.
+3. Quels sont les produits d'une combustion complète ?
+a) Le monoxyde de carbone et l'hydrogène
+b) Le dioxyde de carbone et l'eau *
+c) Le méthane et le dioxygène
+d) Le carbone et l'azote
+#açıklama: Tam yanmanın ürünleri CO2 ve sudur.
+4. Avec combien de molécules de dioxygène une molécule de méthane réagit-elle ?
+a) Une
+b) Deux *
+c) Trois
+d) Quatre
+#açıklama: CH4 + 2 O2 → CO2 + 2 H2O.
+5. Que produit une combustion incomplète ?
+a) De l'azote
+b) Du dihydrogène
+c) Du monoxyde de carbone *
+d) De l'ozone
+#açıklama: Yetersiz oksijende zehirli karbonmonoksit oluşur.
+#açık-uçlu:
+1. Pour quoi utilisons-nous le gaz naturel ?
+#örnek-cevap: Pour cuisiner ou chauffer nos maisons.
+#anahtar-kelimeler: cuisiner, chauffer
+2. Que dit la loi de conservation de la masse ?
+#örnek-cevap: Il doit y avoir le même nombre d'atomes de chaque élément avant et après la réaction.
+#anahtar-kelimeler: même nombre, atomes
+3. Pourquoi utilise-t-on la combustion du méthane comme source d'énergie ?
+#örnek-cevap: Parce qu'elle dégage une grande quantité de chaleur.
+#anahtar-kelimeler: chaleur
+4. Quelles sont les caractéristiques du monoxyde de carbone ?
+#örnek-cevap: C'est un gaz incolore, inodore et très toxique.
+#anahtar-kelimeler: incolore, inodore, toxique
+5. Que faut-il faire pour éviter les intoxications ?
+#örnek-cevap: Il faut aérer les pièces et faire vérifier régulièrement les appareils de chauffage.
+#anahtar-kelimeler: aérer, vérifier
+#sözlük:
+principal | ana, başlıca | sıfat
+le composant | bileşen | eril
+le gaz naturel | doğal gaz | eril
+cuisiner | yemek pişirmek | fiil
+chauffer | ısıtmak | fiil
+lié | bağlı | sıfat
+au cours de | sırasında | edat
+complet, complète | tam | sıfat
+incomplet, incomplète | eksik, tamamlanmamış | sıfat
+imposer | dayatmak, gerektirmek | fiil
+la quantité | miktar | dişil
+incolore | renksiz | sıfat
+inodore | kokusuz | sıfat
+l'intoxication | zehirlenme | dişil
+causer | neden olmak | fiil
+la chaudière | kombi, kazan | dişil
+entretenu | bakımlı | sıfat
+mal entretenu | bakımsız | ifade
+aérer | havalandırmak | fiil
+la pièce | oda; parça | dişil
+régulièrement | düzenli olarak | zarf
+l'appareil | cihaz | eril
+le pétrole | petrol | eril
+le charbon | kömür | eril
+l'ozone | ozon | eril
+la caractéristique | özellik | dişil
+y ait = avoir
+ait = avoir
+
+=== METİN ===
+#başlık: Acides et bases dans la vie quotidienne
+#seviye: B2
+#konu: Kimya
+#metin:
+Les acides et les bases ne se trouvent pas seulement dans les laboratoires. Ils sont présents partout dans notre vie quotidienne. Le jus de citron et le vinaigre sont [[acides]], tandis que le savon et l'eau de javel sont [[basiques]]. Pour mesurer l'acidité d'une [[solution]], les chimistes utilisent l'échelle de [[pH]], qui va de zéro à quatorze.
+
+Une solution dont le pH est inférieur à sept est acide, et une solution dont le pH est supérieur à sept est basique. L'eau pure, avec un pH égal à sept, est [[neutre]]. Pour connaître le pH, on peut utiliser un pH-mètre ou un [[indicateur coloré]], qui change de couleur selon l'acidité du milieu. Le jus de chou rouge, par exemple, devient rose dans un acide et vert dans une base.
+
+Quand on mélange un acide et une base, une réaction de [[neutralisation]] se produit. Cette réaction forme de l'eau et un [[sel]]. On l'utilise notamment pour soigner les brûlures d'estomac : certains médicaments contiennent une base qui neutralise l'excès d'acide. Il faut cependant être prudent, car les acides et les bases [[concentrés]] sont [[corrosifs]]. Au laboratoire, on doit toujours verser l'acide dans l'eau, et jamais l'inverse, pour [[diluer]] la solution sans danger.
+#çoktan-seçmeli:
+1. Lequel de ces produits est basique ?
+a) Le jus de citron
+b) Le vinaigre
+c) Le savon *
+d) Le jus d'orange
+#açıklama: Sabun ve çamaşır suyu baziktir.
+2. Comment est une solution dont le pH est égal à trois ?
+a) Acide *
+b) Neutre
+c) Basique
+d) Salée
+#açıklama: pH yediden küçükse asidiktir.
+3. Quel est le pH de l'eau pure ?
+a) Zéro
+b) Cinq
+c) Sept *
+d) Quatorze
+#açıklama: Saf suyun pH'ı yedidir, yani nötrdür.
+4. De quelle couleur devient le jus de chou rouge dans une base ?
+a) Rose
+b) Bleu
+c) Jaune
+d) Vert *
+#açıklama: Asitte pembe, bazda yeşil olur.
+5. Que forme une réaction de neutralisation ?
+a) Un gaz toxique
+b) De l'eau et un sel *
+c) Un métal
+d) Un acide plus fort
+#açıklama: Nötrleşme su ve tuz oluşturur.
+#açık-uçlu:
+1. Citez deux produits acides de la vie quotidienne.
+#örnek-cevap: Le jus de citron et le vinaigre.
+#anahtar-kelimeler: citron, vinaigre
+2. De combien à combien va l'échelle de pH ?
+#örnek-cevap: Elle va de zéro à quatorze.
+#anahtar-kelimeler: zéro, quatorze
+3. Avec quoi peut-on connaître le pH d'une solution ?
+#örnek-cevap: Avec un pH-mètre ou un indicateur coloré.
+#anahtar-kelimeler: indicateur, coloré
+4. Comment certains médicaments soignent-ils les brûlures d'estomac ?
+#örnek-cevap: Ils contiennent une base qui neutralise l'excès d'acide.
+#anahtar-kelimeler: base, neutralise, acide
+5. Quelle règle faut-il respecter pour diluer un acide ?
+#örnek-cevap: Il faut verser l'acide dans l'eau et jamais l'inverse.
+#anahtar-kelimeler: verser, acide, eau
+#sözlük:
+partout | her yerde | zarf
+le jus | meyve suyu | eril
+le citron | limon | eril
+le vinaigre | sirke | eril
+le savon | sabun | eril
+l'eau de javel | çamaşır suyu | dişil
+l'acidité | asitlik | dişil
+l'échelle | ölçek; merdiven | dişil
+inférieur | -den küçük, alt | sıfat
+supérieur | -den büyük, üst | sıfat
+égal | eşit | sıfat
+le pH-mètre | pH metre | eril
+le milieu | ortam; orta | eril
+le chou | lahana | eril
+rose | pembe | sıfat
+se produire | meydana gelmek | fiil
+soigner | tedavi etmek | fiil
+la brûlure d'estomac | mide yanması | dişil
+la brûlure | yanık | dişil
+l'estomac | mide | eril
+neutraliser | nötrleştirmek | fiil
+l'excès | fazlalık | eril
+prudent | dikkatli, temkinli | sıfat
+l'inverse | tersi | eril
+l'orange | portakal | dişil
+lequel | hangisi | zamir
+respecter | uymak, saygı göstermek | fiil
+quatorze | on dört | sayı
+zéro | sıfır | sayı
+
+=== METİN ===
+#başlık: L'histoire du tableau périodique
+#seviye: B2
+#konu: Kimya
+#metin:
+Au dix-neuvième siècle, les chimistes connaissaient déjà une soixantaine d'[[éléments chimiques]], mais ils ne savaient pas comment les organiser. En 1869, le chimiste russe Dmitri Mendeleïev a eu une idée géniale. Il a classé les éléments selon leur [[masse]] atomique croissante et il a remarqué que certaines [[propriétés]] se répétaient à intervalles réguliers.
+
+Mendeleïev a placé les éléments qui se ressemblaient dans une même [[colonne]]. Son génie a été de laisser des cases vides pour des éléments qui n'avaient pas encore été découverts. Il a même [[prévu]] leurs propriétés avec une précision remarquable. Quelques années plus tard, la [[découverte]] du gallium et du germanium a confirmé ses prédictions, et son [[tableau périodique]] a été accepté par toute la communauté scientifique.
+
+Aujourd'hui, le tableau compte cent dix-huit éléments, classés selon leur [[numéro atomique]], c'est-à-dire le nombre de protons dans leur noyau. Les [[métaux]] occupent la plus grande partie du tableau, à gauche et au centre. Les non-métaux se trouvent à droite, et la dernière colonne regroupe les [[gaz nobles]], comme l'hélium ou le néon, qui ne réagissent presque pas. Ce tableau reste l'un des outils les plus précieux de la chimie, car il permet de [[prévoir]] le comportement des éléments.
+#çoktan-seçmeli:
+1. Combien d'éléments les chimistes connaissaient-ils au dix-neuvième siècle ?
+a) Une dizaine
+b) Une soixantaine *
+c) Cent dix-huit
+d) Deux cents
+#açıklama: Altmış kadar element biliniyordu.
+2. Selon quel critère Mendeleïev a-t-il d'abord classé les éléments ?
+a) Leur couleur
+b) Leur masse atomique croissante *
+c) Leur date de découverte
+d) Leur nom
+#açıklama: Artan atom kütlesine göre sıraladı.
+3. Qu'est-ce qui a été génial dans son travail ?
+a) Il a découvert tous les éléments
+b) Il a laissé des cases vides pour des éléments inconnus *
+c) Il a inventé le microscope
+d) Il a mesuré la masse de l'électron
+#açıklama: Henüz keşfedilmemiş elementler için boş yerler bıraktı.
+4. Comment les éléments sont-ils classés aujourd'hui ?
+a) Selon leur masse
+b) Selon leur numéro atomique *
+c) Selon leur prix
+d) Selon leur état
+#açıklama: Bugün atom numarasına göre sıralanıyorlar.
+5. Que trouve-t-on dans la dernière colonne ?
+a) Les métaux
+b) Les gaz nobles *
+c) Les acides
+d) Les éléments radioactifs
+#açıklama: Son sütunda soy gazlar var.
+#açık-uçlu:
+1. Quelle était la nationalité de Mendeleïev ?
+#örnek-cevap: Il était russe.
+#anahtar-kelimeler: russe
+2. Quelle découverte a confirmé ses prédictions ?
+#örnek-cevap: La découverte du gallium et du germanium.
+#anahtar-kelimeler: gallium, germanium
+3. Qu'est-ce que le numéro atomique ?
+#örnek-cevap: C'est le nombre de protons dans le noyau.
+#anahtar-kelimeler: protons, noyau
+4. Où se trouvent les métaux dans le tableau ?
+#örnek-cevap: À gauche et au centre.
+#anahtar-kelimeler: gauche, centre
+5. Pourquoi ce tableau est-il si précieux ?
+#örnek-cevap: Parce qu'il permet de prévoir le comportement des éléments.
+#anahtar-kelimeler: prévoir, comportement
+#sözlük:
+dix-neuvième | on dokuzuncu | sıfat
+le siècle | yüzyıl | eril
+la soixantaine | altmış kadar | dişil
+la dizaine | on kadar | dişil
+organiser | düzenlemek | fiil
+russe | Rus | sıfat
+Dmitri Mendeleïev | Dmitri Mendeleyev (Rus kimyager) | ifade
+Mendeleïev | Mendeleyev | ifade
+génial | dâhiyane | sıfat
+classer | sınıflandırmak | fiil
+atomique | atomik | sıfat
+croissant | artan | sıfat
+se répéter | tekrarlanmak | fiil
+l'intervalle | aralık | eril
+placer | yerleştirmek | fiil
+se ressembler | birbirine benzemek | fiil
+le génie | deha | eril
+la case | kutucuk, hücre | dişil
+remarquable | dikkat çekici | sıfat
+le gallium | galyum | eril
+le germanium | germanyum | eril
+confirmer | doğrulamak | fiil
+la prédiction | tahmin, öngörü | dişil
+la communauté | topluluk | dişil
+compter | saymak; içermek | fiil
+occuper | kaplamak | fiil
+la gauche | sol | dişil
+la droite | sağ | dişil
+regrouper | bir araya toplamak | fiil
+le néon | neon | eril
+le comportement | davranış | eril
+le critère | ölçüt | eril
+inconnu | bilinmeyen | sıfat
+le microscope | mikroskop | eril
+radioactif, radioactive | radyoaktif | sıfat
+la nationalité | uyruk | dişil
+dix-huit | on sekiz | sayı
+prévu = prévoir
+prévoir | öngörmek | fiil
+métaux = le métal
+éléments chimiques = élément chimique
+gaz nobles = gaz noble
+
+=== METİN ===
+#başlık: La rouille, une oxydation lente
+#seviye: B2
+#konu: Kimya
+#metin:
+Nous avons tous déjà vu un vieux vélo ou une grille de jardin couverts d'une couche brune et friable. Cette couche s'appelle la [[rouille]]. Elle apparaît lorsque le [[fer]] est en contact avec le dioxygène de l'air et avec l'eau. Il s'agit d'une [[oxydation]] lente, qui peut durer des mois ou des années.
+
+Lors de cette réaction, les atomes de fer perdent des [[électrons]] et se transforment en [[ions]]. Le fer est dit oxydé, tandis que le dioxygène est réduit. On parle donc d'une réaction d'[[oxydoréduction]]. Le produit formé est un [[oxyde]] de fer hydraté. Contrairement à d'autres métaux, comme l'[[aluminium]], la rouille ne protège pas le métal : elle est poreuse et laisse passer l'air et l'humidité. La [[corrosion]] continue donc jusqu'à détruire complètement l'objet.
+
+Plusieurs facteurs [[accélèrent]] ce phénomène. Le sel, par exemple, rend l'eau plus conductrice, ce qui explique pourquoi les voitures rouillent plus vite au bord de la mer ou dans les régions où l'on sale les routes en hiver. Pour protéger le fer, on peut le recouvrir de peinture ou d'une fine couche de [[zinc]]. On appelle ce procédé la galvanisation. Le zinc s'oxyde à la place du fer et le protège ainsi pendant de longues années.
+#çoktan-seçmeli:
+1. Que faut-il pour que la rouille apparaisse ?
+a) Du fer, du dioxygène et de l'eau *
+b) Du fer et de la chaleur
+c) Du zinc et du sel
+d) De l'aluminium et de l'eau
+#açıklama: Demir hem oksijenle hem suyla temas etmeli.
+2. Que se passe-t-il pour les atomes de fer ?
+a) Ils gagnent des électrons
+b) Ils perdent des électrons *
+c) Ils deviennent des gaz
+d) Ils disparaissent
+#açıklama: Demir atomları elektron kaybeder ve iyona dönüşür.
+3. Pourquoi la rouille ne protège-t-elle pas le fer ?
+a) Parce qu'elle est trop lourde
+b) Parce qu'elle est poreuse *
+c) Parce qu'elle est liquide
+d) Parce qu'elle est toxique
+#açıklama: Gözenekli olduğu için hava ve nemi geçirir.
+4. Pourquoi les voitures rouillent-elles plus vite au bord de la mer ?
+a) À cause du soleil
+b) À cause du sel *
+c) À cause du vent
+d) À cause du sable
+#açıklama: Tuz suyu daha iletken yapar.
+5. Comment s'appelle le procédé qui consiste à recouvrir le fer de zinc ?
+a) La distillation
+b) La filtration
+c) La galvanisation *
+d) La neutralisation
+#açıklama: Galvanizleme.
+#açık-uçlu:
+1. Comment est la couche de rouille ?
+#örnek-cevap: Elle est brune et friable.
+#anahtar-kelimeler: brune, friable
+2. Combien de temps peut durer cette oxydation ?
+#örnek-cevap: Elle peut durer des mois ou des années.
+#anahtar-kelimeler: mois, années
+3. Pourquoi parle-t-on d'oxydoréduction ?
+#örnek-cevap: Parce que le fer est oxydé tandis que le dioxygène est réduit.
+#anahtar-kelimeler: oxydé, réduit
+4. Citez deux moyens de protéger le fer.
+#örnek-cevap: Le recouvrir de peinture ou d'une couche de zinc.
+#anahtar-kelimeler: peinture, zinc
+5. Comment le zinc protège-t-il le fer ?
+#örnek-cevap: Le zinc s'oxyde à la place du fer.
+#anahtar-kelimeler: oxyde, place
+#sözlük:
+la grille | parmaklık | dişil
+couvert | kaplı | sıfat
+la couche | tabaka, katman | dişil
+brun | kahverengi | sıfat
+friable | ufalanan, gevrek | sıfat
+le contact | temas | eril
+il s'agit de | söz konusu olan ... -dir | ifade
+lent | yavaş | sıfat
+oxydé | yükseltgenmiş, oksitlenmiş | sıfat
+réduit | indirgenmiş; azaltılmış | sıfat
+hydraté | hidratlı | sıfat
+contrairement à | -in aksine | edat
+poreux, poreuse | gözenekli | sıfat
+l'humidité | nem | dişil
+complètement | tamamen | zarf
+l'objet | nesne | eril
+le facteur | etken | eril
+conducteur, conductrice | iletken | sıfat
+saler | tuzlamak | fiil
+recouvrir | kaplamak | fiil
+la peinture | boya | dişil
+fin, fine | ince | sıfat
+le procédé | yöntem | eril
+la galvanisation | galvanizleme | dişil
+à la place de | yerine | edat
+le sable | kum | eril
+consister | ibaret olmak | fiil
+rouillent = rouiller
+sale = saler
+apparaisse = apparaître

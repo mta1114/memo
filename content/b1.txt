@@ -1,0 +1,294 @@
+#deste: B1 Kelimeleri
+#seviye: B1
+// Bağlaçlar ve bağlayıcılar
+cependant | ancak, bununla birlikte | bağlaç | Il pleuvait, cependant nous sommes sortis. | Yağmur yağıyordu, ancak dışarı çıktık.
+pourtant | yine de, oysa | zarf | Il est riche, pourtant il n'est pas heureux. | Zengin, yine de mutlu değil.
+afin de | -mek için | edat | Je me lève tôt afin de ne pas être en retard. | Geç kalmamak için erken kalkıyorum.
+grâce à | sayesinde | edat | Grâce à toi, j'ai trouvé un travail. | Senin sayende bir iş buldum.
+à cause de | yüzünden | edat | Le match est annulé à cause de la pluie. | Maç yağmur yüzünden iptal edildi.
+au lieu de | yerine | edat | Il regarde la télé au lieu de travailler. | Çalışmak yerine televizyon izliyor.
+d'ailleurs | zaten, üstelik | zarf | Je ne veux pas sortir, d'ailleurs il fait froid. | Dışarı çıkmak istemiyorum, zaten hava soğuk.
+en effet | gerçekten de, nitekim | zarf | Il est fatigué ; en effet, il a mal dormi. | Yorgun; nitekim kötü uyudu.
+par exemple | örneğin | ifade | J'aime les fruits, par exemple les pommes. | Meyveleri severim, örneğin elmaları.
+c'est-à-dire | yani | ifade | Je pars après-demain, c'est-à-dire jeudi. | Öbür gün, yani perşembe gidiyorum.
+tandis que | -iken, oysa | bağlaç | Il lit tandis que sa sœur joue. | Kız kardeşi oynarken o okuyor.
+pendant que | -dığı sırada | bağlaç | J'ai cuisiné pendant que tu dormais. | Sen uyurken yemek yaptım.
+bien que | -e rağmen (subjonctif ile) | bağlaç | Bien qu'il soit malade, il travaille. | Hasta olmasına rağmen çalışıyor.
+dès que | -ir -irmez | bağlaç | Appelle-moi dès que tu arrives. | Varır varmaz beni ara.
+même si | -se bile | bağlaç | Je viendrai même s'il pleut. | Yağmur yağsa bile geleceğim.
+à part | dışında, hariç | edat | Tout le monde est venu à part Paul. | Paul dışında herkes geldi.
+au moins | en azından | zarf | Il faut au moins deux heures. | En az iki saat gerekiyor.
+de plus | ayrıca | zarf | Cet appartement est grand ; de plus, il est bien situé. | Bu daire büyük; ayrıca konumu iyi.
+finalement | sonunda, nihayetinde | zarf | Finalement, nous avons choisi la mer. | Sonunda denizi seçtik.
+heureusement | neyse ki | zarf | Heureusement, personne n'a été blessé. | Neyse ki kimse yaralanmadı.
+malheureusement | maalesef | zarf | Malheureusement, le magasin était fermé. | Maalesef mağaza kapalıydı.
+autrefois | eskiden | zarf | Autrefois, on écrivait des lettres. | Eskiden mektup yazılırdı.
+actuellement | şu anda, günümüzde | zarf | Actuellement, il travaille à Lyon. | Şu anda Lyon'da çalışıyor.
+récemment | son zamanlarda | zarf | J'ai récemment déménagé. | Son zamanlarda taşındım.
+désormais | bundan böyle | zarf | Désormais, je prendrai le train. | Bundan böyle treni kullanacağım.
+soudain | aniden | zarf | Soudain, la lumière s'est éteinte. | Aniden ışık söndü.
+lentement | yavaşça | zarf | Parlez lentement, s'il vous plaît. | Lütfen yavaş konuşun.
+facilement | kolayca | zarf | Il a facilement trouvé la solution. | Çözümü kolayca buldu.
+vraiment | gerçekten | zarf | Ce film est vraiment intéressant. | Bu film gerçekten ilginç.
+généralement | genellikle | zarf | Généralement, je dîne vers vingt heures. | Genellikle saat sekiz civarında akşam yemeği yerim.
+quelquefois | bazen | zarf | Quelquefois, je vais au cinéma seul. | Bazen sinemaya yalnız giderim.
+// Günlük hayat ve ev
+le logement | konut, barınma | eril | Trouver un logement à Paris est difficile. | Paris'te konut bulmak zor.
+le loyer | kira | eril | Le loyer augmente chaque année. | Kira her yıl artıyor.
+le propriétaire | ev sahibi, mal sahibi | eril | Le propriétaire a réparé le chauffage. | Ev sahibi kaloriferi tamir etti.
+le locataire | kiracı | eril | Le locataire paie le loyer le premier du mois. | Kiracı kirayı ayın birinde öder.
+le déménagement | taşınma | eril | Le déménagement a duré toute la journée. | Taşınma bütün gün sürdü.
+déménager | taşınmak | fiil | Nous allons déménager en septembre. | Eylülde taşınacağız.
+le chauffage | ısıtma, kalorifer | eril | Le chauffage ne marche plus. | Kalorifer artık çalışmıyor.
+la facture | fatura | dişil | J'ai reçu la facture d'électricité. | Elektrik faturasını aldım.
+les courses | alışveriş (market) | dişil-çoğul | Je fais les courses le samedi. | Cumartesi günleri alışveriş yaparım.
+le ménage | ev temizliği | eril | Nous faisons le ménage ensemble. | Ev temizliğini birlikte yapıyoruz.
+la poubelle | çöp kutusu | dişil | N'oublie pas de sortir la poubelle. | Çöpü çıkarmayı unutma.
+l'outil | alet | eril | Il range ses outils dans le garage. | Aletlerini garaja yerleştiriyor.
+réparer | tamir etmek | fiil | Peux-tu réparer mon vélo ? | Bisikletimi tamir edebilir misin?
+ranger | toplamak, yerleştirmek | fiil | Range ta chambre avant de sortir. | Çıkmadan önce odanı topla.
+nettoyer | temizlemek | fiil | Il faut nettoyer la cuisine. | Mutfağı temizlemek gerekiyor.
+allumer | yakmak, açmak (ışık, cihaz) | fiil | Allume la lumière, il fait sombre. | Işığı aç, hava karanlık.
+éteindre | söndürmek, kapatmak | fiil | Éteins ton téléphone pendant le film. | Film sırasında telefonunu kapat.
+le voisinage | komşuluk, çevre | eril | Il y a une boulangerie dans le voisinage. | Çevrede bir fırın var.
+// İş ve eğitim
+l'emploi | iş, istihdam | eril | Il cherche un emploi depuis trois mois. | Üç aydır iş arıyor.
+le chômage | işsizlik | eril | Le chômage a baissé cette année. | İşsizlik bu yıl düştü.
+le salaire | maaş | eril | Son salaire est assez élevé. | Maaşı oldukça yüksek.
+le métier | meslek | eril | Infirmier est un métier difficile. | Hemşirelik zor bir meslek.
+le collègue | iş arkadaşı (erkek) | eril | Mon collègue m'a aidé avec le dossier. | İş arkadaşım dosya konusunda bana yardım etti.
+la collègue | iş arkadaşı (kadın) | dişil | Ma collègue part en vacances demain. | İş arkadaşım yarın tatile çıkıyor.
+le patron | patron | eril | Le patron a organisé une réunion. | Patron bir toplantı düzenledi.
+la réunion | toplantı | dişil | La réunion commence à neuf heures. | Toplantı dokuzda başlıyor.
+l'entretien | mülakat; bakım | eril | J'ai un entretien d'embauche lundi. | Pazartesi bir iş görüşmem var.
+le candidat | aday | eril | Le candidat doit envoyer son CV. | Aday özgeçmişini göndermeli.
+embaucher | işe almak | fiil | L'entreprise va embaucher dix personnes. | Şirket on kişiyi işe alacak.
+le stage | staj | eril | Elle fait un stage dans une banque. | Bir bankada staj yapıyor.
+le diplôme | diploma | eril | Il a obtenu son diplôme en juin. | Diplomasını haziranda aldı.
+l'examen | sınav | eril | J'ai réussi mon examen de français. | Fransızca sınavımı geçtim.
+réussir | başarmak, geçmek | fiil | Elle a réussi à convaincre le jury. | Jüriyi ikna etmeyi başardı.
+échouer | başarısız olmak | fiil | Il a échoué à l'examen du permis. | Ehliyet sınavında başarısız oldu.
+la note | not | dişil | J'ai eu une bonne note en chimie. | Kimyadan iyi bir not aldım.
+le devoir | ödev; görev | eril | Les enfants font leurs devoirs. | Çocuklar ödevlerini yapıyor.
+l'université | üniversite | dişil | Elle étudie la chimie à l'université. | Üniversitede kimya okuyor.
+la bourse | burs; borsa | dişil | Il a obtenu une bourse pour étudier à Paris. | Paris'te okumak için burs aldı.
+s'inscrire | kaydolmak | fiil | Je me suis inscrit à un cours de français. | Bir Fransızca kursuna kaydoldum.
+l'horaire | saat çizelgesi, mesai | eril | Mes horaires de travail sont flexibles. | Çalışma saatlerim esnek.
+le congé | izin | eril | Je prends trois jours de congé. | Üç gün izin alıyorum.
+la tâche | görev, iş | dişil | Chacun a une tâche précise. | Herkesin belirli bir görevi var.
+le projet | proje; plan | eril | Nous avons un nouveau projet. | Yeni bir projemiz var.
+l'expérience | deneyim; deney | dişil | Elle a beaucoup d'expérience. | Çok deneyimi var.
+// Seyahat ve şehir
+le voyage | yolculuk, seyahat | eril | Le voyage en train dure quatre heures. | Trenle yolculuk dört saat sürüyor.
+la gare | tren istasyonu | dişil | Je t'attends devant la gare. | Seni istasyonun önünde bekliyorum.
+l'aéroport | havalimanı | eril | L'aéroport est loin du centre. | Havalimanı merkeze uzak.
+le billet | bilet | eril | J'ai acheté un billet aller-retour. | Gidiş-dönüş bilet aldım.
+le vol | uçuş; hırsızlık | eril | Le vol a deux heures de retard. | Uçuş iki saat rötarlı.
+le retard | gecikme | eril | Excusez mon retard. | Gecikmem için özür dilerim.
+en retard | geç (kalmış) | ifade | Il est toujours en retard. | Her zaman geç kalıyor.
+à l'heure | zamanında | ifade | Le train est arrivé à l'heure. | Tren zamanında geldi.
+la valise | bavul | dişil | Ma valise est trop lourde. | Bavulum çok ağır.
+réserver | rezervasyon yapmak | fiil | J'ai réservé une chambre d'hôtel. | Bir otel odası ayırttım.
+la réservation | rezervasyon | dişil | Avez-vous une réservation ? | Rezervasyonunuz var mı?
+le séjour | konaklama, kalış | eril | Nous avons fait un séjour à Nice. | Nice'te bir süre kaldık.
+l'étranger | yabancı ülke; yabancı | eril | Elle a vécu deux ans à l'étranger. | İki yıl yurt dışında yaşadı.
+le paysage | manzara | eril | Le paysage est magnifique. | Manzara muhteşem.
+le trajet | yol, güzergâh | eril | Le trajet en métro est rapide. | Metroyla yol hızlı.
+le carrefour | kavşak | eril | Tournez à droite au carrefour. | Kavşakta sağa dönün.
+le trottoir | kaldırım | eril | Les enfants marchent sur le trottoir. | Çocuklar kaldırımda yürüyor.
+les embouteillages | trafik sıkışıklığı | eril-çoğul | Il y a des embouteillages tous les matins. | Her sabah trafik sıkışıklığı var.
+le permis de conduire | ehliyet | eril | Il a passé son permis de conduire. | Ehliyetini aldı.
+se perdre | kaybolmak | fiil | Nous nous sommes perdus dans la vieille ville. | Eski şehirde kaybolduk.
+le plan | harita (şehir); plan | eril | Tu as un plan du métro ? | Metro haritan var mı?
+les environs | çevre, civar | eril-çoğul | Il y a de beaux villages dans les environs. | Civarda güzel köyler var.
+// Duygular ve kişilik
+la joie | sevinç | dişil | Elle a annoncé la nouvelle avec joie. | Haberi sevinçle duyurdu.
+la peur | korku | dişil | J'ai peur des chiens. | Köpeklerden korkarım.
+la colère | öfke | dişil | Il est parti en colère. | Öfkeyle gitti.
+la honte | utanç | dişil | J'ai eu honte de mon erreur. | Hatamdan utandım.
+la confiance | güven | dişil | J'ai confiance en toi. | Sana güveniyorum.
+l'espoir | umut | eril | Il garde l'espoir de la revoir. | Onu yeniden görme umudunu koruyor.
+le souvenir | anı, hatıra | eril | J'ai de bons souvenirs de cet été. | O yazdan güzel anılarım var.
+inquiet, inquiète | endişeli | sıfat | Ma mère est inquiète quand je rentre tard. | Geç döndüğümde annem endişelenir.
+déçu | hayal kırıklığına uğramış | sıfat | Je suis déçu par ce film. | Bu filmden hayal kırıklığına uğradım.
+fier, fière | gururlu | sıfat | Ses parents sont fiers de lui. | Ailesi onunla gurur duyuyor.
+jaloux, jalouse | kıskanç | sıfat | Il est jaloux de son frère. | Kardeşini kıskanıyor.
+gentil, gentille | kibar, nazik | sıfat | Merci, c'est très gentil. | Teşekkürler, çok naziksiniz.
+méchant | kötü kalpli | sıfat | Ce chien n'est pas méchant. | Bu köpek kötü değil.
+timide | utangaç | sıfat | Il est trop timide pour parler. | Konuşmak için fazla utangaç.
+curieux, curieuse | meraklı | sıfat | Les enfants sont curieux de tout. | Çocuklar her şeyi merak eder.
+sérieux, sérieuse | ciddi | sıfat | C'est un étudiant sérieux. | Ciddi bir öğrenci.
+drôle | komik; tuhaf | sıfat | Ton histoire est très drôle. | Hikâyen çok komik.
+étonné | şaşırmış | sıfat | J'ai été étonné par sa réponse. | Cevabına şaşırdım.
+calme | sakin | sıfat | La mer est calme ce matin. | Deniz bu sabah sakin.
+sensible | duyarlı, hassas | sıfat | Elle est très sensible à la critique. | Eleştiriye karşı çok hassas.
+s'inquiéter | endişelenmek | fiil | Ne t'inquiète pas, tout va bien. | Endişelenme, her şey yolunda.
+se fâcher | kızmak | fiil | Il s'est fâché contre son fils. | Oğluna kızdı.
+pleurer | ağlamak | fiil | Le bébé pleure depuis une heure. | Bebek bir saattir ağlıyor.
+sourire | gülümsemek | fiil | Elle sourit toujours. | Her zaman gülümser.
+avoir envie de | canı istemek | ifade | J'ai envie de manger une glace. | Canım dondurma yemek istiyor.
+avoir besoin de | ihtiyacı olmak | ifade | J'ai besoin de ton aide. | Yardımına ihtiyacım var.
+// Sağlık ve vücut
+la douleur | ağrı | dişil | Il a une douleur au dos. | Sırtında ağrı var.
+avoir mal | ağrımak | ifade | J'ai mal à la tête. | Başım ağrıyor.
+le rhume | soğuk algınlığı | eril | J'ai attrapé un rhume. | Soğuk algınlığına yakalandım.
+la fièvre | ateş (hastalık) | dişil | L'enfant a de la fièvre. | Çocuğun ateşi var.
+le médicament | ilaç | eril | Prenez ce médicament deux fois par jour. | Bu ilacı günde iki kez alın.
+l'ordonnance | reçete | dişil | Le médecin m'a donné une ordonnance. | Doktor bana bir reçete verdi.
+la pharmacie | eczane | dişil | La pharmacie est ouverte jusqu'à vingt heures. | Eczane akşam sekize kadar açık.
+le rendez-vous | randevu | eril | J'ai rendez-vous chez le dentiste. | Dişçide randevum var.
+guérir | iyileşmek, iyileştirmek | fiil | Il a guéri rapidement. | Çabuk iyileşti.
+se blesser | yaralanmak | fiil | Il s'est blessé en jouant au football. | Futbol oynarken yaralandı.
+la blessure | yara | dişil | La blessure n'est pas grave. | Yara ciddi değil.
+le régime | diyet; rejim | eril | Elle suit un régime sans sucre. | Şekersiz bir diyet uyguluyor.
+le sommeil | uyku | eril | Le sommeil est important pour la santé. | Uyku sağlık için önemli.
+en forme | formda, zinde | ifade | Je me sens en forme aujourd'hui. | Bugün kendimi zinde hissediyorum.
+le poids | ağırlık, kilo | eril | Il a pris du poids cet hiver. | Bu kış kilo aldı.
+le cœur | kalp | eril | Le cœur bat plus vite pendant l'effort. | Efor sırasında kalp daha hızlı atar.
+la peau | cilt, deri | dişil | Le soleil abîme la peau. | Güneş cilde zarar verir.
+le dos | sırt | eril | Il porte un sac sur le dos. | Sırtında bir çanta taşıyor.
+// Toplum, medya, çevre
+la société | toplum; şirket | dişil | La société change rapidement. | Toplum hızla değişiyor.
+le citoyen | vatandaş | eril | Chaque citoyen peut voter. | Her vatandaş oy kullanabilir.
+la loi | yasa | dişil | La nouvelle loi entre en vigueur demain. | Yeni yasa yarın yürürlüğe giriyor.
+le gouvernement | hükümet | eril | Le gouvernement a annoncé des mesures. | Hükümet önlemler açıkladı.
+l'élection | seçim | dişil | Les élections ont lieu en mai. | Seçimler mayısta yapılıyor.
+voter | oy vermek | fiil | Elle a voté pour la première fois. | İlk kez oy kullandı.
+la grève | grev | dişil | Les trains ne circulent pas à cause de la grève. | Grev nedeniyle trenler çalışmıyor.
+l'actualité | güncel olaylar, haberler | dişil | Je suis l'actualité tous les jours. | Haberleri her gün takip ederim.
+le journal | gazete | eril | Mon père lit le journal le matin. | Babam sabahları gazete okur.
+l'article | makale; madde | eril | J'ai lu un article sur le climat. | İklim hakkında bir makale okudum.
+l'émission | program, yayın | dişil | Cette émission passe le dimanche soir. | Bu program pazar akşamları yayınlanıyor.
+l'information | bilgi; haber | dişil | Merci pour l'information. | Bilgi için teşekkürler.
+le réseau | ağ, şebeke | eril | Les réseaux sociaux prennent beaucoup de temps. | Sosyal ağlar çok zaman alıyor.
+l'environnement | çevre | eril | Il faut protéger l'environnement. | Çevreyi korumak gerekir.
+la pollution | kirlilik | dişil | La pollution de l'air est un problème majeur. | Hava kirliliği büyük bir sorun.
+les déchets | atıklar, çöp | eril-çoğul | On trie les déchets à la maison. | Evde atıkları ayrıştırıyoruz.
+recycler | geri dönüştürmek | fiil | Ces bouteilles peuvent être recyclées. | Bu şişeler geri dönüştürülebilir.
+le climat | iklim | eril | Le climat de cette région est doux. | Bu bölgenin iklimi ılıman.
+le réchauffement | ısınma | eril | Le réchauffement climatique inquiète les scientifiques. | Küresel ısınma bilim insanlarını endişelendiriyor.
+l'énergie | enerji | dişil | L'énergie solaire est renouvelable. | Güneş enerjisi yenilenebilir.
+la planète | gezegen | dişil | Nous devons protéger la planète. | Gezegeni korumalıyız.
+le produit | ürün | eril | Ce produit est fabriqué en France. | Bu ürün Fransa'da üretiliyor.
+protéger | korumak | fiil | Le casque protège la tête. | Kask başı korur.
+gaspiller | israf etmek | fiil | Il ne faut pas gaspiller l'eau. | Suyu israf etmemek gerekir.
+économiser | tasarruf etmek | fiil | J'économise pour acheter une voiture. | Araba almak için para biriktiriyorum.
+// Sık kullanılan fiiller
+accepter | kabul etmek | fiil | Elle a accepté l'invitation. | Daveti kabul etti.
+refuser | reddetmek | fiil | Il a refusé de répondre. | Cevap vermeyi reddetti.
+proposer | önermek | fiil | Je te propose d'aller au cinéma. | Sana sinemaya gitmeyi öneriyorum.
+conseiller | tavsiye etmek | fiil | Je te conseille ce livre. | Sana bu kitabı tavsiye ederim.
+partager | paylaşmak | fiil | Nous partageons un appartement. | Bir daireyi paylaşıyoruz.
+décider | karar vermek | fiil | Ils ont décidé de partir tôt. | Erken yola çıkmaya karar verdiler.
+se décider | karar vermek, karara varmak | fiil | Je n'arrive pas à me décider. | Bir türlü karar veremiyorum.
+remarquer | fark etmek | fiil | Tu as remarqué son nouveau manteau ? | Yeni montunu fark ettin mi?
+se rendre compte | farkına varmak | fiil | Je me suis rendu compte de mon erreur. | Hatamın farkına vardım.
+reconnaître | tanımak; kabul etmek | fiil | Je ne l'ai pas reconnu avec sa barbe. | Sakalıyla onu tanıyamadım.
+s'habituer | alışmak | fiil | Je me suis habitué au froid. | Soğuğa alıştım.
+s'occuper de | ilgilenmek | fiil | Elle s'occupe de ses petits frères. | Küçük kardeşleriyle ilgileniyor.
+se dépêcher | acele etmek | fiil | Dépêche-toi, le film commence ! | Acele et, film başlıyor!
+se reposer | dinlenmek | fiil | Repose-toi un peu. | Biraz dinlen.
+se promener | gezinmek, yürüyüşe çıkmak | fiil | Nous nous promenons au bord du lac. | Göl kenarında geziniyoruz.
+se sentir | hissetmek (kendini) | fiil | Je me sens mieux aujourd'hui. | Bugün kendimi daha iyi hissediyorum.
+se tromper | yanılmak | fiil | Excusez-moi, je me suis trompé. | Afedersiniz, yanıldım.
+se passer | olmak, geçmek | fiil | Qu'est-ce qui se passe ? | Ne oluyor?
+se servir de | kullanmak | fiil | Je me sers de mon ordinateur pour travailler. | Çalışmak için bilgisayarımı kullanıyorum.
+empêcher | engellemek | fiil | Le bruit m'empêche de dormir. | Gürültü uyumamı engelliyor.
+éviter | kaçınmak | fiil | Évitez de sortir pendant l'orage. | Fırtına sırasında dışarı çıkmaktan kaçının.
+obtenir | elde etmek | fiil | Il a obtenu un visa. | Vize aldı.
+atteindre | ulaşmak | fiil | Nous avons atteint le sommet. | Zirveye ulaştık.
+augmenter | artmak, artırmak | fiil | Les prix augmentent. | Fiyatlar artıyor.
+diminuer | azalmak, azaltmak | fiil | Le nombre d'accidents a diminué. | Kaza sayısı azaldı.
+baisser | düşmek, indirmek | fiil | La température baisse la nuit. | Sıcaklık geceleri düşer.
+remplir | doldurmak | fiil | Remplissez ce formulaire. | Bu formu doldurun.
+vider | boşaltmak | fiil | Il a vidé la bouteille. | Şişeyi boşalttı.
+mélanger | karıştırmak | fiil | Mélangez la farine et le sucre. | Unu ve şekeri karıştırın.
+couper | kesmek | fiil | Coupe le pain, s'il te plaît. | Ekmeği keser misin lütfen.
+cuire | pişirmek | fiil | Laissez cuire vingt minutes. | Yirmi dakika pişirin.
+goûter | tatmak | fiil | Goûte cette soupe ! | Bu çorbayı tat!
+s'entraîner | antrenman yapmak | fiil | Il s'entraîne trois fois par semaine. | Haftada üç kez antrenman yapıyor.
+louer | kiralamak | fiil | Nous avons loué une voiture. | Bir araba kiraladık.
+emprunter | ödünç almak | fiil | J'ai emprunté un livre à la bibliothèque. | Kütüphaneden bir kitap ödünç aldım.
+prêter | ödünç vermek | fiil | Tu peux me prêter ton stylo ? | Kalemini bana ödünç verir misin?
+rendre | geri vermek; -leştirmek | fiil | Je te rends ton livre demain. | Kitabını yarın geri veririm.
+dépenser | harcamak | fiil | Il dépense trop d'argent. | Çok fazla para harcıyor.
+compter | saymak; güvenmek | fiil | Tu peux compter sur moi. | Bana güvenebilirsin.
+discuter | tartışmak, sohbet etmek | fiil | Nous avons discuté pendant des heures. | Saatlerce sohbet ettik.
+se plaindre | şikâyet etmek | fiil | Il se plaint toujours du bruit. | Hep gürültüden şikâyet ediyor.
+promettre | söz vermek | fiil | Je te promets de venir. | Geleceğime söz veriyorum.
+traduire | çevirmek (dil) | fiil | Peux-tu traduire cette phrase ? | Bu cümleyi çevirebilir misin?
+construire | inşa etmek | fiil | Ils construisent une nouvelle école. | Yeni bir okul inşa ediyorlar.
+découvrir | keşfetmek | fiil | J'ai découvert un petit restaurant. | Küçük bir restoran keşfettim.
+disparaître | kaybolmak, yok olmak | fiil | Mes clés ont disparu. | Anahtarlarım kayboldu.
+apparaître | ortaya çıkmak | fiil | Le soleil est apparu entre les nuages. | Güneş bulutların arasından göründü.
+se souvenir de | hatırlamak | fiil | Je me souviens de notre premier voyage. | İlk yolculuğumuzu hatırlıyorum.
+// İsimler
+le bruit | gürültü, ses | eril | Il y a trop de bruit dans la rue. | Sokakta çok fazla gürültü var.
+le lieu de travail | iş yeri | eril | Mon lieu de travail est près de chez moi. | İş yerim evime yakın.
+l'avenir | gelecek | eril | Personne ne connaît l'avenir. | Kimse geleceği bilemez.
+le passé | geçmiş | eril | Il ne parle jamais de son passé. | Geçmişinden hiç bahsetmez.
+le choix | seçim, tercih | eril | Tu as fait le bon choix. | Doğru seçimi yaptın.
+le conseil | tavsiye; konsey | eril | Merci pour tes conseils. | Tavsiyelerin için teşekkürler.
+l'avis | görüş | eril | À mon avis, c'est une bonne idée. | Bence bu iyi bir fikir.
+le but | amaç; gol | eril | Mon but est de parler couramment. | Amacım akıcı konuşmak.
+le moyen | araç, yol | eril | Le vélo est un moyen de transport écologique. | Bisiklet çevreci bir ulaşım aracıdır.
+la solution | çözüm | dişil | Nous avons trouvé une solution. | Bir çözüm bulduk.
+l'erreur | hata | dişil | Tout le monde fait des erreurs. | Herkes hata yapar.
+la chance | şans | dişil | Tu as de la chance ! | Şanslısın!
+le risque | risk | eril | Il y a un risque de pluie. | Yağmur riski var.
+le danger | tehlike | eril | Attention, danger ! | Dikkat, tehlike!
+la règle | kural; cetvel | dişil | Les règles du jeu sont simples. | Oyunun kuralları basit.
+le résultat | sonuç | eril | Les résultats seront publiés demain. | Sonuçlar yarın açıklanacak.
+la différence | fark | dişil | Quelle est la différence entre ces deux mots ? | Bu iki kelime arasındaki fark nedir?
+le niveau | seviye | eril | Mon niveau de français s'améliore. | Fransızca seviyem gelişiyor.
+la vitesse | hız | dişil | Réduisez votre vitesse. | Hızınızı azaltın.
+la taille | boy; beden | dişil | Quelle est votre taille ? | Bedeniniz nedir?
+la quantité | miktar | dişil | Ajoutez une petite quantité de sel. | Az miktarda tuz ekleyin.
+la moitié | yarı | dişil | J'ai lu la moitié du livre. | Kitabın yarısını okudum.
+le quotidien | gündelik hayat | eril | Le sport fait partie de mon quotidien. | Spor gündelik hayatımın bir parçası.
+les loisirs | boş zaman etkinlikleri | eril-çoğul | Quels sont tes loisirs ? | Boş zaman etkinliklerin neler?
+l'habitude | alışkanlık | dişil | J'ai l'habitude de courir le matin. | Sabahları koşma alışkanlığım var.
+la boulangerie | fırın | dişil | J'achète du pain à la boulangerie. | Fırından ekmek alıyorum.
+la bibliothèque | kütüphane | dişil | La bibliothèque ferme à dix-huit heures. | Kütüphane saat altıda kapanıyor.
+le spectacle | gösteri | eril | Le spectacle commence à vingt heures. | Gösteri saat sekizde başlıyor.
+la recette | tarif (yemek); hasılat | dişil | Donne-moi la recette de ce gâteau. | Bana bu pastanın tarifini ver.
+le goût | tat; zevk | eril | Ce plat a un goût étrange. | Bu yemeğin tadı tuhaf.
+l'odeur | koku | dişil | J'adore l'odeur du café. | Kahve kokusuna bayılırım.
+le lien | bağ, bağlantı | eril | Il y a un lien entre ces deux événements. | Bu iki olay arasında bir bağ var.
+l'événement | olay, etkinlik | eril | C'est un événement important pour la ville. | Bu şehir için önemli bir etkinlik.
+l'accident | kaza | eril | Il y a eu un accident sur l'autoroute. | Otoyolda bir kaza oldu.
+le témoin | tanık | eril | Le témoin a tout vu. | Tanık her şeyi gördü.
+la foule | kalabalık | dişil | Une foule attendait devant le stade. | Stadyumun önünde bir kalabalık bekliyordu.
+// Sıfatlar
+agréable | hoş, keyifli | sıfat | Nous avons passé une soirée agréable. | Keyifli bir akşam geçirdik.
+désagréable | hoş olmayan | sıfat | Ce bruit est désagréable. | Bu ses rahatsız edici.
+pratique | pratik, kullanışlı | sıfat | Ce sac est très pratique. | Bu çanta çok kullanışlı.
+nécessaire | gerekli | sıfat | Il est nécessaire de réserver. | Rezervasyon yapmak gerekli.
+dangereux, dangereuse | tehlikeli | sıfat | Cette route est dangereuse la nuit. | Bu yol geceleri tehlikeli.
+célèbre | ünlü | sıfat | C'est un acteur célèbre. | Ünlü bir oyuncu.
+étrange | tuhaf | sıfat | J'ai fait un rêve étrange. | Tuhaf bir rüya gördüm.
+lourd | ağır | sıfat | Ce carton est trop lourd. | Bu koli çok ağır.
+léger, légère | hafif | sıfat | Je voudrais un repas léger. | Hafif bir yemek isterim.
+épais, épaisse | kalın | sıfat | Ce mur est très épais. | Bu duvar çok kalın.
+mince | ince, zayıf | sıfat | Elle est grande et mince. | Uzun ve ince.
+étroit | dar | sıfat | La rue est trop étroite pour les bus. | Sokak otobüsler için fazla dar.
+large | geniş | sıfat | Le fleuve est large ici. | Nehir burada geniş.
+profond | derin | sıfat | Le lac est très profond. | Göl çok derin.
+doux, douce | yumuşak, tatlı; ılık | sıfat | Ce pull est doux. | Bu kazak yumuşak.
+dur | sert; zor | sıfat | Le pain est dur. | Ekmek sert.
+frais, fraîche | taze; serin | sıfat | Ces légumes sont frais. | Bu sebzeler taze.
+sec, sèche | kuru | sıfat | L'air est très sec en hiver. | Kışın hava çok kuru.
+mouillé | ıslak | sıfat | Mes chaussures sont mouillées. | Ayakkabılarım ıslak.
+rempli | dolu | sıfat | Le verre est rempli d'eau. | Bardak suyla dolu.
+complet, complète | tam; dolu | sıfat | L'hôtel est complet. | Otel dolu.
+disponible | müsait, mevcut | sıfat | Êtes-vous disponible demain ? | Yarın müsait misiniz?
+occupé | meşgul | sıfat | Je suis très occupé cette semaine. | Bu hafta çok meşgulüm.
+pressé | aceleci, acelesi olan | sıfat | Désolé, je suis pressé. | Üzgünüm, acelem var.
+proche | yakın | sıfat | La gare est proche d'ici. | İstasyon buraya yakın.
+lointain | uzak | sıfat | Il rêve de pays lointains. | Uzak ülkelerin hayalini kuruyor.
+moderne | modern | sıfat | C'est un bâtiment moderne. | Modern bir bina.
+ancien, ancienne | eski | sıfat | Nous habitons dans un immeuble ancien. | Eski bir binada oturuyoruz.
+principal | ana, başlıca | sıfat | La rue principale est piétonne. | Ana cadde yayalara ayrılmış.
+efficace | etkili, verimli | sıfat | Ce médicament est très efficace. | Bu ilaç çok etkili.
+gratuit | ücretsiz | sıfat | L'entrée du musée est gratuite. | Müze girişi ücretsiz.
+nombreux, nombreuse | çok sayıda | sıfat | De nombreux touristes visitent la ville. | Pek çok turist şehri ziyaret ediyor.
