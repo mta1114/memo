@@ -1,5 +1,5 @@
 // Çevrimdışı çalışma: önce önbellek, arka planda güncelle
-const CACHE = 'memo-v1';
+const CACHE = 'memo-v2';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'css/style.css',
   'js/app.js', 'js/db.js', 'js/util.js', 'js/fsrs.js', 'js/conj.js', 'js/parser.js', 'js/store.js', 'js/dict.js', 'js/tts.js', 'js/ui.js', 'js/study.js', 'js/sheet.js', 'js/listen.js', 'js/request.js',
   'content/index.json', 'content/temel.txt', 'content/b1.txt', 'content/b2.txt', 'content/kimya.txt', 'content/metinler-b1.txt', 'content/metinler-b2.txt', 'content/metinler-kimya.txt',

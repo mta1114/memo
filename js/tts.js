@@ -10,18 +10,35 @@ function loadVoices() {
   voices = synth.getVoices().filter(v => v.lang && v.lang.toLowerCase().replace('_', '-').startsWith('fr'));
   return voices;
 }
-if (synth) { loadVoices(); synth.onvoiceschanged = loadVoices; }
+if (synth) { loadVoices(); synth.addEventListener('voiceschanged', loadVoices); }
 
 export const ttsAvailable = () => !!synth;
 export function frVoices() { return loadVoices(); }
 
+// Ses kalitesi puanı: yüksek kaliteli (gelişmiş/premium/doğal) sesler öne çıkar
+const HQ = /(enhanced|premium|amélioré|améliorée|gelişmiş|yüksek kalite|google|natural|neural|online)/i;
+export function quality(v) {
+  let q = 0;
+  if (HQ.test(v.name) || HQ.test(v.voiceURI)) q += 10;
+  if (/fr-fr/i.test(v.lang.replace('_', '-'))) q += 3;
+  if (/(thomas|amélie|audrey|aurélie|marie|daniel)/i.test(v.name)) q += 1;
+  if (/(compact|eloquence|grandma|grandpa|rocko|shelley|flo|reed|sandy|eddy|jacques)/i.test(v.name + v.voiceURI)) q -= 6;
+  return q;
+}
+export function sortedFrVoices() { return [...loadVoices()].sort((a, b) => quality(b) - quality(a) || a.name.localeCompare(b.name)); }
+// Sesler bazı cihazlarda (iPad) geç yüklenir: hazır olunca haber ver
+export function onVoices(cb) {
+  if (!synth) return () => { };
+  const h = () => cb(sortedFrVoices());
+  synth.addEventListener('voiceschanged', h);
+  const t = [300, 1000, 2500].map(ms => setTimeout(h, ms));
+  return () => { synth.removeEventListener('voiceschanged', h); t.forEach(clearTimeout); };
+}
+
 function pickVoice() {
   loadVoices();
   const uri = S.settings.voice;
-  return voices.find(v => v.voiceURI === uri)
-    || voices.find(v => /fr-fr/i.test(v.lang.replace('_', '-')) && /(enhanced|premium|amélioré|google|natural|neural)/i.test(v.name))
-    || voices.find(v => /fr-fr/i.test(v.lang.replace('_', '-')))
-    || voices[0] || null;
+  return voices.find(v => v.voiceURI === uri) || sortedFrVoices()[0] || null;
 }
 
 export function stop() { if (synth) synth.cancel(); current = null; }

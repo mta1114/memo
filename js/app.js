@@ -4,7 +4,7 @@ import { parseWords, parseTexts, detectType, TYPE_LABEL } from './parser.js';
 import { queueInfo, renderStudy } from './study.js';
 import { renderTexts, renderTextFlow, showRequest } from './listen.js';
 import { invalidate } from './dict.js';
-import { frVoices, speak, stop } from './tts.js';
+import { sortedFrVoices, onVoices, quality, speak, stop } from './tts.js';
 import { setTop, genderClass, accentBar, openSheet, closeSheet } from './ui.js';
 import { isMature } from './fsrs.js';
 import { WORD_FORMAT, TEXT_FORMAT } from './request.js';
@@ -246,7 +246,6 @@ function statsView() {
 function settingsView() {
   setTop('Ayarlar');
   const s = S.settings;
-  const vs = frVoices();
   view.innerHTML = `
     <form class="stack settings" id="sf">
       <h2>Kartlar</h2>
@@ -256,8 +255,8 @@ function settingsView() {
       <label class="switch"><input type="checkbox" name="typeAnswer" ${s.typeAnswer ? 'checked' : ''}> <span>Cevabı yazarak ver</span></label>
       <label class="switch"><input type="checkbox" name="autoplay" ${s.autoplay ? 'checked' : ''}> <span>Fransızca kelimeyi otomatik seslendir</span></label>
       <h2>Ses</h2>
-      <label>Ses<select name="voice"><option value="">Otomatik (en iyi Fransızca ses)</option>${vs.map(v => `<option value="${esc(v.voiceURI)}" ${s.voice === v.voiceURI ? 'selected' : ''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('')}</select></label>
-      ${vs.length ? '' : '<p class="warn small">Fransızca ses bulunamadı. Cihaz ayarlarından Fransızca ses indir (aşağıdaki Yardım bölümüne bak).</p>'}
+      <label>Ses<select name="voice" id="voiceSel"></select></label>
+      <p class="muted small" id="voiceInfo"></p>
       <label>Okuma hızı: <b id="rv">${String(s.rate).replace('.', ',')}x</b><input type="range" name="rate" min="0.5" max="1.3" step="0.05" value="${s.rate}"></label>
       <button type="button" class="btn" id="test">🔊 Sesi dene</button>
       <h2>Dinle ve Anla</h2>
@@ -271,6 +270,16 @@ function settingsView() {
     <h2>Diğer</h2>
     <div class="btn-row"><a class="btn" href="#/help">❓ Yardım ve dosya biçimleri</a><button class="btn danger" id="reset">Her şeyi sıfırla</button></div>
     <p class="muted small">Mémo · sürüm 1.0 · ${S.words.size} kelime · ${S.texts.length} metin</p>`;
+  const fillVoices = (vs) => {
+    const sel = view.querySelector('#voiceSel'); if (!sel) return;
+    sel.innerHTML = `<option value="">Otomatik (en iyi Fransızca ses)</option>` + vs.map(v => `<option value="${esc(v.voiceURI)}" ${s.voice === v.voiceURI ? 'selected' : ''}>${quality(v) >= 10 ? '★ ' : ''}${esc(v.name)} (${esc(v.lang)})</option>`).join('');
+    const hq = vs.filter(v => quality(v) >= 10).length;
+    view.querySelector('#voiceInfo').innerHTML = !vs.length
+      ? '<span class="warn">Fransızca ses bulunamadı.</span> Cihaz ayarlarından Fransızca ses indir (Yardım bölümüne bak), sonra uygulamayı tamamen kapatıp yeniden aç.'
+      : `${vs.length} Fransızca ses bulundu${hq ? `, ${hq} tanesi yüksek kaliteli (★)` : ''}. Otomatik seçenek ★ sesi tercih eder.${hq ? '' : ' Yüksek kaliteli ses görünmüyorsa Yardım bölümüne bak.'}`;
+  };
+  fillVoices(sortedFrVoices());
+  window.__leave = onVoices(fillVoices);
   const f = view.querySelector('#sf');
   f.oninput = f.onchange = async () => {
     const d = new FormData(f);
@@ -309,7 +318,7 @@ function helpView() {
     <h3>Kelime dosyası biçimi</h3><pre>${esc(WORD_FORMAT)}</pre>
     <h3>Metin paketi biçimi</h3><pre>${esc(TEXT_FORMAT)}</pre>
     <h2>Daha doğal ses</h2>
-    <p><b>iPad:</b> Ayarlar → Erişilebilirlik → Sesli İçerik → Sesler → Fransızca → örneğin "Thomas (Gelişmiş)" ya da "Amélie (Gelişmiş)" indir. Sonra Mémo → Ayarlar → Ses kısmından seç.</p>
+    <p><b>iPad:</b> Ayarlar → Erişilebilirlik → Sesli İçerik → Sesler → Fransızca (Fransa) → "Thomas" ya da "Amélie" → <b>Gelişmiş</b> sürümünü indir. İndirme bitince Mémo'yu uygulama değiştiriciden yukarı kaydırarak <b>tamamen kapat</b> ve yeniden aç; ardından Mémo → Ayarlar → Ses listesinde ★ işaretli sesi seç. Not: Apple "Siri" seslerini web uygulamalarına açmaz; listede görünmezler.</p>
     <p><b>Android:</b> Ayarlar → Erişilebilirlik (veya Sistem → Diller) → Metin okuma çıkışı → Google konuşma hizmetleri → Ses verilerini yükle → Fransızca (Fransa).</p>
     <h2>Verilerim nerede?</h2>
     <p>Her şey bu cihazın içinde saklanır; internet gerekmez. iPad ve telefonun verileri ayrıdır; birinden diğerine taşımak için Ayarlar → Yedek dosyası indir / Yedekten geri yükle.</p>
