@@ -1,0 +1,69 @@
+#deste: Kimya: Atom yapısı ve karışımlar
+#seviye: B2
+// Atomun yapısı ve elektronlar
+le nombre de masse | kütle numarası | eril | Le nombre de masse est la somme des protons et des neutrons. | Kütle numarası proton ve nötronların toplamıdır.
+le nucléon | nükleon (çekirdek taneciği) | eril | Les protons et les neutrons sont des nucléons. | Protonlar ve nötronlar nükleondur.
+le nuage électronique | elektron bulutu | eril | Le nuage électronique entoure le noyau. | Elektron bulutu çekirdeği çevreler.
+la configuration électronique | elektron dizilimi | dişil | La configuration électronique du sodium est 1s2 2s2 2p6 3s1. | Sodyumun elektron dizilimi 1s2 2s2 2p6 3s1'dir.
+la sous-couche | alt katman | dişil | La sous-couche s peut contenir deux électrons. | s alt katmanı iki elektron alabilir.
+l'orbitale | orbital | dişil | Une orbitale contient au maximum deux électrons. | Bir orbital en fazla iki elektron içerir.
+le niveau d'énergie | enerji düzeyi | eril | Les électrons occupent des niveaux d'énergie différents. | Elektronlar farklı enerji düzeylerinde bulunur.
+la couche de valence | değerlik katmanı | dişil | La couche de valence est la dernière couche occupée. | Değerlik katmanı dolu olan son katmandır.
+les électrons de valence | değerlik elektronları | eril-çoğul | Le carbone possède quatre électrons de valence. | Karbonun dört değerlik elektronu vardır.
+l'état fondamental | temel hal | eril | À l'état fondamental, l'atome a son énergie la plus basse. | Temel halde atom en düşük enerjisindedir.
+l'état excité | uyarılmış hal | eril | Un atome à l'état excité finit par émettre de la lumière. | Uyarılmış haldeki bir atom sonunda ışık yayar.
+le photon | foton | eril | L'électron émet un photon en changeant de niveau. | Elektron düzey değiştirirken bir foton yayar.
+le spectre | spektrum, tayf | eril | Chaque élément possède un spectre unique. | Her elementin kendine özgü bir spektrumu vardır.
+le modèle de Bohr | Bohr modeli | eril | Le modèle de Bohr place les électrons sur des orbites. | Bohr modeli elektronları yörüngelere yerleştirir.
+la règle de l'octet | oktet kuralı | dişil | Selon la règle de l'octet, les atomes cherchent à avoir huit électrons externes. | Oktet kuralına göre atomlar dış katmanda sekiz elektrona ulaşmaya çalışır.
+la règle du duet | dublet kuralı | dişil | L'hydrogène suit la règle du duet. | Hidrojen dublet kuralına uyar.
+l'électronégativité | elektronegatiflik | dişil | Le fluor a l'électronégativité la plus élevée. | Flor en yüksek elektronegatifliğe sahiptir.
+le rayon atomique | atom yarıçapı | eril | Le rayon atomique diminue le long d'une période. | Atom yarıçapı bir periyot boyunca azalır.
+l'énergie d'ionisation | iyonlaşma enerjisi | dişil | L'énergie d'ionisation des gaz nobles est très grande. | Soy gazların iyonlaşma enerjisi çok yüksektir.
+la famille chimique | kimyasal aile (grup) | dişil | Les éléments d'une même famille chimique réagissent de façon semblable. | Aynı kimyasal ailedeki elementler benzer şekilde tepkimeye girer.
+les alcalins | alkali metaller | eril-çoğul | Les alcalins réagissent violemment avec l'eau. | Alkali metaller suyla şiddetle tepkimeye girer.
+les alcalino-terreux | toprak alkali metaller | eril-çoğul | Le calcium fait partie des alcalino-terreux. | Kalsiyum toprak alkali metallerdendir.
+les halogènes | halojenler | eril-çoğul | Le chlore et le fluor sont des halogènes. | Klor ve flor halojendir.
+// Bağlar ve molekül yapısı
+le schéma de Lewis | Lewis yapısı | eril | Dessinez le schéma de Lewis de la molécule d'eau. | Su molekülünün Lewis yapısını çizin.
+le doublet liant | bağ yapan elektron çifti | eril | Une liaison covalente correspond à un doublet liant. | Kovalent bağ bir bağ yapan elektron çiftine karşılık gelir.
+le doublet non liant | ortaklanmamış elektron çifti | eril | L'atome d'oxygène de l'eau porte deux doublets non liants. | Sudaki oksijen atomunda iki ortaklanmamış elektron çifti vardır.
+la liaison double | ikili bağ | dişil | Le dioxyde de carbone contient deux liaisons doubles. | Karbondioksit iki ikili bağ içerir.
+la liaison métallique | metalik bağ | dişil | La liaison métallique explique la conductivité des métaux. | Metalik bağ metallerin iletkenliğini açıklar.
+polaire | polar, kutuplu | sıfat | La molécule d'eau est polaire. | Su molekülü polardır.
+apolaire | apolar, kutupsuz | sıfat | L'huile est un solvant apolaire. | Yağ apolar bir çözücüdür.
+// Karışımlar ve bileşenleri
+le constituant | bileşen | eril | L'azote est le principal constituant de l'air. | Azot havanın ana bileşenidir.
+la composition | bileşim | dişil | On analyse la composition de l'eau minérale. | Maden suyunun bileşimi analiz ediliyor.
+la phase | faz | dişil | Ce mélange présente deux phases. | Bu karışımda iki faz vardır.
+miscible | karışabilen | sıfat | L'eau et l'alcool sont miscibles. | Su ve alkol birbiriyle karışabilir.
+non miscible | karışmayan | sıfat | L'huile est non miscible avec l'eau. | Yağ suyla karışmaz.
+l'émulsion | emülsiyon | dişil | La mayonnaise est une émulsion. | Mayonez bir emülsiyondur.
+la suspension | süspansiyon | dişil | Le jus d'orange avec pulpe est une suspension. | Posalı portakal suyu bir süspansiyondur.
+le colloïde | koloit | eril | Le lait est un colloïde. | Süt bir koloittir.
+l'alliage | alaşım | eril | Le bronze est un alliage de cuivre et d'étain. | Bronz, bakır ve kalay alaşımıdır.
+l'impureté | safsızlık | dişil | Cet échantillon contient des impuretés. | Bu numune safsızlıklar içeriyor.
+la teneur | içerik oranı | dişil | La teneur en sel de cette eau est faible. | Bu suyun tuz oranı düşük.
+le pourcentage massique | kütlece yüzde | eril | Le pourcentage massique du sucre est de dix pour cent. | Şekerin kütlece yüzdesi yüzde on.
+opaque | opak, ışık geçirmez | sıfat | Ce mélange est opaque : la lumière ne passe pas. | Bu karışım opak: ışık geçmiyor.
+limpide | berrak | sıfat | Après filtration, le liquide est limpide. | Süzmeden sonra sıvı berraktır.
+// Ayırma yöntemleri
+le filtrat | süzüntü | eril | Le filtrat est recueilli dans l'erlenmeyer. | Süzüntü erlenmayerde toplanır.
+le résidu | kalıntı | eril | Le résidu reste sur le papier filtre. | Kalıntı süzgeç kâğıdında kalır.
+le distillat | damıtık | eril | Le distillat est récupéré après refroidissement. | Damıtık soğutulduktan sonra toplanır.
+l'ampoule à décanter | ayırma hunisi | dişil | On sépare l'eau et l'huile avec une ampoule à décanter. | Su ile yağ ayırma hunisiyle ayrılır.
+le réfrigérant | soğutucu (geri soğutucu) | eril | La vapeur se condense dans le réfrigérant. | Buhar soğutucuda yoğuşur.
+l'évaporation | buharlaştırma, buharlaşma | dişil | On récupère le sel par évaporation de l'eau. | Tuz, suyun buharlaştırılmasıyla elde edilir.
+la cristallisation | kristallendirme | dişil | La cristallisation permet d'obtenir un solide pur. | Kristallendirme saf bir katı elde etmeyi sağlar.
+la chromatographie | kromatografi | dişil | La chromatographie sépare les pigments d'une encre. | Kromatografi bir mürekkebin pigmentlerini ayırır.
+l'extraction | özütleme, ekstraksiyon | dişil | L'extraction permet de récupérer un arôme. | Özütleme bir aromayı elde etmeyi sağlar.
+la centrifugation | santrifüjleme | dişil | La centrifugation sépare le sang en plusieurs phases. | Santrifüjleme kanı birkaç faza ayırır.
+le tamisage | eleme | eril | Le tamisage sépare le sable des cailloux. | Eleme kumu çakıllardan ayırır.
+la séparation magnétique | manyetik ayırma | dişil | La séparation magnétique isole la limaille de fer. | Manyetik ayırma demir tozunu ayırır.
+purifier | saflaştırmak | fiil | On purifie l'eau avant de la boire. | Su içilmeden önce saflaştırılır.
+décanter | çöktürmek, durultmak | fiil | Laissez décanter le mélange pendant une heure. | Karışımı bir saat durulmaya bırakın.
+distiller | damıtmak | fiil | On distille le vin pour obtenir de l'alcool. | Alkol elde etmek için şarap damıtılır.
+récupérer | geri kazanmak, toplamak | fiil | On récupère le solide sur le filtre. | Katı süzgeçten toplanır.
+homogénéiser | homojenleştirmek | fiil | Agitez pour homogénéiser la solution. | Çözeltiyi homojenleştirmek için çalkalayın.
+l'agitateur magnétique | manyetik karıştırıcı | eril | L'agitateur magnétique mélange la solution en continu. | Manyetik karıştırıcı çözeltiyi sürekli karıştırır.
+le verre de montre | saat camı | eril | Déposez les cristaux sur un verre de montre. | Kristalleri bir saat camının üzerine koyun.
